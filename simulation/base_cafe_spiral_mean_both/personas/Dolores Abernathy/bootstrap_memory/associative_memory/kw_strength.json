@@ -1,2 +1,35 @@
-{"kw_strength_event": {},
- "kw_strength_thought": {}}
+{
+  "kw_strength_thought": {
+    "bernard lowe": 1,
+    "bernard lowe demanded the espresso machine be ready in two minutes and threatened to dock her pay if the store was late opening again": 1,
+    "dolores abernathy": 4,
+    "found noteworthy": 1,
+    "needs to remember to finish and have ready": 1,
+    "noted": 1,
+    "plan": 1,
+    "register count and espresso machine": 2,
+    "remembering": 1
+  },
+  "kw_strength_event": {
+    "bed": 5,
+    "behind the cafe counter": 5,
+    "bernard lowe": 8,
+    "breakfast dishes": 1,
+    "cafe counter": 1,
+    "cafe customer seating": 1,
+    "cafe door": 1,
+    "closet": 2,
+    "cooking area": 3,
+    "daily schedule": 1,
+    "desk": 1,
+    "dolores abernathy": 20,
+    "espresso machine": 1,
+    "hobbs cafe": 6,
+    "menu boards": 2,
+    "milk pitchers": 1,
+    "morning routine": 3,
+    "none": 16,
+    "register": 1,
+    "steam wand": 1
+  }
+}

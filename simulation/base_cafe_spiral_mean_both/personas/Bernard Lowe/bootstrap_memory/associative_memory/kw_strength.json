@@ -1,2 +1,37 @@
-{"kw_strength_event": {},
- "kw_strength_thought": {}}
+{
+  "kw_strength_thought": {
+    "bernard lowe": 3,
+    "checking": 2,
+    "dolores": 1,
+    "dolores abernathy": 1,
+    "found noteworthy": 1,
+    "inventory": 1,
+    "inventory in the back": 1,
+    "plan": 1,
+    "register": 1,
+    "staring": 1
+  },
+  "kw_strength_event": {
+    "bathroom sink": 1,
+    "bed": 1,
+    "behind the cafe counter": 5,
+    "bernard lowe": 15,
+    "cafe counter": 1,
+    "cafe customer seating": 2,
+    "closet": 2,
+    "cooking area": 2,
+    "daily schedule": 1,
+    "dolores abernathy": 12,
+    "espresso machine": 1,
+    "face": 1,
+    "hair": 1,
+    "hobbs cafe": 7,
+    "menu boards": 2,
+    "milk pitchers": 1,
+    "morning routine": 2,
+    "none": 15,
+    "register": 1,
+    "shower": 2,
+    "steam wand": 1
+  }
+}

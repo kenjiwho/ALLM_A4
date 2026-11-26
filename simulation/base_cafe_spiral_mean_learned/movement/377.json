@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe and opening the cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        124,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "waiting for Dolores to grab her work bag before walking together to Hobbs Cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Oh, hi Dolores! I just saw you. I'm just warming up the kitchen. Are you ready to head to Hobbs Cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve! Yes, I'm just finishing up. I think I'm ready to head out soon. Are you almost done?"
+        ],
+        [
+          "Maeve Millay",
+          "Just about! I'm finishing up my coffee. I think we can walk together if you're not in a rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds good. I was hoping to walk with you. I just need to grab my work bag and I'll be right with you."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll be right here. Let me just finish this last sip and put the kettle away."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll be right there. Thanks for waiting."
+        ],
+        [
+          "Maeve Millay",
+          "No problem at all. I'll be right here by the door. Let me just finish this last sip and put the kettle away."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve. I'll be right there in a minute."
+        ],
+        [
+          "Maeve Millay",
+          "No problem at all. I'll be right here by the door. Let me just finish this last sip and put the kettle away."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just grabbing my work bag now. I'll be out in a second. Thanks for waiting."
+        ],
+        [
+          "Maeve Millay",
+          "No problem at all. I'll be right here by the door. Let me just finish this last sip and put the kettle away."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        125,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "waiting for Dolores to grab her work bag before walking together to Hobbs Cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Oh, hi Dolores! I just saw you. I'm just warming up the kitchen. Are you ready to head to Hobbs Cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve! Yes, I'm just finishing up. I think I'm ready to head out soon. Are you almost done?"
+        ],
+        [
+          "Maeve Millay",
+          "Just about! I'm finishing up my coffee. I think we can walk together if you're not in a rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds good. I was hoping to walk with you. I just need to grab my work bag and I'll be right with you."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll be right here. Let me just finish this last sip and put the kettle away."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll be right there. Thanks for waiting."
+        ],
+        [
+          "Maeve Millay",
+          "No problem at all. I'll be right here by the door. Let me just finish this last sip and put the kettle away."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve. I'll be right there in a minute."
+        ],
+        [
+          "Maeve Millay",
+          "No problem at all. I'll be right here by the door. Let me just finish this last sip and put the kettle away."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just grabbing my work bag now. I'll be out in a second. Thanks for waiting."
+        ],
+        [
+          "Maeve Millay",
+          "No problem at all. I'll be right here by the door. Let me just finish this last sip and put the kettle away."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:01:50"
+  }
+}

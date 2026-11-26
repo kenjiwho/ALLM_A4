@@ -1,0 +1,84 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being rushed by a demanding manager to check the register and prep the espresso machine before an inventory check @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores! You're still on the menu boards? I need the register checked and the espresso machine prepped. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm just finishing up here. I'll have the register checked and the espresso machine steaming in a couple of minutes."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me 'a couple of minutes.' I need that register count now. I'll check the inventory in the back while you get the espresso machine ready. Move it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get right on the register count and have the espresso machine steaming in two minutes."
+        ],
+        [
+          "Bernard Lowe",
+          "Two minutes? That's not fast enough. I'm going to the back to check inventory. If I see you still fiddling with that machine when I get back, you're in trouble. Go!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get it done right away."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being rushed by a demanding manager to check the register and prep the espresso machine before an inventory check @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores! You're still on the menu boards? I need the register checked and the espresso machine prepped. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm just finishing up here. I'll have the register checked and the espresso machine steaming in a couple of minutes."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me 'a couple of minutes.' I need that register count now. I'll check the inventory in the back while you get the espresso machine ready. Move it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get right on the register count and have the espresso machine steaming in two minutes."
+        ],
+        [
+          "Bernard Lowe",
+          "Two minutes? That's not fast enough. I'm going to the back to check inventory. If I see you still fiddling with that machine when I get back, you're in trouble. Go!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get it done right away."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        123,
+        47
+      ],
+      "pronunciato": "☕",
+      "description": "having breakfast (brewing coffee) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:33:30"
+  }
+}

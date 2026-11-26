@@ -2,8 +2,11 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": null,
-  "curr_tile": null,
+  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_tile": [
+    82,
+    21
+  ],
   "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
   "name": "Bernard Lowe",
   "first_name": "Bernard",
@@ -14,39 +17,378 @@
   "currently": "Bernard is heading to the cafe to open up for the day.",
   "lifestyle": "Bernard Lowe wakes up around 7am, walks to Hobbs cafe, where he works from 8am to 4pm. He comes home and eats dinner around 8pm, goes to bed around 11pm.",
   "living_area": "the Ville:Bernard Lowe's apartment:main room",
-  "concept_forget": 100,
-  "daily_reflection_time": 180,
-  "daily_reflection_size": 5,
-  "overlap_reflect_th": 4,
-  "kw_strg_event_reflect_th": 10,
-  "kw_strg_thought_reflect_th": 9,
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
   "recency_w": 1,
   "relevance_w": 1,
   "importance_w": 1,
   "valence_w": 0,
-  "recency_decay": 0.99,
   "asymetric_encoding": false,
-  "negativity_bias": 1.0,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 75,
-  "importance_ele_n": 0,
-  "thought_count": 5,
-  "daily_req": [],
-  "f_daily_schedule": [],
-  "f_daily_schedule_hourly_org": [],
-  "act_address": null,
-  "act_start_time": null,
-  "act_duration": null,
-  "act_description": null,
-  "act_pronunciatio": null,
-  "act_event": ["Bernard Lowe", null, null],
-  "act_obj_description": null,
-  "act_obj_pronunciatio": null,
-  "act_obj_event": [null, null, null],
+  "importance_trigger_curr": 16,
+  "importance_ele_n": 40,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe at 8:00am",
+    "open Hobbs Cafe and manage baristas from 8:00am to 4:00pm",
+    "come home at 5:00pm",
+    "have dinner at 8:00pm",
+    "go to bed at 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine (turning off the alarm)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (washing face)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (brushing teeth)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (showering)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (drying off)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (combing hair)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (putting on shoes)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (gathering walking essentials)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (putting on walking shoes)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (putting on a warm jacket)",
+      1
+    ],
+    [
+      "being pressured by a demanding manager to quickly complete opening tasks, including checking the register and prepping the espresso machine, before the store opens",
+      1
+    ],
+    [
+      "walking to Hobbs Cafe (putting on a warm jacket)",
+      4
+    ],
+    [
+      "walking to Hobbs Cafe (checking the weather forecast)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (locking the front door)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (walking to the main street)",
+      7
+    ],
+    [
+      "being rushed by a demanding manager to check the register and prep the espresso machine before an inventory check",
+      1
+    ],
+    [
+      "walking to Hobbs Cafe (walking to the main street)",
+      3
+    ],
+    [
+      "walking to Hobbs Cafe (crossing the busy intersection)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (walking along the cafe district)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at Hobbs Cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (unlocking the cafe entrance)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (turning on the main lights)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (checking the security system)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (unlocking the storage room)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (checking inventory supplies)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (stocking the espresso machine)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (warming up the coffee equipment)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (checking the pastry display)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (wiping down the counters)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (cleaning the seating area)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (setting up the register)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (counting the cash drawer)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (reviewing the daily sales goals)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (conducting the morning staff briefing)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (assigning barista shifts)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (checking employee uniforms)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (monitoring the morning rush)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (correcting barista mistakes)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (restocking the coffee beans)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (checking the milk supply)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (managing the lunchtime crowd)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (handling customer complaints)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (reviewing the point of sales)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (checking the food quality)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (supervising the afternoon shift)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (reorganizing the supply shelves)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (updating the inventory list)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (coaching the junior baristas)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (monitoring the espresso machine)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (wiping the tables)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (emptying the trash bins)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (reviewing the daily operations)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (checking the cleaning schedule)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (preparing the closing checklist)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (counting the final cash drawer)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (balancing the register)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (securing the back door)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (turning off the equipment)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (locking the front door)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (setting the alarm)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (leaving the cafe)",
+      3
+    ],
+    [
+      "closing the cafe",
+      60
+    ],
+    [
+      "coming home",
+      60
+    ],
+    [
+      "relaxing at home",
+      120
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "relaxing at home",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas",
+      420
+    ],
+    [
+      "closing the cafe",
+      60
+    ],
+    [
+      "coming home",
+      60
+    ],
+    [
+      "relaxing at home",
+      120
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "relaxing at home",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 08:38:00",
+  "act_duration": 10,
+  "act_description": "walking to Hobbs Cafe (crossing the busy intersection)",
+  "act_pronunciatio": "🚶‍♂️☕",
+  "act_event": [
+    "Bernard Lowe",
+    "walking",
+    "Hobbs Cafe"
+  ],
+  "act_obj_description": "unoccupied",
+  "act_obj_pronunciatio": "🚫",
+  "act_obj_event": [
+    "cafe customer seating",
+    "is unoccupied",
+    "None"
+  ],
   "chatting_with": null,
   "chat": null,
-  "chatting_with_buffer": {},
+  "chatting_with_buffer": {
+    "Dolores Abernathy": 79
+  },
   "chatting_end_time": null,
-  "act_path_set": false,
-  "planned_path": []
+  "act_path_set": true,
+  "planned_path": null
 }

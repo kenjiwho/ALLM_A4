@@ -1,2 +1,26 @@
-{"kw_strength_event": {},
- "kw_strength_thought": {}}
+{
+  "kw_strength_thought": {
+    "plan": 1
+  },
+  "kw_strength_event": {
+    "alarm": 1,
+    "bed": 9,
+    "bread": 1,
+    "breakfast": 1,
+    "closet": 3,
+    "coffee": 1,
+    "cooking area": 3,
+    "curtains": 1,
+    "face": 1,
+    "hair": 1,
+    "kitchen sink": 1,
+    "maeve millay": 12,
+    "morning routine": 2,
+    "none": 16,
+    "refrigerator": 1,
+    "shoes": 1,
+    "teeth": 1,
+    "toaster": 1,
+    "work bag": 1
+  }
+}

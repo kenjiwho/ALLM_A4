@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being pressured by a demanding manager to quickly complete opening tasks, including checking the register and prepping the espresso machine, before the store opens @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores. What is that? You're standing there staring at the register like it's going to solve your problems. I've been walking here for twenty minutes and the place isn't even open yet. Get your hands moving and check the till. I want to know exactly where we stand before the first customer walks in. Don't make me repeat myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I was just double-checking the opening count. I'll finish the register check right now. Is there anything else you need me to do before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Don't ask me what I need. You should know what needs doing. I want that count on my desk in five minutes, and I want the espresso machine prepped. If we're late opening again, I'm docking your pay. Get to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get the count to your desk and prep the espresso machine right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. I want to see that machine steaming in two minutes, not five. If it's not ready, you're the one explaining it to the customers. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. I'll be in the back checking the inventory. If that machine isn't ready in two minutes, don't bother coming to get me. I'll come out myself and handle it."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being pressured by a demanding manager to quickly complete opening tasks, including checking the register and prepping the espresso machine, before the store opens @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores. What is that? You're standing there staring at the register like it's going to solve your problems. I've been walking here for twenty minutes and the place isn't even open yet. Get your hands moving and check the till. I want to know exactly where we stand before the first customer walks in. Don't make me repeat myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I was just double-checking the opening count. I'll finish the register check right now. Is there anything else you need me to do before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Don't ask me what I need. You should know what needs doing. I want that count on my desk in five minutes, and I want the espresso machine prepped. If we're late opening again, I'm docking your pay. Get to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get the count to your desk and prep the espresso machine right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. I want to see that machine steaming in two minutes, not five. If it's not ready, you're the one explaining it to the customers. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. I'll be in the back checking the inventory. If that machine isn't ready in two minutes, don't bother coming to get me. I'll come out myself and handle it."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "🥣🔍",
+      "description": "having breakfast (checking the pantry for ingredients) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:12:20"
+  }
+}
