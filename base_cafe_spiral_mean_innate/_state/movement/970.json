@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being sternly reprimanded by his supervisor for prioritizing the espresso machine over a crooked croissant in the pastry case, with repeated threats of disciplinary action if the display is not made flawless before opening @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I'm just finishing up stocking the pastry case as you requested. Should I check the espresso machine pressure gauge next, or is there something else you need me to prioritize?"
+        ],
+        [
+          "Bernard Lowe",
+          "Don't you dare touch that pressure gauge until the pastry case is perfect. I see that croissant in the back row is still crooked. Fix it. Now. I am not leaving this spot until it is flawless, and I expect you to be ready for the first customer the second they walk in. Do not make me repeat myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry about the croissant. I'll straighten it right away and make sure the case is exactly how you want it before I touch the machine."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there looking at me. Move. If that croissant isn't straight and the case isn't spotless before the doors open, I'm writing you up. I'm watching you."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving it now. I'll have the case spotless before the doors open."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there looking at me. Move. If that croissant isn't straight and the case isn't spotless before the doors open, I'm writing you up. I'm watching you."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving it now. I'll have the case spotless before the doors open."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your promises, Dolores. I care about results. Keep your eyes on that croissant. If I catch you looking at the espresso machine before that case is perfect, you're done. Now get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it. I won't touch the machine until the case is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your promises, Dolores. I care about results. Keep your eyes on that croissant. If I catch you looking at the espresso machine before that case is perfect, you're done. Now get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it. I won't touch the machine until the case is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. I'm watching you. Don't make me repeat myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am focusing on the case now."
+        ],
+        [
+          "Bernard Lowe",
+          "Keep your eyes on that case. I'm not leaving until it's perfect."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am focusing on the case now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your promises, Dolores. I care about results. Keep your eyes on that croissant. If I catch you looking at the espresso machine before that case is perfect, you're done. Now get to work."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being sternly reprimanded by his supervisor for prioritizing the espresso machine over a crooked croissant in the pastry case, with repeated threats of disciplinary action if the display is not made flawless before opening @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I'm just finishing up stocking the pastry case as you requested. Should I check the espresso machine pressure gauge next, or is there something else you need me to prioritize?"
+        ],
+        [
+          "Bernard Lowe",
+          "Don't you dare touch that pressure gauge until the pastry case is perfect. I see that croissant in the back row is still crooked. Fix it. Now. I am not leaving this spot until it is flawless, and I expect you to be ready for the first customer the second they walk in. Do not make me repeat myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry about the croissant. I'll straighten it right away and make sure the case is exactly how you want it before I touch the machine."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there looking at me. Move. If that croissant isn't straight and the case isn't spotless before the doors open, I'm writing you up. I'm watching you."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving it now. I'll have the case spotless before the doors open."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there looking at me. Move. If that croissant isn't straight and the case isn't spotless before the doors open, I'm writing you up. I'm watching you."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving it now. I'll have the case spotless before the doors open."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your promises, Dolores. I care about results. Keep your eyes on that croissant. If I catch you looking at the espresso machine before that case is perfect, you're done. Now get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it. I won't touch the machine until the case is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your promises, Dolores. I care about results. Keep your eyes on that croissant. If I catch you looking at the espresso machine before that case is perfect, you're done. Now get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it. I won't touch the machine until the case is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. I'm watching you. Don't make me repeat myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am focusing on the case now."
+        ],
+        [
+          "Bernard Lowe",
+          "Keep your eyes on that case. I'm not leaving until it's perfect."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am focusing on the case now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about your promises, Dolores. I care about results. Keep your eyes on that croissant. If I catch you looking at the espresso machine before that case is perfect, you're done. Now get to work."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "🥐",
+      "description": "working at Hobbs Cafe (prepping the pastry display) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:40:40"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "☕👨‍💼",
+      "description": "managing the cafe and monitoring the baristas (addressing customer complaints) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "checking croissant alignment and espresso pressure before Bernard's inspection @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. I've already checked the espresso pressure and it's holding at nine bars. I'm just finishing up the pastry display now. Can you double-check the alignment on the second shelf before Bernard does his walkthrough?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll check the second shelf right now. I want to make sure the croissant is perfectly aligned and the case is spotless before Bernard gets here. I'm a bit nervous about the inspection, but I think we're ready."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. That helps. I'll do one last check on the pastry case and make sure the espresso machine is clean. Let's just keep the checklist in mind so we don't miss anything before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Maeve. I'm checking the second shelf now. The croissant is straight, and the case is spotless. I'll stay here until Bernard gives us the all-clear, just in case he notices anything else."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, that's good. I'll finish up the espresso machine and then we can do a final walk-through of the counter together. I just want to make sure everything is in order before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Maeve. I'll wait right here by the counter so I can do the final walk-through with you as soon as you're done. I just want to make sure the croissant and the espresso pressure are exactly right before Bernard starts his inspection."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'm almost done with the espresso machine. Let's do the final walk-through of the counter together now, just to be absolutely sure everything is in order before Bernard gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Maeve. I'm right here at the counter. Let's check the croissant alignment and the espresso pressure one last time together. I just want to make sure everything is exactly right before Bernard starts his inspection."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, let's do it. First, check the croissant alignment on the second shelf. Then, check the espresso pressure gauge to make sure it's at nine bars. Once we confirm both, we can stand by for Bernard's inspection."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'm checking the croissant alignment on the second shelf now. It looks straight to me. I'm looking at the espresso pressure gauge, and it is at nine bars. I think we are ready for Bernard's inspection."
+        ],
+        [
+          "Maeve Millay",
+          "Great. Everything looks perfect. Let's just stay calm and ready for Bernard's inspection."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "checking croissant alignment and espresso pressure before Bernard's inspection @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. I've already checked the espresso pressure and it's holding at nine bars. I'm just finishing up the pastry display now. Can you double-check the alignment on the second shelf before Bernard does his walkthrough?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll check the second shelf right now. I want to make sure the croissant is perfectly aligned and the case is spotless before Bernard gets here. I'm a bit nervous about the inspection, but I think we're ready."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. That helps. I'll do one last check on the pastry case and make sure the espresso machine is clean. Let's just keep the checklist in mind so we don't miss anything before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Maeve. I'm checking the second shelf now. The croissant is straight, and the case is spotless. I'll stay here until Bernard gives us the all-clear, just in case he notices anything else."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, that's good. I'll finish up the espresso machine and then we can do a final walk-through of the counter together. I just want to make sure everything is in order before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Maeve. I'll wait right here by the counter so I can do the final walk-through with you as soon as you're done. I just want to make sure the croissant and the espresso pressure are exactly right before Bernard starts his inspection."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'm almost done with the espresso machine. Let's do the final walk-through of the counter together now, just to be absolutely sure everything is in order before Bernard gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, Maeve. I'm right here at the counter. Let's check the croissant alignment and the espresso pressure one last time together. I just want to make sure everything is exactly right before Bernard starts his inspection."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, let's do it. First, check the croissant alignment on the second shelf. Then, check the espresso pressure gauge to make sure it's at nine bars. Once we confirm both, we can stand by for Bernard's inspection."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'm checking the croissant alignment on the second shelf now. It looks straight to me. I'm looking at the espresso pressure gauge, and it is at nine bars. I think we are ready for Bernard's inspection."
+        ],
+        [
+          "Maeve Millay",
+          "Great. Everything looks perfect. Let's just stay calm and ready for Bernard's inspection."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:19:30"
+  }
+}

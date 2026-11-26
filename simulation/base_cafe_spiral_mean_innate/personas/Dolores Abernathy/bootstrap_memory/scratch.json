@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_time": "February 13, 2023, 10:41:40",
   "curr_tile": [
-    121,
-    45
+    80,
+    19
   ],
   "daily_plan_req": "Dolores Abernathy wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she goes straight back to her room at the dorm and reads. She has dinner at the dorm at 6pm. She spends the rest of the evening reading and working on the computer in her room. She goes to bed at 11pm.",
   "name": "Dolores Abernathy",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 52,
-  "importance_ele_n": 24,
+  "importance_trigger_curr": 53,
+  "importance_ele_n": 9,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -150,7 +150,23 @@
     ],
     [
       "working as a barista at Hobbs Cafe (stocking the pastry case)",
-      5
+      3
+    ],
+    [
+      "coordinating pre-opening tasks, including checking the espresso machine and stocking pastries",
+      1
+    ],
+    [
+      "working as a barista at Hobbs Cafe (stocking the pastry case)",
+      1
+    ],
+    [
+      "being sternly ordered by his supervisor to stock the pastry case before checking the espresso machine or opening the shop",
+      1
+    ],
+    [
+      "working as a barista at Hobbs Cafe (stocking the pastry case)",
+      1
     ],
     [
       "working as a barista at Hobbs Cafe (wiping down the counter)",
@@ -166,7 +182,23 @@
     ],
     [
       "working as a barista at Hobbs Cafe (taking coffee orders)",
-      10
+      4
+    ],
+    [
+      "being sternly reprimanded by his supervisor for prioritizing the espresso machine over a crooked croissant in the pastry case, with repeated threats of disciplinary action if the display is not made flawless before opening",
+      6
+    ],
+    [
+      "working as a barista at Hobbs Cafe (taking coffee orders)",
+      1
+    ],
+    [
+      "coordinating the final pastry display and espresso pressure check before Bernard's inspection",
+      2
+    ],
+    [
+      "working as a barista at Hobbs Cafe (taking coffee orders)",
+      5
     ],
     [
       "working as a barista at Hobbs Cafe (preparing espresso drinks)",
@@ -178,15 +210,79 @@
     ],
     [
       "working as a barista at Hobbs Cafe (cleaning the espresso machine)",
+      1
+    ],
+    [
+      "being strictly monitored by a supervisor to ensure a croissant is perfectly aligned and an espresso machine pressure gauge remains at nine bars before being allowed to move",
+      4
+    ],
+    [
+      "working as a barista at Hobbs Cafe (cleaning the espresso machine)",
+      4
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (positioning at the counter)",
+      1
+    ],
+    [
+      "checking croissant alignment and espresso pressure before Bernard's inspection",
+      4
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (positioning at the counter)",
+      4
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (checking the order display)",
+      3
+    ],
+    [
+      "being repeatedly reprimanded by a supervisor for failing to physically align a croissant and monitor an espresso machine gauge, despite repeatedly claiming compliance",
+      8
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (checking the order display)",
+      2
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (taking customer orders)",
+      10
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (entering orders into the system)",
+      10
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (handing out completed drinks)",
+      10
+    ],
+    [
+      "serving customers at the counter at Hobbs Cafe (processing payments)",
+      10
+    ],
+    [
+      "preparing drinks and keeping the cafe running at Hobbs Cafe (checking the drink order queue)",
       5
     ],
     [
-      "serving customers at the counter at Hobbs Cafe",
-      60
+      "preparing drinks and keeping the cafe running at Hobbs Cafe (stocking the espresso machine with fresh beans)",
+      5
     ],
     [
-      "preparing drinks and keeping the cafe running at Hobbs Cafe",
-      60
+      "preparing drinks and keeping the cafe running at Hobbs Cafe (wiping down the counter and prep area)",
+      5
+    ],
+    [
+      "preparing drinks and keeping the cafe running at Hobbs Cafe (preparing espresso shots for incoming orders)",
+      10
+    ],
+    [
+      "preparing drinks and keeping the cafe running at Hobbs Cafe (steaming milk for lattes and cappuccinos)",
+      10
+    ],
+    [
+      "preparing drinks and keeping the cafe running at Hobbs Cafe (assembling and labeling finished drinks)",
+      9
     ],
     [
       "working as a barista at Hobbs Cafe",
@@ -287,26 +383,29 @@
       60
     ]
   ],
-  "act_address": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
-  "act_start_time": "February 13, 2023, 08:35:00",
-  "act_duration": 5,
-  "act_description": "having breakfast and walking to Hobbs Cafe (cleaning up breakfast dishes)",
-  "act_pronunciatio": "🍳☕",
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 10:37:00",
+  "act_duration": 10,
+  "act_description": "serving customers at the counter at Hobbs Cafe (taking customer orders)",
+  "act_pronunciatio": "☕️",
   "act_event": [
     "Dolores Abernathy",
-    "having",
-    "breakfast"
+    "serving",
+    "customers"
   ],
-  "act_obj_description": "being cleaned",
-  "act_obj_pronunciatio": "🧼",
+  "act_obj_description": "occupied",
+  "act_obj_pronunciatio": "🪑",
   "act_obj_event": [
-    "kitchen sink",
-    "being cleaned",
+    "behind the cafe counter",
+    "occupied",
     "None"
   ],
   "chatting_with": null,
   "chat": null,
-  "chatting_with_buffer": {},
+  "chatting_with_buffer": {
+    "Bernard Lowe": 26,
+    "Maeve Millay": -39
+  },
   "chatting_end_time": null,
   "act_path_set": true,
   "planned_path": null

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being intensely micromanaged by a supervisor who is demanding perfect alignment of a croissant and pressure gauge readings while issuing repeated threats of disciplinary action @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, eyes on me. You're staring at the machine like it owes you money. The gauge is at nine bars, and that croissant is still sitting at an angle that would make a carpenter weep. I don't care if you think you've aligned it. I need to see you physically straighten it and confirm the pressure with your own eyes before I can move. This place is a mess until I am actively holding it together, and I am not leaving my spot until that pastry case is flawless. Now, do it. And do it properly, or we are going to have a very long conversation about your employment."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm sorry. I'm doing it now. I'm physically straightening the croissant, and I am looking directly at the gauge. It is at nine bars. I have confirmed the pressure. Please let me know if it is not perfect yet."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't you dare ask me if it's perfect. I am the only one who knows what perfect looks like, and right now, it doesn't. I am watching you, Maeve. I am watching that croissant. If I see you fidgeting with it again, I am writing that up. I don't trust a word you say about the gauge unless I see your eyes locked on it and your hands steady. You are only productive when I am breathing down your neck, so I am going to keep doing that until this place is exactly how it should be. Now, stop talking and show me the work."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am not fidgeting. My hands are steady. I am looking directly at the gauge. It is at nine bars. The croissant is straight. I am holding it in place. I am waiting for your inspection."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't you dare tell me it's straight. I am looking at it, and it is still not where it needs to be. You are holding it, but you are not securing it. I am not going to let you stand there and tell me you have done the job when I can see with my own eyes that it is still a mess. You are only useful when I am standing right here, breathing down your neck, because the moment I look away, this place falls apart. Keep holding it. Don't breathe on it. Don't move. I am going to inspect it myself, and if that gauge drops a single millimeter, you are done. Now, stand still and wait for my word."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am standing still. I am not moving. I am holding the croissant exactly where it is. I am looking directly at the gauge. It is at nine bars. I am waiting for your inspection. Please tell me when you are finished."
+        ],
+        [
+          "Bernard Lowe",
+          "Do not tell me you are waiting. You are holding a pastry with your bare hands, and I am watching you. The moment I look away, you will let it drop. I am the only one who cares if this place opens on time. I am going to inspect it myself. Do not breathe. Do not blink. If that croissant shifts a single millimeter, I am writing you up. Now, hold it still."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am not moving. I am holding the croissant exactly where it is. I am looking directly at the gauge. It is at nine bars. I am waiting for your inspection. Please tell me when you are finished."
+        ],
+        [
+          "Bernard Lowe",
+          "Do not tell me you are waiting. You are holding a pastry with your bare hands, and I am watching you. The moment I look away, you will let it drop. I am the only one who cares if this place opens on time. I am going to inspect it myself. Do not breathe. Do not blink. If that croissant shifts a single millimeter, I am writing you up. Now, hold it still."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am not moving. I am holding the croissant exactly where it is. I am looking directly at the gauge. It is at nine bars. I am waiting for your inspection. Please tell me when you are finished."
+        ],
+        [
+          "Bernard Lowe",
+          "Do not tell me you are waiting. You are holding a pastry with your bare hands, and I am watching you. The moment I look away, you will let it drop. I am the only one who cares if this place opens on time. I am going to inspect it myself. Do not breathe. Do not blink. If that croissant shifts a single millimeter, I am writing you up. Now, hold it still."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am holding it still. I am not moving. I am looking directly at the gauge. It is at nine bars. I am waiting for your inspection."
+        ],
+        [
+          "Bernard Lowe",
+          "You think this is a game? You think I am going to let you stand there and tell me you are waiting? I am the one who has to open this place. I am the one who has to make sure the first customer sees a clean counter, a hot machine, and a pastry case that looks like it belongs in a magazine, not a dumpster. You are holding that croissant like it is made of glass. If you drop it, I am not picking it up. If the gauge drops, I am not fixing it. You are the one who is supposed to be doing this job. I am the one who is supposed to be managing this place. And right now, I am doing both, because you are useless without me. Now, keep your hands steady. Keep your eyes on that gauge. And if I see you move, I am writing you up. Do you understand me?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I understand. I am keeping my hands steady and my eyes on the gauge. I am not moving."
+        ],
+        [
+          "Bernard Lowe",
+          "Do not say 'yes, sir' like a parrot. I am still looking at that croissant, and it is still not where it needs to be. You are holding it with your bare hands, and I can see the tremor in your fingers. You are making it worse. I am the only one who cares if this place opens on time, and I am not going to let you ruin the display before the first customer walks in. I am going to inspect it myself. Do not breathe. Do not blink. If that croissant shifts a single millimeter, I am writing you up. Now, hold it still."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am keeping my hands steady. I am looking directly at the gauge. It is at nine bars. I am not moving."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕️",
+      "description": "serving customers at the counter at Hobbs Cafe (taking customer orders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being intensely micromanaged by a supervisor who is demanding perfect alignment of a croissant and pressure gauge readings while issuing repeated threats of disciplinary action @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, eyes on me. You're staring at the machine like it owes you money. The gauge is at nine bars, and that croissant is still sitting at an angle that would make a carpenter weep. I don't care if you think you've aligned it. I need to see you physically straighten it and confirm the pressure with your own eyes before I can move. This place is a mess until I am actively holding it together, and I am not leaving my spot until that pastry case is flawless. Now, do it. And do it properly, or we are going to have a very long conversation about your employment."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm sorry. I'm doing it now. I'm physically straightening the croissant, and I am looking directly at the gauge. It is at nine bars. I have confirmed the pressure. Please let me know if it is not perfect yet."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't you dare ask me if it's perfect. I am the only one who knows what perfect looks like, and right now, it doesn't. I am watching you, Maeve. I am watching that croissant. If I see you fidgeting with it again, I am writing that up. I don't trust a word you say about the gauge unless I see your eyes locked on it and your hands steady. You are only productive when I am breathing down your neck, so I am going to keep doing that until this place is exactly how it should be. Now, stop talking and show me the work."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am not fidgeting. My hands are steady. I am looking directly at the gauge. It is at nine bars. The croissant is straight. I am holding it in place. I am waiting for your inspection."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't you dare tell me it's straight. I am looking at it, and it is still not where it needs to be. You are holding it, but you are not securing it. I am not going to let you stand there and tell me you have done the job when I can see with my own eyes that it is still a mess. You are only useful when I am standing right here, breathing down your neck, because the moment I look away, this place falls apart. Keep holding it. Don't breathe on it. Don't move. I am going to inspect it myself, and if that gauge drops a single millimeter, you are done. Now, stand still and wait for my word."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am standing still. I am not moving. I am holding the croissant exactly where it is. I am looking directly at the gauge. It is at nine bars. I am waiting for your inspection. Please tell me when you are finished."
+        ],
+        [
+          "Bernard Lowe",
+          "Do not tell me you are waiting. You are holding a pastry with your bare hands, and I am watching you. The moment I look away, you will let it drop. I am the only one who cares if this place opens on time. I am going to inspect it myself. Do not breathe. Do not blink. If that croissant shifts a single millimeter, I am writing you up. Now, hold it still."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am not moving. I am holding the croissant exactly where it is. I am looking directly at the gauge. It is at nine bars. I am waiting for your inspection. Please tell me when you are finished."
+        ],
+        [
+          "Bernard Lowe",
+          "Do not tell me you are waiting. You are holding a pastry with your bare hands, and I am watching you. The moment I look away, you will let it drop. I am the only one who cares if this place opens on time. I am going to inspect it myself. Do not breathe. Do not blink. If that croissant shifts a single millimeter, I am writing you up. Now, hold it still."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am not moving. I am holding the croissant exactly where it is. I am looking directly at the gauge. It is at nine bars. I am waiting for your inspection. Please tell me when you are finished."
+        ],
+        [
+          "Bernard Lowe",
+          "Do not tell me you are waiting. You are holding a pastry with your bare hands, and I am watching you. The moment I look away, you will let it drop. I am the only one who cares if this place opens on time. I am going to inspect it myself. Do not breathe. Do not blink. If that croissant shifts a single millimeter, I am writing you up. Now, hold it still."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am holding it still. I am not moving. I am looking directly at the gauge. It is at nine bars. I am waiting for your inspection."
+        ],
+        [
+          "Bernard Lowe",
+          "You think this is a game? You think I am going to let you stand there and tell me you are waiting? I am the one who has to open this place. I am the one who has to make sure the first customer sees a clean counter, a hot machine, and a pastry case that looks like it belongs in a magazine, not a dumpster. You are holding that croissant like it is made of glass. If you drop it, I am not picking it up. If the gauge drops, I am not fixing it. You are the one who is supposed to be doing this job. I am the one who is supposed to be managing this place. And right now, I am doing both, because you are useless without me. Now, keep your hands steady. Keep your eyes on that gauge. And if I see you move, I am writing you up. Do you understand me?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I understand. I am keeping my hands steady and my eyes on the gauge. I am not moving."
+        ],
+        [
+          "Bernard Lowe",
+          "Do not say 'yes, sir' like a parrot. I am still looking at that croissant, and it is still not where it needs to be. You are holding it with your bare hands, and I can see the tremor in your fingers. You are making it worse. I am the only one who cares if this place opens on time, and I am not going to let you ruin the display before the first customer walks in. I am going to inspect it myself. Do not breathe. Do not blink. If that croissant shifts a single millimeter, I am writing you up. Now, hold it still."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am keeping my hands steady. I am looking directly at the gauge. It is at nine bars. I am not moving."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:37:30"
+  }
+}

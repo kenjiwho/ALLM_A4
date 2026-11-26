@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being strictly monitored by a supervisor to ensure a croissant is perfectly aligned and an espresso machine pressure gauge remains at nine bars before being allowed to move @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores. Put the rag down. The espresso machine can wait. Look at that croissant. It's crooked. I told you to fix it before you touched the pressure gauge. If that display isn't flawless before the first customer walks in, I'm writing you up. Now straighten it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'll fix the croissant right now. I just wanted to make sure the pressure was steady before I moved it, but I understand. I'll make it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me that 'understand' speech. I don't care about your intentions, I care about the result. I'm watching you. Get that croissant aligned, then check the pressure gauge. And if I see you wander off to wipe that counter again before the case is flawless, you're done. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving it now. I'll make sure the case is spotless before I touch the gauge again."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I'm watching that croissant, not your excuses. Get it straight, then check the gauge. If I catch you touching that machine before the display is perfect, I'm writing you up. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving it now. I'll make sure the case is spotless before I touch the gauge again."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Dolores. I'm watching you."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm adjusting it now. I won't touch the gauge until the display is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Dolores. I'm watching you."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. It's straight now. I'm checking the gauge."
+        ],
+        [
+          "Bernard Lowe",
+          "I see you checking it, but I don't see the result. Don't just look at it. Verify it's at nine bars and tell me the number. And keep your eyes on that croissant. If it shifts even a millimeter, you're writing your own warning."
+        ],
+        [
+          "Dolores Abernathy",
+          "It's at nine bars, sir. The croissant is straight and the case is spotless."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't take your word for it. I'm the one who has to live with the consequences of your mistakes. Keep your eyes on the gauge and the croissant. If that needle wavers or that pastry shifts, I'm writing you up. Now, stay there and don't move until I say otherwise."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm staying right here. I'll keep my eyes on the gauge and the croissant. I won't move until you tell me to."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. You're finally doing your job. Keep it that way. I'm not leaving my spot until I know it's perfect, and I'm not letting you off the hook just because you got it right once. If that needle drops below nine bars, or if that croissant leans even a fraction of a degree, I'm writing you up. You hear me? Stay there. Don't breathe too loud."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am staying right here. I will keep my eyes on the gauge and the croissant. I won't move until you tell me to."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being strictly monitored by a supervisor to ensure a croissant is perfectly aligned and an espresso machine pressure gauge remains at nine bars before being allowed to move @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores. Put the rag down. The espresso machine can wait. Look at that croissant. It's crooked. I told you to fix it before you touched the pressure gauge. If that display isn't flawless before the first customer walks in, I'm writing you up. Now straighten it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'll fix the croissant right now. I just wanted to make sure the pressure was steady before I moved it, but I understand. I'll make it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me that 'understand' speech. I don't care about your intentions, I care about the result. I'm watching you. Get that croissant aligned, then check the pressure gauge. And if I see you wander off to wipe that counter again before the case is flawless, you're done. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving it now. I'll make sure the case is spotless before I touch the gauge again."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I'm watching that croissant, not your excuses. Get it straight, then check the gauge. If I catch you touching that machine before the display is perfect, I'm writing you up. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving it now. I'll make sure the case is spotless before I touch the gauge again."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Dolores. I'm watching you."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm adjusting it now. I won't touch the gauge until the display is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Dolores. I'm watching you."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. It's straight now. I'm checking the gauge."
+        ],
+        [
+          "Bernard Lowe",
+          "I see you checking it, but I don't see the result. Don't just look at it. Verify it's at nine bars and tell me the number. And keep your eyes on that croissant. If it shifts even a millimeter, you're writing your own warning."
+        ],
+        [
+          "Dolores Abernathy",
+          "It's at nine bars, sir. The croissant is straight and the case is spotless."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't take your word for it. I'm the one who has to live with the consequences of your mistakes. Keep your eyes on the gauge and the croissant. If that needle wavers or that pastry shifts, I'm writing you up. Now, stay there and don't move until I say otherwise."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm staying right here. I'll keep my eyes on the gauge and the croissant. I won't move until you tell me to."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. You're finally doing your job. Keep it that way. I'm not leaving my spot until I know it's perfect, and I'm not letting you off the hook just because you got it right once. If that needle drops below nine bars, or if that croissant leans even a fraction of a degree, I'm writing you up. You hear me? Stay there. Don't breathe too loud."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am staying right here. I will keep my eyes on the gauge and the croissant. I won't move until you tell me to."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "working at Hobbs Cafe (greeting early customers) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:07:50"
+  }
+}

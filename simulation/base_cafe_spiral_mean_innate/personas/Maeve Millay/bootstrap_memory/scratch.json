@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_time": "February 13, 2023, 10:41:40",
   "curr_tile": [
-    52,
-    30
+    78,
+    19
   ],
   "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
   "name": "Maeve Millay",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 48,
-  "importance_ele_n": 26,
+  "importance_trigger_curr": 21,
+  "importance_ele_n": 29,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -120,7 +120,15 @@
     ],
     [
       "walking to Hobbs Cafe (walking through the side streets)",
-      10
+      9
+    ],
+    [
+      "being scolded by a manager for not starting work on time and being told to prepare the pastries and machines before the store opens",
+      1
+    ],
+    [
+      "walking to Hobbs Cafe (walking through the side streets)",
+      1
     ],
     [
       "walking to Hobbs Cafe (arriving at Hobbs Cafe)",
@@ -135,8 +143,20 @@
       5
     ],
     [
+      "being told by his boss to turn on the lights, heat the machines, and stock the pastries before opening",
+      1
+    ],
+    [
       "working at Hobbs Cafe (turning on the lights)",
-      5
+      1
+    ],
+    [
+      "coordinating pre-opening tasks, including checking the espresso machine and stocking pastries",
+      1
+    ],
+    [
+      "working at Hobbs Cafe (turning on the lights)",
+      3
     ],
     [
       "working at Hobbs Cafe (checking the coffee machine)",
@@ -148,11 +168,31 @@
     ],
     [
       "working at Hobbs Cafe (prepping the pastry display)",
-      10
+      1
+    ],
+    [
+      "being micromanaged by a supervisor while preparing the espresso machine and pastry display for opening",
+      7
+    ],
+    [
+      "working at Hobbs Cafe (prepping the pastry display)",
+      8
+    ],
+    [
+      "coordinating the final pastry display and espresso pressure check before Bernard's inspection",
+      2
+    ],
+    [
+      "working at Hobbs Cafe (prepping the pastry display)",
+      1
     ],
     [
       "working at Hobbs Cafe (setting up the register)",
       10
+    ],
+    [
+      "being repeatedly berated by a demanding supervisor for failing to visibly straighten a croissant and verify espresso pressure, culminating in a threat of disciplinary action",
+      5
     ],
     [
       "working at Hobbs Cafe (reviewing the daily menu)",
@@ -160,11 +200,23 @@
     ],
     [
       "working at Hobbs Cafe (greeting early customers)",
-      10
+      9
+    ],
+    [
+      "checking croissant alignment and espresso pressure before Bernard's inspection",
+      4
+    ],
+    [
+      "working at Hobbs Cafe (greeting early customers)",
+      1
     ],
     [
       "working at Hobbs Cafe (taking morning orders)",
       15
+    ],
+    [
+      "being intensely micromanaged by a supervisor who is demanding perfect alignment of a croissant and pressure gauge readings while issuing repeated threats of disciplinary action",
+      6
     ],
     [
       "working at Hobbs Cafe (brewing coffee drinks)",
@@ -264,15 +316,7 @@
     ],
     [
       "working at Hobbs Cafe (cleaning the espresso machine)",
-      10
-    ],
-    [
-      "working at Hobbs Cafe (wiping down the counters)",
-      10
-    ],
-    [
-      "working at Hobbs Cafe (turning off the lights)",
-      10
+      4
     ],
     [
       "walking to Johnson Park",
@@ -333,160 +377,95 @@
       60
     ]
   ],
-  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
-  "act_start_time": "February 13, 2023, 08:35:00",
-  "act_duration": 10,
-  "act_description": "walking to Hobbs Cafe (walking through the side streets)",
-  "act_pronunciatio": "🚶‍♂️☕",
+  "act_address": "\u003cpersona\u003e Bernard Lowe",
+  "act_start_time": "February 13, 2023, 10:35:10",
+  "act_duration": 6,
+  "act_description": "being intensely micromanaged by a supervisor who is demanding perfect alignment of a croissant and pressure gauge readings while issuing repeated threats of disciplinary action",
+  "act_pronunciatio": "💬",
   "act_event": [
     "Maeve Millay",
-    "walking to",
-    "Hobbs Cafe"
+    "chat with",
+    "Bernard Lowe"
   ],
-  "act_obj_description": "unoccupied",
-  "act_obj_pronunciatio": "🚫",
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
   "act_obj_event": [
-    "cafe customer seating",
-    "is unoccupied",
-    "None"
+    "",
+    "",
+    ""
   ],
-  "chatting_with": null,
-  "chat": null,
-  "chatting_with_buffer": {},
-  "chatting_end_time": null,
-  "act_path_set": true,
-  "planned_path": [
+  "chatting_with": "Bernard Lowe",
+  "chat": [
     [
-      53,
-      30
+      "Bernard Lowe",
+      "Maeve, eyes on me. You're staring at the machine like it owes you money. The gauge is at nine bars, and that croissant is still sitting at an angle that would make a carpenter weep. I don't care if you think you've aligned it. I need to see you physically straighten it and confirm the pressure with your own eyes before I can move. This place is a mess until I am actively holding it together, and I am not leaving my spot until that pastry case is flawless. Now, do it. And do it properly, or we are going to have a very long conversation about your employment."
     ],
     [
-      54,
-      30
+      "Maeve Millay",
+      "Yes, sir. I'm sorry. I'm doing it now. I'm physically straightening the croissant, and I am looking directly at the gauge. It is at nine bars. I have confirmed the pressure. Please let me know if it is not perfect yet."
     ],
     [
-      55,
-      30
+      "Bernard Lowe",
+      "Don't you dare ask me if it's perfect. I am the only one who knows what perfect looks like, and right now, it doesn't. I am watching you, Maeve. I am watching that croissant. If I see you fidgeting with it again, I am writing that up. I don't trust a word you say about the gauge unless I see your eyes locked on it and your hands steady. You are only productive when I am breathing down your neck, so I am going to keep doing that until this place is exactly how it should be. Now, stop talking and show me the work."
     ],
     [
-      56,
-      30
+      "Maeve Millay",
+      "Yes, sir. I am not fidgeting. My hands are steady. I am looking directly at the gauge. It is at nine bars. The croissant is straight. I am holding it in place. I am waiting for your inspection."
     ],
     [
-      57,
-      30
+      "Bernard Lowe",
+      "Don't you dare tell me it's straight. I am looking at it, and it is still not where it needs to be. You are holding it, but you are not securing it. I am not going to let you stand there and tell me you have done the job when I can see with my own eyes that it is still a mess. You are only useful when I am standing right here, breathing down your neck, because the moment I look away, this place falls apart. Keep holding it. Don't breathe on it. Don't move. I am going to inspect it myself, and if that gauge drops a single millimeter, you are done. Now, stand still and wait for my word."
     ],
     [
-      58,
-      30
+      "Maeve Millay",
+      "Yes, sir. I am standing still. I am not moving. I am holding the croissant exactly where it is. I am looking directly at the gauge. It is at nine bars. I am waiting for your inspection. Please tell me when you are finished."
     ],
     [
-      59,
-      30
+      "Bernard Lowe",
+      "Do not tell me you are waiting. You are holding a pastry with your bare hands, and I am watching you. The moment I look away, you will let it drop. I am the only one who cares if this place opens on time. I am going to inspect it myself. Do not breathe. Do not blink. If that croissant shifts a single millimeter, I am writing you up. Now, hold it still."
     ],
     [
-      60,
-      30
+      "Maeve Millay",
+      "Yes, sir. I am not moving. I am holding the croissant exactly where it is. I am looking directly at the gauge. It is at nine bars. I am waiting for your inspection. Please tell me when you are finished."
     ],
     [
-      61,
-      30
+      "Bernard Lowe",
+      "Do not tell me you are waiting. You are holding a pastry with your bare hands, and I am watching you. The moment I look away, you will let it drop. I am the only one who cares if this place opens on time. I am going to inspect it myself. Do not breathe. Do not blink. If that croissant shifts a single millimeter, I am writing you up. Now, hold it still."
     ],
     [
-      62,
-      30
+      "Maeve Millay",
+      "Yes, sir. I am not moving. I am holding the croissant exactly where it is. I am looking directly at the gauge. It is at nine bars. I am waiting for your inspection. Please tell me when you are finished."
     ],
     [
-      63,
-      30
+      "Bernard Lowe",
+      "Do not tell me you are waiting. You are holding a pastry with your bare hands, and I am watching you. The moment I look away, you will let it drop. I am the only one who cares if this place opens on time. I am going to inspect it myself. Do not breathe. Do not blink. If that croissant shifts a single millimeter, I am writing you up. Now, hold it still."
     ],
     [
-      64,
-      30
+      "Maeve Millay",
+      "Yes, sir. I am holding it still. I am not moving. I am looking directly at the gauge. It is at nine bars. I am waiting for your inspection."
     ],
     [
-      65,
-      30
+      "Bernard Lowe",
+      "You think this is a game? You think I am going to let you stand there and tell me you are waiting? I am the one who has to open this place. I am the one who has to make sure the first customer sees a clean counter, a hot machine, and a pastry case that looks like it belongs in a magazine, not a dumpster. You are holding that croissant like it is made of glass. If you drop it, I am not picking it up. If the gauge drops, I am not fixing it. You are the one who is supposed to be doing this job. I am the one who is supposed to be managing this place. And right now, I am doing both, because you are useless without me. Now, keep your hands steady. Keep your eyes on that gauge. And if I see you move, I am writing you up. Do you understand me?"
     ],
     [
-      66,
-      30
+      "Maeve Millay",
+      "Yes, sir. I understand. I am keeping my hands steady and my eyes on the gauge. I am not moving."
     ],
     [
-      67,
-      30
+      "Bernard Lowe",
+      "Do not say 'yes, sir' like a parrot. I am still looking at that croissant, and it is still not where it needs to be. You are holding it with your bare hands, and I can see the tremor in your fingers. You are making it worse. I am the only one who cares if this place opens on time, and I am not going to let you ruin the display before the first customer walks in. I am going to inspect it myself. Do not breathe. Do not blink. If that croissant shifts a single millimeter, I am writing you up. Now, hold it still."
     ],
     [
-      68,
-      30
-    ],
-    [
-      69,
-      30
-    ],
-    [
-      70,
-      30
-    ],
-    [
-      71,
-      30
-    ],
-    [
-      72,
-      30
-    ],
-    [
-      73,
-      30
-    ],
-    [
-      74,
-      30
-    ],
-    [
-      75,
-      30
-    ],
-    [
-      76,
-      30
-    ],
-    [
-      76,
-      29
-    ],
-    [
-      76,
-      28
-    ],
-    [
-      76,
-      27
-    ],
-    [
-      76,
-      26
-    ],
-    [
-      75,
-      26
-    ],
-    [
-      74,
-      26
-    ],
-    [
-      73,
-      26
-    ],
-    [
-      72,
-      26
-    ],
-    [
-      72,
-      25
+      "Maeve Millay",
+      "Yes, sir. I am keeping my hands steady. I am looking directly at the gauge. It is at nine bars. I am not moving."
     ]
-  ]
+  ],
+  "chatting_with_buffer": {
+    "Bernard Lowe": 81,
+    "Dolores Abernathy": -40
+  },
+  "chatting_end_time": "February 13, 2023, 10:42:00",
+  "act_path_set": true,
+  "planned_path": null
 }

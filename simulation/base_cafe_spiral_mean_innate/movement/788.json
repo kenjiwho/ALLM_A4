@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being sternly ordered by his supervisor to stock the pastry case before checking the espresso machine or opening the shop @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Abernathy, look at the pastry case. It's half empty and we're not even open yet. I told you to have everything stocked before the first customer walks in. Get it filled up, now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'm on it right now. I just need to check the espresso machine pressure gauge first to make sure it's holding, but I'll have the case fully stocked before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't you dare touch that machine until the pastry case is full. I don't care if the pressure gauge is glowing red. I want to see those shelves packed before I even think about opening those doors. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving to the pastry case right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself, Abernathy. I want to see those shelves packed before I even think about opening those doors. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm filling the case right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Don't let me catch you dawdling again."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being sternly ordered by his supervisor to stock the pastry case before checking the espresso machine or opening the shop @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Abernathy, look at the pastry case. It's half empty and we're not even open yet. I told you to have everything stocked before the first customer walks in. Get it filled up, now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Mr. Lowe. I'm on it right now. I just need to check the espresso machine pressure gauge first to make sure it's holding, but I'll have the case fully stocked before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't you dare touch that machine until the pastry case is full. I don't care if the pressure gauge is glowing red. I want to see those shelves packed before I even think about opening those doors. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving to the pastry case right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself, Abernathy. I want to see those shelves packed before I even think about opening those doors. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm filling the case right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Don't let me catch you dawdling again."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕💡",
+      "description": "working at Hobbs Cafe (turning on the lights) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:10:20"
+  }
+}

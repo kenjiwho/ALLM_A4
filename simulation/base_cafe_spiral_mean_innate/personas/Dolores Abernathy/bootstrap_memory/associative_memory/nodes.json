@@ -40,6 +40,242 @@
     ],
     "filling": null
   },
+  "node_100": {
+    "node_count": 100,
+    "type_count": 21,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:42:50",
+    "expiration": "2023-03-15 09:42:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found noteworthy",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Bernard Lowe was intensely focused on the croissant being perfectly straight and the pastry case being spotless before the doors opened.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Bernard Lowe was intensely focused on the croissant being perfectly straight and the pastry case being spotless before the doors opened.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it noteworthy that Bernard Lowe was intensely focused on the croissant being perfectly straight and the pastry case being spotless before the doors opened.",
+    "poignancy": 2,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "found noteworthy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_101": {
+    "node_count": 101,
+    "type_count": 75,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "working",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (taking coffee orders)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (taking coffee orders)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (taking coffee orders)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_102": {
+    "node_count": 102,
+    "type_count": 76,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "cafe",
+    "description": "Bernard Lowe is managing the cafe and monitoring the baristas (observing the baristas' workflow)",
+    "original_description": "Bernard Lowe is managing the cafe and monitoring the baristas (observing the baristas' workflow)",
+    "embedding_key": "Bernard Lowe is managing the cafe and monitoring the baristas (observing the baristas' workflow)",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "cafe"
+    ],
+    "filling": null
+  },
+  "node_103": {
+    "node_count": 103,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:43:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating the final pastry display and espresso pressure check before Bernard's inspection",
+    "original_description": "coordinating the final pastry display and espresso pressure check before Bernard's inspection",
+    "embedding_key": "coordinating the final pastry display and espresso pressure check before Bernard's inspection",
+    "poignancy": 2,
+    "valence": 4,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Hey Dolores, I'm just lining up the pastries. Did you get the espresso pressure steady at nine bars yet? I want to make sure everything is perfect before Bernard checks."
+      ],
+      [
+        "Dolores Abernathy",
+        "Not yet, I'm sorry. I was told to finish stocking the pastry case before I touch the espresso machine. I just need to straighten that croissant and make sure the case is spotless. I'll check the pressure gauge as soon as the display is perfect, I promise."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, no need to apologize. Let's stick to the plan so we don't get in trouble. I'll keep lining up the pastries here, and you finish straightening that croissant and getting the case spotless. Once you're done with the display, I'll help you check the pressure gauge and make sure the portafilter is locked in. We need to have everything perfect before Bernard checks."
+      ],
+      [
+        "Dolores Abernathy",
+        "Thank you, Maeve. I'm glad we're on the same page. I'll focus on making sure the croissant is perfectly straight and the case is spotless right now. I'll let you know the second I'm done so we can check the pressure gauge together before Bernard comes back."
+      ],
+      [
+        "Maeve Millay",
+        "Sounds good. I'll stay right here and keep the display aligned. Just give me a quick nod when the croissant is straight and the case is clean, and we'll do the pressure check together. We've got this."
+      ]
+    ]
+  },
+  "node_104": {
+    "node_count": 104,
+    "type_count": 77,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating the final pastry display and espresso pressure check before Bernard's inspection",
+    "original_description": "Dolores Abernathy is coordinating the final pastry display and espresso pressure check before Bernard's inspection",
+    "embedding_key": "Dolores Abernathy is coordinating the final pastry display and espresso pressure check before Bernard's inspection",
+    "poignancy": 3,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_103"
+    ]
+  },
+  "node_105": {
+    "node_count": 105,
+    "type_count": 78,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being monitored",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 3,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_106": {
+    "node_count": 106,
+    "type_count": 79,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:43:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating the final pastry display and espresso pressure check before Bernard's inspection",
+    "original_description": "Maeve Millay is coordinating the final pastry display and espresso pressure check before Bernard's inspection",
+    "embedding_key": "Maeve Millay is coordinating the final pastry display and espresso pressure check before Bernard's inspection",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_107": {
+    "node_count": 107,
+    "type_count": 22,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:45:50",
+    "expiration": "2023-03-15 09:45:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember",
+    "object": "straightening the croissant and making the pastry case spotless before checking the espresso pressure gauge with Maeve",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to finish straightening the croissant and making the pastry case spotless before checking the espresso pressure gauge with Maeve.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to finish straightening the croissant and making the pastry case spotless before checking the espresso pressure gauge with Maeve.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to finish straightening the croissant and making the pastry case spotless before checking the espresso pressure gauge with Maeve.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember",
+      "straightening the croissant and making the pastry case spotless before checking the espresso pressure gauge with maeve"
+    ],
+    "filling": null
+  },
+  "node_108": {
+    "node_count": 108,
+    "type_count": 23,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:45:50",
+    "expiration": "2023-03-15 09:45:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "checking",
+    "object": "espresso pressure gauge",
+    "description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve was willing to help her check the espresso pressure gauge once the pastry display was finished.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve was willing to help her check the espresso pressure gauge once the pastry display was finished.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it noteworthy that Maeve was willing to help her check the espresso pressure gauge once the pastry display was finished.",
+    "poignancy": 3,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "checking",
+      "espresso pressure gauge"
+    ],
+    "filling": null
+  },
+  "node_109": {
+    "node_count": 109,
+    "type_count": 80,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:46:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "working",
+    "object": "coffee orders",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (taking coffee orders)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (taking coffee orders)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (taking coffee orders)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "coffee orders"
+    ],
+    "filling": null
+  },
   "node_11": {
     "node_count": 11,
     "type_count": 9,
@@ -58,6 +294,216 @@
     "keywords": [
       "closet",
       "none"
+    ],
+    "filling": null
+  },
+  "node_110": {
+    "node_count": 110,
+    "type_count": 81,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:46:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "barista",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by barista",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by barista",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by barista",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "barista"
+    ],
+    "filling": null
+  },
+  "node_111": {
+    "node_count": 111,
+    "type_count": 82,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:46:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_112": {
+    "node_count": 112,
+    "type_count": 83,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:47:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being managed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_113": {
+    "node_count": 113,
+    "type_count": 84,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "working as a barista",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (preparing espresso drinks)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (preparing espresso drinks)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (preparing espresso drinks)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_114": {
+    "node_count": 114,
+    "type_count": 85,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:51:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "cafe",
+    "description": "Bernard Lowe is managing the cafe and monitoring the baristas (correcting latte art techniques)",
+    "original_description": "Bernard Lowe is managing the cafe and monitoring the baristas (correcting latte art techniques)",
+    "embedding_key": "Bernard Lowe is managing the cafe and monitoring the baristas (correcting latte art techniques)",
+    "poignancy": 3,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "cafe"
+    ],
+    "filling": null
+  },
+  "node_115": {
+    "node_count": 115,
+    "type_count": 86,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:56:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "working",
+    "object": "menu",
+    "description": "Maeve Millay is working at Hobbs Cafe (reviewing the daily menu)",
+    "original_description": "Maeve Millay is working at Hobbs Cafe (reviewing the daily menu)",
+    "embedding_key": "Maeve Millay is working at Hobbs Cafe (reviewing the daily menu)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "menu"
+    ],
+    "filling": null
+  },
+  "node_116": {
+    "node_count": 116,
+    "type_count": 87,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:56:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is being repeatedly berated by a demanding supervisor for failing to visibly straighten a croissant and verify espresso pressure, culminating in a threat of disciplinary action",
+    "original_description": "Bernard Lowe is being repeatedly berated by a demanding supervisor for failing to visibly straighten a croissant and verify espresso pressure, culminating in a threat of disciplinary action",
+    "embedding_key": "Bernard Lowe is being repeatedly berated by a demanding supervisor for failing to visibly straighten a croissant and verify espresso pressure, culminating in a threat of disciplinary action",
+    "poignancy": 3,
+    "valence": -4,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_117": {
+    "node_count": 117,
+    "type_count": 88,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:56:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is being repeatedly berated by a demanding supervisor for failing to visibly straighten a croissant and verify espresso pressure, culminating in a threat of disciplinary action",
+    "original_description": "Maeve Millay is being repeatedly berated by a demanding supervisor for failing to visibly straighten a croissant and verify espresso pressure, culminating in a threat of disciplinary action",
+    "embedding_key": "Maeve Millay is being repeatedly berated by a demanding supervisor for failing to visibly straighten a croissant and verify espresso pressure, culminating in a threat of disciplinary action",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_118": {
+    "node_count": 118,
+    "type_count": 89,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:01:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "working",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (serving drinks to customers)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (serving drinks to customers)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (serving drinks to customers)",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_119": {
+    "node_count": 119,
+    "type_count": 90,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:02:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "counter",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "counter"
     ],
     "filling": null
   },
@@ -82,6 +528,283 @@
     ],
     "filling": null
   },
+  "node_120": {
+    "node_count": 120,
+    "type_count": 91,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:02:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being monitored",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_121": {
+    "node_count": 121,
+    "type_count": 92,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:02:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "cafe and baristas",
+    "description": "Bernard Lowe is managing the cafe and monitoring the baristas (monitoring customer wait times)",
+    "original_description": "Bernard Lowe is managing the cafe and monitoring the baristas (monitoring customer wait times)",
+    "embedding_key": "Bernard Lowe is managing the cafe and monitoring the baristas (monitoring customer wait times)",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "cafe and baristas"
+    ],
+    "filling": null
+  },
+  "node_122": {
+    "node_count": 122,
+    "type_count": 93,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:02:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "working",
+    "object": "daily menu",
+    "description": "Maeve Millay is working at Hobbs Cafe (reviewing the daily menu)",
+    "original_description": "Maeve Millay is working at Hobbs Cafe (reviewing the daily menu)",
+    "embedding_key": "Maeve Millay is working at Hobbs Cafe (reviewing the daily menu)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "daily menu"
+    ],
+    "filling": null
+  },
+  "node_123": {
+    "node_count": 123,
+    "type_count": 94,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:02:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by a barista",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by a barista",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by a barista",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_124": {
+    "node_count": 124,
+    "type_count": 95,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:06:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "working",
+    "object": "espresso machine",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (cleaning the espresso machine)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (cleaning the espresso machine)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (cleaning the espresso machine)",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "espresso machine"
+    ],
+    "filling": null
+  },
+  "node_125": {
+    "node_count": 125,
+    "type_count": 96,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:06:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is being strictly monitored by a supervisor to ensure a croissant is perfectly aligned and an espresso machine pressure gauge remains at nine bars before being allowed to move",
+    "original_description": "Bernard Lowe is being strictly monitored by a supervisor to ensure a croissant is perfectly aligned and an espresso machine pressure gauge remains at nine bars before being allowed to move",
+    "embedding_key": "Bernard Lowe is being strictly monitored by a supervisor to ensure a croissant is perfectly aligned and an espresso machine pressure gauge remains at nine bars before being allowed to move",
+    "poignancy": 1,
+    "valence": -3,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_126": {
+    "node_count": 126,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:06:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "being strictly monitored by a supervisor to ensure a croissant is perfectly aligned and an espresso machine pressure gauge remains at nine bars before being allowed to move",
+    "original_description": "being strictly monitored by a supervisor to ensure a croissant is perfectly aligned and an espresso machine pressure gauge remains at nine bars before being allowed to move",
+    "embedding_key": "being strictly monitored by a supervisor to ensure a croissant is perfectly aligned and an espresso machine pressure gauge remains at nine bars before being allowed to move",
+    "poignancy": 7,
+    "valence": -8,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Dolores. Put the rag down. The espresso machine can wait. Look at that croissant. It's crooked. I told you to fix it before you touched the pressure gauge. If that display isn't flawless before the first customer walks in, I'm writing you up. Now straighten it."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm sorry. I'll fix the croissant right now. I just wanted to make sure the pressure was steady before I moved it, but I understand. I'll make it perfect."
+      ],
+      [
+        "Bernard Lowe",
+        "Don't give me that 'understand' speech. I don't care about your intentions, I care about the result. I'm watching you. Get that croissant aligned, then check the pressure gauge. And if I see you wander off to wipe that counter again before the case is flawless, you're done. Move."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm moving it now. I'll make sure the case is spotless before I touch the gauge again."
+      ],
+      [
+        "Bernard Lowe",
+        "Don't make me repeat myself. I'm watching that croissant, not your excuses. Get it straight, then check the gauge. If I catch you touching that machine before the display is perfect, I'm writing you up. Move."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm moving it now. I'll make sure the case is spotless before I touch the gauge again."
+      ],
+      [
+        "Bernard Lowe",
+        "I'm watching you, Dolores. I'm watching you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm adjusting it now. I won't touch the gauge until the display is perfect."
+      ],
+      [
+        "Bernard Lowe",
+        "I'm watching you, Dolores. I'm watching you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. It's straight now. I'm checking the gauge."
+      ],
+      [
+        "Bernard Lowe",
+        "I see you checking it, but I don't see the result. Don't just look at it. Verify it's at nine bars and tell me the number. And keep your eyes on that croissant. If it shifts even a millimeter, you're writing your own warning."
+      ],
+      [
+        "Dolores Abernathy",
+        "It's at nine bars, sir. The croissant is straight and the case is spotless."
+      ],
+      [
+        "Bernard Lowe",
+        "I don't take your word for it. I'm the one who has to live with the consequences of your mistakes. Keep your eyes on the gauge and the croissant. If that needle wavers or that pastry shifts, I'm writing you up. Now, stay there and don't move until I say otherwise."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm staying right here. I'll keep my eyes on the gauge and the croissant. I won't move until you tell me to."
+      ],
+      [
+        "Bernard Lowe",
+        "Good. You're finally doing your job. Keep it that way. I'm not leaving my spot until I know it's perfect, and I'm not letting you off the hook just because you got it right once. If that needle drops below nine bars, or if that croissant leans even a fraction of a degree, I'm writing you up. You hear me? Stay there. Don't breathe too loud."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I am staying right here. I will keep my eyes on the gauge and the croissant. I won't move until you tell me to."
+      ]
+    ]
+  },
+  "node_127": {
+    "node_count": 127,
+    "type_count": 97,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:06:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is being strictly monitored by a supervisor to ensure a croissant is perfectly aligned and an espresso machine pressure gauge remains at nine bars before being allowed to move",
+    "original_description": "Dolores Abernathy is being strictly monitored by a supervisor to ensure a croissant is perfectly aligned and an espresso machine pressure gauge remains at nine bars before being allowed to move",
+    "embedding_key": "Dolores Abernathy is being strictly monitored by a supervisor to ensure a croissant is perfectly aligned and an espresso machine pressure gauge remains at nine bars before being allowed to move",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_126"
+    ]
+  },
+  "node_128": {
+    "node_count": 128,
+    "type_count": 98,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:07:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "working",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is working at Hobbs Cafe (greeting early customers)",
+    "original_description": "Maeve Millay is working at Hobbs Cafe (greeting early customers)",
+    "embedding_key": "Maeve Millay is working at Hobbs Cafe (greeting early customers)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_129": {
+    "node_count": 129,
+    "type_count": 99,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:07:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is occupied",
+    "object": "counter",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "counter"
+    ],
+    "filling": null
+  },
   "node_13": {
     "node_count": 13,
     "type_count": 11,
@@ -100,6 +823,265 @@
     "keywords": [
       "dolores abernathy",
       "morning routine"
+    ],
+    "filling": null
+  },
+  "node_130": {
+    "node_count": 130,
+    "type_count": 24,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:10:50",
+    "expiration": "2023-03-15 10:10:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remembering",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to keep the croissant straight, the case spotless, and the espresso machine pressure at nine bars while staying in place and not moving until Bernard Lowe gives permission.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to keep the croissant straight, the case spotless, and the espresso machine pressure at nine bars while staying in place and not moving until Bernard Lowe gives permission.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to keep the croissant straight, the case spotless, and the espresso machine pressure at nine bars while staying in place and not moving until Bernard Lowe gives permission.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "remembering",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_131": {
+    "node_count": 131,
+    "type_count": 25,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:10:50",
+    "expiration": "2023-03-15 10:10:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noted",
+    "object": "espresso machine's pressure",
+    "description": "Dolores Abernathy Dolores Abernathy noted that Bernard Lowe demanded she verify the espresso machine's pressure was exactly at nine bars before he would accept the display as perfect.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noted that Bernard Lowe demanded she verify the espresso machine's pressure was exactly at nine bars before he would accept the display as perfect.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noted that Bernard Lowe demanded she verify the espresso machine's pressure was exactly at nine bars before he would accept the display as perfect.",
+    "poignancy": 2,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "noted",
+      "espresso machine's pressure"
+    ],
+    "filling": null
+  },
+  "node_132": {
+    "node_count": 132,
+    "type_count": 100,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:11:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "cleaning",
+    "object": "espresso machine",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (cleaning the espresso machine)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (cleaning the espresso machine)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (cleaning the espresso machine)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "espresso machine"
+    ],
+    "filling": null
+  },
+  "node_133": {
+    "node_count": 133,
+    "type_count": 101,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:11:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "cafe and baristas",
+    "description": "Bernard Lowe is managing the cafe and monitoring the baristas (monitoring customer wait times)",
+    "original_description": "Bernard Lowe is managing the cafe and monitoring the baristas (monitoring customer wait times)",
+    "embedding_key": "Bernard Lowe is managing the cafe and monitoring the baristas (monitoring customer wait times)",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "cafe and baristas"
+    ],
+    "filling": null
+  },
+  "node_134": {
+    "node_count": 134,
+    "type_count": 102,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:11:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being monitored",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_135": {
+    "node_count": 135,
+    "type_count": 103,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:11:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_136": {
+    "node_count": 136,
+    "type_count": 104,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:15:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "customers",
+    "description": "Dolores Abernathy is serving customers at the counter at Hobbs Cafe (positioning at the counter)",
+    "original_description": "Dolores Abernathy is serving customers at the counter at Hobbs Cafe (positioning at the counter)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter at Hobbs Cafe (positioning at the counter)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "customers"
+    ],
+    "filling": null
+  },
+  "node_137": {
+    "node_count": 137,
+    "type_count": 5,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:15:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "checking croissant alignment and espresso pressure before Bernard's inspection",
+    "original_description": "checking croissant alignment and espresso pressure before Bernard's inspection",
+    "embedding_key": "checking croissant alignment and espresso pressure before Bernard's inspection",
+    "poignancy": 2,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Morning, Dolores. I've already checked the espresso pressure and it's holding at nine bars. I'm just finishing up the pastry display now. Can you double-check the alignment on the second shelf before Bernard does his walkthrough?"
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll check the second shelf right now. I want to make sure the croissant is perfectly aligned and the case is spotless before Bernard gets here. I'm a bit nervous about the inspection, but I think we're ready."
+      ],
+      [
+        "Maeve Millay",
+        "Thanks, Dolores. That helps. I'll do one last check on the pastry case and make sure the espresso machine is clean. Let's just keep the checklist in mind so we don't miss anything before he gets here."
+      ],
+      [
+        "Dolores Abernathy",
+        "Okay, Maeve. I'm checking the second shelf now. The croissant is straight, and the case is spotless. I'll stay here until Bernard gives us the all-clear, just in case he notices anything else."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, that's good. I'll finish up the espresso machine and then we can do a final walk-through of the counter together. I just want to make sure everything is in order before he gets here."
+      ],
+      [
+        "Dolores Abernathy",
+        "Okay, Maeve. I'll wait right here by the counter so I can do the final walk-through with you as soon as you're done. I just want to make sure the croissant and the espresso pressure are exactly right before Bernard starts his inspection."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, I'm almost done with the espresso machine. Let's do the final walk-through of the counter together now, just to be absolutely sure everything is in order before Bernard gets here."
+      ],
+      [
+        "Dolores Abernathy",
+        "Okay, Maeve. I'm right here at the counter. Let's check the croissant alignment and the espresso pressure one last time together. I just want to make sure everything is exactly right before Bernard starts his inspection."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, let's do it. First, check the croissant alignment on the second shelf. Then, check the espresso pressure gauge to make sure it's at nine bars. Once we confirm both, we can stand by for Bernard's inspection."
+      ],
+      [
+        "Dolores Abernathy",
+        "Okay, I'm checking the croissant alignment on the second shelf now. It looks straight to me. I'm looking at the espresso pressure gauge, and it is at nine bars. I think we are ready for Bernard's inspection."
+      ],
+      [
+        "Maeve Millay",
+        "Great. Everything looks perfect. Let's just stay calm and ready for Bernard's inspection."
+      ]
+    ]
+  },
+  "node_138": {
+    "node_count": 138,
+    "type_count": 105,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:15:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is checking croissant alignment and espresso pressure before Bernard's inspection",
+    "original_description": "Dolores Abernathy is checking croissant alignment and espresso pressure before Bernard's inspection",
+    "embedding_key": "Dolores Abernathy is checking croissant alignment and espresso pressure before Bernard's inspection",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_137"
+    ]
+  },
+  "node_139": {
+    "node_count": 139,
+    "type_count": 106,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:15:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is checking croissant alignment and espresso pressure before Bernard's inspection",
+    "original_description": "Maeve Millay is checking croissant alignment and espresso pressure before Bernard's inspection",
+    "embedding_key": "Maeve Millay is checking croissant alignment and espresso pressure before Bernard's inspection",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
     ],
     "filling": null
   },
@@ -124,6 +1106,224 @@
     ],
     "filling": null
   },
+  "node_140": {
+    "node_count": 140,
+    "type_count": 107,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:16:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being managed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being managed",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_141": {
+    "node_count": 141,
+    "type_count": 26,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:19:50",
+    "expiration": "2023-03-15 10:19:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "needs to remember to check",
+    "object": "croissant alignment and espresso pressure",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to check the croissant alignment on the second shelf and ensure the espresso pressure is at nine bars before Bernard's inspection.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to check the croissant alignment on the second shelf and ensure the espresso pressure is at nine bars before Bernard's inspection.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to check the croissant alignment on the second shelf and ensure the espresso pressure is at nine bars before Bernard's inspection.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "needs to remember to check",
+      "croissant alignment and espresso pressure"
+    ],
+    "filling": null
+  },
+  "node_142": {
+    "node_count": 142,
+    "type_count": 27,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:19:50",
+    "expiration": "2023-03-15 10:19:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found noteworthy",
+    "object": "espresso pressure",
+    "description": "Dolores Abernathy Dolores Abernathy found it noteworthy that the espresso pressure was holding steady at nine bars before Bernard's inspection.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found it noteworthy that the espresso pressure was holding steady at nine bars before Bernard's inspection.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found it noteworthy that the espresso pressure was holding steady at nine bars before Bernard's inspection.",
+    "poignancy": 2,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "found noteworthy",
+      "espresso pressure"
+    ],
+    "filling": null
+  },
+  "node_143": {
+    "node_count": 143,
+    "type_count": 108,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:20:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_144": {
+    "node_count": 144,
+    "type_count": 109,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:20:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "working",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is working at Hobbs Cafe (taking morning orders)",
+    "original_description": "Maeve Millay is working at Hobbs Cafe (taking morning orders)",
+    "embedding_key": "Maeve Millay is working at Hobbs Cafe (taking morning orders)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_145": {
+    "node_count": 145,
+    "type_count": 110,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:20:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "cafe and baristas",
+    "description": "Bernard Lowe is managing the cafe and monitoring the baristas (addressing customer complaints)",
+    "original_description": "Bernard Lowe is managing the cafe and monitoring the baristas (addressing customer complaints)",
+    "embedding_key": "Bernard Lowe is managing the cafe and monitoring the baristas (addressing customer complaints)",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "cafe and baristas"
+    ],
+    "filling": null
+  },
+  "node_146": {
+    "node_count": 146,
+    "type_count": 111,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:20:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "cafe counter",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by Maeve Millay",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by Maeve Millay",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by Maeve Millay",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "cafe counter"
+    ],
+    "filling": null
+  },
+  "node_147": {
+    "node_count": 147,
+    "type_count": 112,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "behind",
+    "object": "counter",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by Dolores Abernathy",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by Dolores Abernathy",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by Dolores Abernathy",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "counter"
+    ],
+    "filling": null
+  },
+  "node_148": {
+    "node_count": 148,
+    "type_count": 113,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:24:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "customers",
+    "description": "Dolores Abernathy is serving customers at the counter at Hobbs Cafe (checking the order display)",
+    "original_description": "Dolores Abernathy is serving customers at the counter at Hobbs Cafe (checking the order display)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter at Hobbs Cafe (checking the order display)",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "customers"
+    ],
+    "filling": null
+  },
+  "node_149": {
+    "node_count": 149,
+    "type_count": 28,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "struggling",
+    "object": "None",
+    "description": "The constant monitoring and micromanagement in the cafe create a high-pressure environment that triggers my conflict-averse nature and makes me struggle to respond well when put on the spot.",
+    "original_description": "The constant monitoring and micromanagement in the cafe create a high-pressure environment that triggers my conflict-averse nature and makes me struggle to respond well when put on the spot.",
+    "embedding_key": "The constant monitoring and micromanagement in the cafe create a high-pressure environment that triggers my conflict-averse nature and makes me struggle to respond well when put on the spot.",
+    "poignancy": 7,
+    "valence": -6,
+    "keywords": [
+      "dolores abernathy",
+      "struggling",
+      "none"
+    ],
+    "filling": [
+      "node_85",
+      "node_82",
+      "node_87",
+      "node_127"
+    ]
+  },
   "node_15": {
     "node_count": 15,
     "type_count": 13,
@@ -144,6 +1344,269 @@
       "breakfast"
     ],
     "filling": null
+  },
+  "node_150": {
+    "node_count": 150,
+    "type_count": 29,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "viewing",
+    "object": "None",
+    "description": "I view my relationship with Maeve as a collaborative partnership where we coordinate our pre-opening tasks to keep the cafe running smoothly and support each other under pressure.",
+    "original_description": "I view my relationship with Maeve as a collaborative partnership where we coordinate our pre-opening tasks to keep the cafe running smoothly and support each other under pressure.",
+    "embedding_key": "I view my relationship with Maeve as a collaborative partnership where we coordinate our pre-opening tasks to keep the cafe running smoothly and support each other under pressure.",
+    "poignancy": 4,
+    "valence": 4,
+    "keywords": [
+      "dolores abernathy",
+      "viewing",
+      "none"
+    ],
+    "filling": [
+      "node_108",
+      "node_81",
+      "node_88",
+      "node_75"
+    ]
+  },
+  "node_151": {
+    "node_count": 151,
+    "type_count": 30,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "believes",
+    "object": "reading",
+    "description": "I believe that being prepared and organized before opening is essential to avoid conflict and ensure a smooth start to the day, which allows me to decompress and focus on my personal love of reading once I am back in my room.",
+    "original_description": "I believe that being prepared and organized before opening is essential to avoid conflict and ensure a smooth start to the day, which allows me to decompress and focus on my personal love of reading once I am back in my room.",
+    "embedding_key": "I believe that being prepared and organized before opening is essential to avoid conflict and ensure a smooth start to the day, which allows me to decompress and focus on my personal love of reading once I am back in my room.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "believes",
+      "reading"
+    ],
+    "filling": [
+      "node_77",
+      "node_83",
+      "node_84"
+    ]
+  },
+  "node_152": {
+    "node_count": 152,
+    "type_count": 31,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "facing",
+    "object": "strict supervision",
+    "description": "I am aware that the strict supervision I face is part of a larger chain of pressure, as Bernard Lowe is also under pressure from his own supervisor, which explains why he is so focused on monitoring us and enforcing specific opening procedures.",
+    "original_description": "I am aware that the strict supervision I face is part of a larger chain of pressure, as Bernard Lowe is also under pressure from his own supervisor, which explains why he is so focused on monitoring us and enforcing specific opening procedures.",
+    "embedding_key": "I am aware that the strict supervision I face is part of a larger chain of pressure, as Bernard Lowe is also under pressure from his own supervisor, which explains why he is so focused on monitoring us and enforcing specific opening procedures.",
+    "poignancy": 6,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "facing",
+      "strict supervision"
+    ],
+    "filling": [
+      "node_76",
+      "node_116",
+      "node_95",
+      "node_97"
+    ]
+  },
+  "node_153": {
+    "node_count": 153,
+    "type_count": 32,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "feeling",
+    "object": "role as a diligent barista",
+    "description": "My sense of self is deeply tied to my role as a diligent barista, and I feel my worth is contingent on strictly following the supervisor's exact sequence of tasks, even when it conflicts with my own instincts.",
+    "original_description": "My sense of self is deeply tied to my role as a diligent barista, and I feel my worth is contingent on strictly following the supervisor's exact sequence of tasks, even when it conflicts with my own instincts.",
+    "embedding_key": "My sense of self is deeply tied to my role as a diligent barista, and I feel my worth is contingent on strictly following the supervisor's exact sequence of tasks, even when it conflicts with my own instincts.",
+    "poignancy": 9,
+    "valence": -4,
+    "keywords": [
+      "dolores abernathy",
+      "feeling",
+      "role as a diligent barista"
+    ],
+    "filling": [
+      "node_78",
+      "node_86",
+      "node_79"
+    ]
+  },
+  "node_154": {
+    "node_count": 154,
+    "type_count": 33,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "defining",
+    "object": "self",
+    "description": "My sense of self is defined by my role as a diligent barista who tries to do everything right, but I often feel flustered when I am being watched or put on the spot by management.",
+    "original_description": "My sense of self is defined by my role as a diligent barista who tries to do everything right, but I often feel flustered when I am being watched or put on the spot by management.",
+    "embedding_key": "My sense of self is defined by my role as a diligent barista who tries to do everything right, but I often feel flustered when I am being watched or put on the spot by management.",
+    "poignancy": 9,
+    "valence": -4,
+    "keywords": [
+      "dolores abernathy",
+      "defining",
+      "self"
+    ],
+    "filling": [
+      "node_82",
+      "node_79",
+      "node_87",
+      "node_78"
+    ]
+  },
+  "node_155": {
+    "node_count": 155,
+    "type_count": 34,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "believes",
+    "object": "reading",
+    "description": "I believe that being prepared and organized before opening is essential to avoid conflict and ensure a smooth start to the day, which allows me to decompress and focus on my personal love of reading once I am back in my room.",
+    "original_description": "I believe that being prepared and organized before opening is essential to avoid conflict and ensure a smooth start to the day, which allows me to decompress and focus on my personal love of reading once I am back in my room.",
+    "embedding_key": "I believe that being prepared and organized before opening is essential to avoid conflict and ensure a smooth start to the day, which allows me to decompress and focus on my personal love of reading once I am back in my room.",
+    "poignancy": 8,
+    "valence": 6,
+    "keywords": [
+      "dolores abernathy",
+      "believes",
+      "reading"
+    ],
+    "filling": [
+      "node_84",
+      "node_141",
+      "node_130",
+      "node_77",
+      "node_83"
+    ]
+  },
+  "node_156": {
+    "node_count": 156,
+    "type_count": 35,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "feeling",
+    "object": "None",
+    "description": "I feel that my worth at work is tied to strictly following the supervisor's exact sequence of tasks, even when it conflicts with my own instincts, because the hierarchy and micromanagement create a high-pressure environment where I must constantly adapt to external demands.",
+    "original_description": "I feel that my worth at work is tied to strictly following the supervisor's exact sequence of tasks, even when it conflicts with my own instincts, because the hierarchy and micromanagement create a high-pressure environment where I must constantly adapt to external demands.",
+    "embedding_key": "I feel that my worth at work is tied to strictly following the supervisor's exact sequence of tasks, even when it conflicts with my own instincts, because the hierarchy and micromanagement create a high-pressure environment where I must constantly adapt to external demands.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "feeling",
+      "none"
+    ],
+    "filling": [
+      "node_86",
+      "node_85"
+    ]
+  },
+  "node_157": {
+    "node_count": 157,
+    "type_count": 36,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "viewing",
+    "object": "relationship with Maeve",
+    "description": "I view my relationship with Maeve as a collaborative partnership where we both strive to keep the cafe running smoothly, which helps me navigate the constant monitoring and pressure of the cafe environment.",
+    "original_description": "I view my relationship with Maeve as a collaborative partnership where we both strive to keep the cafe running smoothly, which helps me navigate the constant monitoring and pressure of the cafe environment.",
+    "embedding_key": "I view my relationship with Maeve as a collaborative partnership where we both strive to keep the cafe running smoothly, which helps me navigate the constant monitoring and pressure of the cafe environment.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "viewing",
+      "relationship with maeve"
+    ],
+    "filling": [
+      "node_88",
+      "node_87"
+    ]
+  },
+  "node_158": {
+    "node_count": 158,
+    "type_count": 37,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "aware",
+    "object": "None",
+    "description": "I am aware that Bernard Lowe is under pressure from his own supervisor, which explains why he is so focused on monitoring us and enforcing specific opening procedures, and I recognize that the entire cafe environment is constantly monitored, which likely increases my anxiety and flustered nature under scrutiny.",
+    "original_description": "I am aware that Bernard Lowe is under pressure from his own supervisor, which explains why he is so focused on monitoring us and enforcing specific opening procedures, and I recognize that the entire cafe environment is constantly monitored, which likely increases my anxiety and flustered nature under scrutiny.",
+    "embedding_key": "I am aware that Bernard Lowe is under pressure from his own supervisor, which explains why he is so focused on monitoring us and enforcing specific opening procedures, and I recognize that the entire cafe environment is constantly monitored, which likely increases my anxiety and flustered nature under scrutiny.",
+    "poignancy": 7,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "aware",
+      "none"
+    ],
+    "filling": [
+      "node_76",
+      "node_87",
+      "node_120"
+    ]
+  },
+  "node_159": {
+    "node_count": 159,
+    "type_count": 38,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "tied to",
+    "object": "role as a diligent barista",
+    "description": "My sense of self is deeply tied to my role as a diligent barista, and I define my worth by my ability to follow strict procedures and maintain order, even when it feels overwhelming.",
+    "original_description": "My sense of self is deeply tied to my role as a diligent barista, and I define my worth by my ability to follow strict procedures and maintain order, even when it feels overwhelming.",
+    "embedding_key": "My sense of self is deeply tied to my role as a diligent barista, and I define my worth by my ability to follow strict procedures and maintain order, even when it feels overwhelming.",
+    "poignancy": 8,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "tied to",
+      "role as a diligent barista"
+    ],
+    "filling": [
+      "node_83",
+      "node_86",
+      "node_78"
+    ]
   },
   "node_16": {
     "node_count": 16,
@@ -166,6 +1629,308 @@
     ],
     "filling": null
   },
+  "node_160": {
+    "node_count": 160,
+    "type_count": 39,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "feeling",
+    "object": "None",
+    "description": "I feel constantly scrutinized and flustered under management's supervision, which triggers my conflict-averse nature and makes it difficult for me to respond well when put on the spot.",
+    "original_description": "I feel constantly scrutinized and flustered under management's supervision, which triggers my conflict-averse nature and makes it difficult for me to respond well when put on the spot.",
+    "embedding_key": "I feel constantly scrutinized and flustered under management's supervision, which triggers my conflict-averse nature and makes it difficult for me to respond well when put on the spot.",
+    "poignancy": 9,
+    "valence": -6,
+    "keywords": [
+      "dolores abernathy",
+      "feeling",
+      "none"
+    ],
+    "filling": [
+      "node_82",
+      "node_79",
+      "node_87",
+      "node_85"
+    ]
+  },
+  "node_161": {
+    "node_count": 161,
+    "type_count": 40,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "viewing relationship with",
+    "object": "Maeve",
+    "description": "I view my relationship with Maeve as a collaborative partnership where we work together to keep the cafe running smoothly, providing a sense of teamwork amidst the high-pressure environment.",
+    "original_description": "I view my relationship with Maeve as a collaborative partnership where we work together to keep the cafe running smoothly, providing a sense of teamwork amidst the high-pressure environment.",
+    "embedding_key": "I view my relationship with Maeve as a collaborative partnership where we work together to keep the cafe running smoothly, providing a sense of teamwork amidst the high-pressure environment.",
+    "poignancy": 4,
+    "valence": 4,
+    "keywords": [
+      "dolores abernathy",
+      "viewing relationship with",
+      "maeve"
+    ],
+    "filling": [
+      "node_88",
+      "node_81"
+    ]
+  },
+  "node_162": {
+    "node_count": 162,
+    "type_count": 41,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "believing",
+    "object": "None",
+    "description": "I believe that being prepared and organized before opening is essential to avoid conflict and ensure a smooth start to the day, which helps me manage the anxiety of the cafe's strict hierarchy.",
+    "original_description": "I believe that being prepared and organized before opening is essential to avoid conflict and ensure a smooth start to the day, which helps me manage the anxiety of the cafe's strict hierarchy.",
+    "embedding_key": "I believe that being prepared and organized before opening is essential to avoid conflict and ensure a smooth start to the day, which helps me manage the anxiety of the cafe's strict hierarchy.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "believing",
+      "none"
+    ],
+    "filling": [
+      "node_77",
+      "node_141",
+      "node_130",
+      "node_84"
+    ]
+  },
+  "node_163": {
+    "node_count": 163,
+    "type_count": 42,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 10:24:20",
+    "expiration": "2023-03-15 10:24:20",
+    "subject": "Dolores Abernathy",
+    "predicate": "perceives",
+    "object": "cafe environment",
+    "description": "I perceive the cafe environment as one of constant monitoring and micromanagement, where I must constantly adapt to external demands and strict sequences of tasks to maintain order.",
+    "original_description": "I perceive the cafe environment as one of constant monitoring and micromanagement, where I must constantly adapt to external demands and strict sequences of tasks to maintain order.",
+    "embedding_key": "I perceive the cafe environment as one of constant monitoring and micromanagement, where I must constantly adapt to external demands and strict sequences of tasks to maintain order.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "perceives",
+      "cafe environment"
+    ],
+    "filling": [
+      "node_120",
+      "node_114",
+      "node_145",
+      "node_127",
+      "node_85"
+    ]
+  },
+  "node_164": {
+    "node_count": 164,
+    "type_count": 114,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:26:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "cafe",
+    "description": "Bernard Lowe is managing the cafe and monitoring the baristas (checking the cleanliness of the seating area)",
+    "original_description": "Bernard Lowe is managing the cafe and monitoring the baristas (checking the cleanliness of the seating area)",
+    "embedding_key": "Bernard Lowe is managing the cafe and monitoring the baristas (checking the cleanliness of the seating area)",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "cafe"
+    ],
+    "filling": null
+  },
+  "node_165": {
+    "node_count": 165,
+    "type_count": 6,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 10:26:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "being repeatedly reprimanded by a supervisor for failing to physically align a croissant and monitor an espresso machine gauge, despite repeatedly claiming compliance",
+    "original_description": "being repeatedly reprimanded by a supervisor for failing to physically align a croissant and monitor an espresso machine gauge, despite repeatedly claiming compliance",
+    "embedding_key": "being repeatedly reprimanded by a supervisor for failing to physically align a croissant and monitor an espresso machine gauge, despite repeatedly claiming compliance",
+    "poignancy": 8,
+    "valence": -8,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I've just finished checking the order display. The espresso machine is holding at nine bars, and I've straightened the croissants in the case. Is there anything else you need me to check before we open?"
+      ],
+      [
+        "Bernard Lowe",
+        "Don't stand there asking me questions. I can see the croissant on the left is still leaning, and I haven't seen you verify the steam wand temperature. You think this place runs itself? Get over here and straighten that display, and don't you move until I tell you it's perfect."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm sorry. I'll straighten the croissant immediately and check the steam wand temperature. I won't move until you tell me it's perfect."
+      ],
+      [
+        "Bernard Lowe",
+        "Don't just stand there nodding at me like a statue. I want to see your hands on that croissant, not your mouth making promises. And keep your eyes on that pressure gauge. If it dips below nine bars while you're fiddling with pastry, I'm writing you up before the first customer even walks in. Now move."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm moving to the display now. I'll straighten the croissant and keep my eyes on the gauge. I'm sorry for the delay."
+      ],
+      [
+        "Bernard Lowe",
+        "I don't want to hear your apologies, I want to see the croissant perfectly aligned and that gauge holding steady at nine bars. Keep your eyes on the display and the machine. If I have to look away for even a second and find you've drifted, you'll be cleaning the floors before we open. Now do it."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I am adjusting the croissant now. I am keeping my eyes on the gauge to ensure it remains at nine bars. I will not move until you tell me it is perfect."
+      ],
+      [
+        "Bernard Lowe",
+        "Don't just tell me you're doing it, I want to see it. Keep that croissant straight and your eyes on the gauge. If I catch you drifting, you're scrubbing the floors."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I am holding the croissant perfectly straight and watching the gauge. It is holding steady at nine bars. I am not moving until you tell me it is perfect."
+      ],
+      [
+        "Bernard Lowe",
+        "Don't just stand there telling me what you're doing. I want to see it. Keep that croissant straight and your eyes on the gauge. If I catch you drifting, you're scrubbing the floors."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I am holding the croissant perfectly straight and watching the gauge. It is holding steady at nine bars. I am not moving until you tell me it is perfect."
+      ],
+      [
+        "Bernard Lowe",
+        "You're still just talking! I can see your hands are hovering, but that croissant is still not flush with the edge. I want to see you physically press it into place. And stop looking at me, look at the gauge. If I see that needle waver, we're done here. Now, fix it."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I am pressing the croissant flush with the edge now. I am looking directly at the gauge. It is holding steady at nine bars. I am not moving."
+      ],
+      [
+        "Bernard Lowe",
+        "Don't just stand there telling me you're doing it. I want to see it. Keep that croissant straight and your eyes on the gauge. If I catch you drifting, you're scrubbing the floors."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I am pressing the croissant flush with the edge now. I am looking directly at the gauge. It is holding steady at nine bars. I am not moving."
+      ],
+      [
+        "Bernard Lowe",
+        "I am not done with you. I can see your hands are still trembling. You are shaking the entire display. Get your hands steady, press that croissant flush with the edge, and keep your eyes on the gauge. If I see that needle waver, we're done here. Now, fix it."
+      ]
+    ]
+  },
+  "node_166": {
+    "node_count": 166,
+    "type_count": 115,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:26:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is being repeatedly reprimanded by a supervisor for failing to physically align a croissant and monitor an espresso machine gauge, despite repeatedly claiming compliance",
+    "original_description": "Dolores Abernathy is being repeatedly reprimanded by a supervisor for failing to physically align a croissant and monitor an espresso machine gauge, despite repeatedly claiming compliance",
+    "embedding_key": "Dolores Abernathy is being repeatedly reprimanded by a supervisor for failing to physically align a croissant and monitor an espresso machine gauge, despite repeatedly claiming compliance",
+    "poignancy": 8,
+    "valence": -7,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_165"
+    ]
+  },
+  "node_167": {
+    "node_count": 167,
+    "type_count": 116,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:26:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is being repeatedly reprimanded by a supervisor for failing to physically align a croissant and monitor an espresso machine gauge, despite repeatedly claiming compliance",
+    "original_description": "Bernard Lowe is being repeatedly reprimanded by a supervisor for failing to physically align a croissant and monitor an espresso machine gauge, despite repeatedly claiming compliance",
+    "embedding_key": "Bernard Lowe is being repeatedly reprimanded by a supervisor for failing to physically align a croissant and monitor an espresso machine gauge, despite repeatedly claiming compliance",
+    "poignancy": 3,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_168": {
+    "node_count": 168,
+    "type_count": 43,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:34:50",
+    "expiration": "2023-03-15 10:34:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remembering",
+    "object": "straighten the croissant on the left, verify the steam wand temperature, and keep the espresso machine pressure gauge steady at nine bars before opening",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to straighten the croissant on the left, verify the steam wand temperature, and keep the espresso machine pressure gauge steady at nine bars before opening.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to straighten the croissant on the left, verify the steam wand temperature, and keep the espresso machine pressure gauge steady at nine bars before opening.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to straighten the croissant on the left, verify the steam wand temperature, and keep the espresso machine pressure gauge steady at nine bars before opening.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "remembering",
+      "straighten the croissant on the left, verify the steam wand temperature, and keep the espresso machine pressure gauge steady at nine bars before opening"
+    ],
+    "filling": null
+  },
+  "node_169": {
+    "node_count": 169,
+    "type_count": 44,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 10:34:50",
+    "expiration": "2023-03-15 10:34:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noted",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noted that Bernard Lowe is extremely demanding about the croissant display and the espresso machine's pressure gauge, requiring her to maintain a steady hand and keep her eyes on the gauge at all times.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noted that Bernard Lowe is extremely demanding about the croissant display and the espresso machine's pressure gauge, requiring her to maintain a steady hand and keep her eyes on the gauge at all times.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noted that Bernard Lowe is extremely demanding about the croissant display and the espresso machine's pressure gauge, requiring her to maintain a steady hand and keep her eyes on the gauge at all times.",
+    "poignancy": 3,
+    "valence": -4,
+    "keywords": [
+      "dolores abernathy",
+      "noted",
+      "none"
+    ],
+    "filling": null
+  },
   "node_17": {
     "node_count": 17,
     "type_count": 15,
@@ -184,6 +1949,132 @@
     "keywords": [
       "dolores abernathy",
       "breakfast"
+    ],
+    "filling": null
+  },
+  "node_170": {
+    "node_count": 170,
+    "type_count": 117,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:35:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is occupied by",
+    "object": "Dolores Abernathy",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by Dolores Abernathy",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by Dolores Abernathy",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by Dolores Abernathy",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_171": {
+    "node_count": 171,
+    "type_count": 118,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:35:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "working",
+    "object": "coffee drinks",
+    "description": "Maeve Millay is working at Hobbs Cafe (brewing coffee drinks)",
+    "original_description": "Maeve Millay is working at Hobbs Cafe (brewing coffee drinks)",
+    "embedding_key": "Maeve Millay is working at Hobbs Cafe (brewing coffee drinks)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "coffee drinks"
+    ],
+    "filling": null
+  },
+  "node_172": {
+    "node_count": 172,
+    "type_count": 119,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:35:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is being intensely micromanaged by a supervisor who is demanding perfect alignment of a croissant and pressure gauge readings while issuing repeated threats of disciplinary action",
+    "original_description": "Maeve Millay is being intensely micromanaged by a supervisor who is demanding perfect alignment of a croissant and pressure gauge readings while issuing repeated threats of disciplinary action",
+    "embedding_key": "Maeve Millay is being intensely micromanaged by a supervisor who is demanding perfect alignment of a croissant and pressure gauge readings while issuing repeated threats of disciplinary action",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_173": {
+    "node_count": 173,
+    "type_count": 120,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:35:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is being intensely micromanaged by a supervisor who is demanding perfect alignment of a croissant and pressure gauge readings while issuing repeated threats of disciplinary action",
+    "original_description": "Bernard Lowe is being intensely micromanaged by a supervisor who is demanding perfect alignment of a croissant and pressure gauge readings while issuing repeated threats of disciplinary action",
+    "embedding_key": "Bernard Lowe is being intensely micromanaged by a supervisor who is demanding perfect alignment of a croissant and pressure gauge readings while issuing repeated threats of disciplinary action",
+    "poignancy": 1,
+    "valence": -3,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_174": {
+    "node_count": 174,
+    "type_count": 121,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:37:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_175": {
+    "node_count": 175,
+    "type_count": 122,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 10:37:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "serving",
+    "object": "customers",
+    "description": "Dolores Abernathy is serving customers at the counter at Hobbs Cafe (taking customer orders)",
+    "original_description": "Dolores Abernathy is serving customers at the counter at Hobbs Cafe (taking customer orders)",
+    "embedding_key": "Dolores Abernathy is serving customers at the counter at Hobbs Cafe (taking customer orders)",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "customers"
     ],
     "filling": null
   },
@@ -376,6 +2267,90 @@
     ],
     "filling": null
   },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:45:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is unoccupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:50:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "unplugged",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is unplugged",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is unplugged",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is unplugged",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:50:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "having",
+    "object": "breakfast",
+    "description": "Dolores Abernathy is having breakfast and walking to Hobbs Cafe (locking the door)",
+    "original_description": "Dolores Abernathy is having breakfast and walking to Hobbs Cafe (locking the door)",
+    "embedding_key": "Dolores Abernathy is having breakfast and walking to Hobbs Cafe (locking the door)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "breakfast"
+    ],
+    "filling": null
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:55:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is having breakfast and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "original_description": "Dolores Abernathy is having breakfast and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "embedding_key": "Dolores Abernathy is having breakfast and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
   "node_3": {
     "node_count": 3,
     "type_count": 1,
@@ -397,6 +2372,233 @@
     ],
     "filling": null
   },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "working",
+    "object": "espresso machine",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (checking the espresso machine)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (checking the espresso machine)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (checking the espresso machine)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "espresso machine"
+    ],
+    "filling": null
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:05:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "stocking",
+    "object": "pastry case",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (stocking the pastry case)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (stocking the pastry case)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (stocking the pastry case)",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "pastry case"
+    ],
+    "filling": null
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "cafe",
+    "description": "Bernard Lowe is managing the cafe and monitoring the baristas (checking the inventory levels)",
+    "original_description": "Bernard Lowe is managing the cafe and monitoring the baristas (checking the inventory levels)",
+    "embedding_key": "Bernard Lowe is managing the cafe and monitoring the baristas (checking the inventory levels)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "cafe"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being monitored",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is being told by his boss to turn on the lights, heat the machines, and stock the pastries before opening",
+    "original_description": "Maeve Millay is being told by his boss to turn on the lights, heat the machines, and stock the pastries before opening",
+    "embedding_key": "Maeve Millay is being told by his boss to turn on the lights, heat the machines, and stock the pastries before opening",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:06:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is being told by his boss to turn on the lights, heat the machines, and stock the pastries before opening",
+    "original_description": "Bernard Lowe is being told by his boss to turn on the lights, heat the machines, and stock the pastries before opening",
+    "embedding_key": "Bernard Lowe is being told by his boss to turn on the lights, heat the machines, and stock the pastries before opening",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:07:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:08:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "turning on",
+    "object": "lights",
+    "description": "Maeve Millay is working at Hobbs Cafe (turning on the lights)",
+    "original_description": "Maeve Millay is working at Hobbs Cafe (turning on the lights)",
+    "embedding_key": "Maeve Millay is working at Hobbs Cafe (turning on the lights)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "lights"
+    ],
+    "filling": null
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:08:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "counter",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "counter"
+    ],
+    "filling": null
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:08:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating pre-opening tasks, including checking the espresso machine and stocking pastries",
+    "original_description": "coordinating pre-opening tasks, including checking the espresso machine and stocking pastries",
+    "embedding_key": "coordinating pre-opening tasks, including checking the espresso machine and stocking pastries",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Morning, Maeve. I'm just finishing up the pastry case. Bernard wants the espresso machine checked before we open, so I'm about to go over the pressure gauge. Let me know if you need a hand with the lights or anything else."
+      ],
+      [
+        "Maeve Millay",
+        "Morning, Dolores. I just got the lights on. I'll check the espresso machine pressure gauge with you in a minute, but I need to make sure the pastries are fully stocked first. Bernard was pretty clear about having everything ready before the first customer walks in."
+      ],
+      [
+        "Dolores Abernathy",
+        "Okay, I'll go check the pressure gauge now. I'll let you know if I need a hand."
+      ],
+      [
+        "Maeve Millay",
+        "Okay, I'll finish stocking the pastries. I'll be over to check the pressure gauge in a minute."
+      ]
+    ]
+  },
   "node_4": {
     "node_count": 4,
     "type_count": 2,
@@ -415,6 +2617,220 @@
     "keywords": [
       "dolores abernathy",
       "morning routine"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:08:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating pre-opening tasks, including checking the espresso machine and stocking pastries",
+    "original_description": "Dolores Abernathy is coordinating pre-opening tasks, including checking the espresso machine and stocking pastries",
+    "embedding_key": "Dolores Abernathy is coordinating pre-opening tasks, including checking the espresso machine and stocking pastries",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_39"
+    ]
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:08:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating pre-opening tasks, including checking the espresso machine and stocking pastries",
+    "original_description": "Maeve Millay is coordinating pre-opening tasks, including checking the espresso machine and stocking pastries",
+    "embedding_key": "Maeve Millay is coordinating pre-opening tasks, including checking the espresso machine and stocking pastries",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:08:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "cafe",
+    "description": "Bernard Lowe is managing the cafe and monitoring the baristas (checking the inventory levels)",
+    "original_description": "Bernard Lowe is managing the cafe and monitoring the baristas (checking the inventory levels)",
+    "embedding_key": "Bernard Lowe is managing the cafe and monitoring the baristas (checking the inventory levels)",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "cafe"
+    ],
+    "filling": null
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:09:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "checked",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is being checked",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:09:50",
+    "expiration": "2023-03-15 09:09:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "checking",
+    "object": "espresso machine pressure gauge",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to check the espresso machine pressure gauge before opening and let Maeve know if she needs a hand.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to check the espresso machine pressure gauge before opening and let Maeve know if she needs a hand.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to check the espresso machine pressure gauge before opening and let Maeve know if she needs a hand.",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "checking",
+      "espresso machine pressure gauge"
+    ],
+    "filling": null
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:09:50",
+    "expiration": "2023-03-15 09:09:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noted",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noted that Maeve was prioritizing the stocking of pastries over the espresso machine check to ensure everything was ready before the first customer arrived.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noted that Maeve was prioritizing the stocking of pastries over the espresso machine check to ensure everything was ready before the first customer arrived.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noted that Maeve was prioritizing the stocking of pastries over the espresso machine check to ensure everything was ready before the first customer arrived.",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "noted",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being stocked",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being stocked",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being stocked",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being stocked",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "working",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (stocking the pastry case)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (stocking the pastry case)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (stocking the pastry case)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being lit",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being lit",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being lit",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being lit",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "turning on",
+    "object": "lights",
+    "description": "Maeve Millay is working at Hobbs Cafe (turning on the lights)",
+    "original_description": "Maeve Millay is working at Hobbs Cafe (turning on the lights)",
+    "embedding_key": "Maeve Millay is working at Hobbs Cafe (turning on the lights)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "lights"
     ],
     "filling": null
   },
@@ -439,6 +2855,249 @@
     ],
     "filling": null
   },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:10:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "being sternly ordered by his supervisor to stock the pastry case before checking the espresso machine or opening the shop",
+    "original_description": "being sternly ordered by his supervisor to stock the pastry case before checking the espresso machine or opening the shop",
+    "embedding_key": "being sternly ordered by his supervisor to stock the pastry case before checking the espresso machine or opening the shop",
+    "poignancy": 4,
+    "valence": -6,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Abernathy, look at the pastry case. It's half empty and we're not even open yet. I told you to have everything stocked before the first customer walks in. Get it filled up, now."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Mr. Lowe. I'm on it right now. I just need to check the espresso machine pressure gauge first to make sure it's holding, but I'll have the case fully stocked before we open."
+      ],
+      [
+        "Bernard Lowe",
+        "Don't you dare touch that machine until the pastry case is full. I don't care if the pressure gauge is glowing red. I want to see those shelves packed before I even think about opening those doors. Move."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm moving to the pastry case right now."
+      ],
+      [
+        "Bernard Lowe",
+        "Don't make me repeat myself, Abernathy. I want to see those shelves packed before I even think about opening those doors. Move."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm filling the case right now."
+      ],
+      [
+        "Bernard Lowe",
+        "Good. Don't let me catch you dawdling again."
+      ]
+    ]
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is being sternly ordered by his supervisor to stock the pastry case before checking the espresso machine or opening the shop",
+    "original_description": "Dolores Abernathy is being sternly ordered by his supervisor to stock the pastry case before checking the espresso machine or opening the shop",
+    "embedding_key": "Dolores Abernathy is being sternly ordered by his supervisor to stock the pastry case before checking the espresso machine or opening the shop",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_50"
+    ]
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is being sternly ordered by his supervisor to stock the pastry case before checking the espresso machine or opening the shop",
+    "original_description": "Bernard Lowe is being sternly ordered by his supervisor to stock the pastry case before checking the espresso machine or opening the shop",
+    "embedding_key": "Bernard Lowe is being sternly ordered by his supervisor to stock the pastry case before checking the espresso machine or opening the shop",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:11:50",
+    "expiration": "2023-03-15 09:11:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "stocking",
+    "object": "pastry case",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to fully stock the pastry case before checking the espresso machine pressure gauge or opening the doors.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to fully stock the pastry case before checking the espresso machine pressure gauge or opening the doors.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to fully stock the pastry case before checking the espresso machine pressure gauge or opening the doors.",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "stocking",
+      "pastry case"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:11:50",
+    "expiration": "2023-03-15 09:11:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "learned",
+    "object": "Bernard Lowe prioritizes stocking the pastry case over checking the espresso machine pressure gauge before opening",
+    "description": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe prioritizes stocking the pastry case over checking the espresso machine pressure gauge before opening.",
+    "original_description": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe prioritizes stocking the pastry case over checking the espresso machine pressure gauge before opening.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy learned that Bernard Lowe prioritizes stocking the pastry case over checking the espresso machine pressure gauge before opening.",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "learned",
+      "bernard lowe prioritizes stocking the pastry case over checking the espresso machine pressure gauge before opening"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "wiping",
+    "object": "counter",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (wiping down the counter)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (wiping down the counter)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (wiping down the counter)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "counter"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "cafe",
+    "description": "Bernard Lowe is managing the cafe and monitoring the baristas (checking the inventory levels)",
+    "original_description": "Bernard Lowe is managing the cafe and monitoring the baristas (checking the inventory levels)",
+    "embedding_key": "Bernard Lowe is managing the cafe and monitoring the baristas (checking the inventory levels)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "cafe"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being monitored",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:12:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "wiping",
+    "object": "cafe counter",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being wiped",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being wiped",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being wiped",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "cafe counter"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:17:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "working",
+    "object": "register drawer",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (organizing the register drawer)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (organizing the register drawer)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (organizing the register drawer)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "register drawer"
+    ],
+    "filling": null
+  },
   "node_6": {
     "node_count": 6,
     "type_count": 4,
@@ -457,6 +3116,216 @@
     "keywords": [
       "dolores abernathy",
       "none"
+    ],
+    "filling": null
+  },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:17:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "working",
+    "object": "coffee machine",
+    "description": "Maeve Millay is working at Hobbs Cafe (checking the coffee machine)",
+    "original_description": "Maeve Millay is working at Hobbs Cafe (checking the coffee machine)",
+    "embedding_key": "Maeve Millay is working at Hobbs Cafe (checking the coffee machine)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "coffee machine"
+    ],
+    "filling": null
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:17:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "working",
+    "object": "barista",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (greeting early customers)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (greeting early customers)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (greeting early customers)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "barista"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:22:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "barista",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by barista",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by barista",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by barista",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "barista"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:23:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "stocking",
+    "object": "espresso machine",
+    "description": "Maeve Millay is working at Hobbs Cafe (stocking the espresso machine)",
+    "original_description": "Maeve Millay is working at Hobbs Cafe (stocking the espresso machine)",
+    "embedding_key": "Maeve Millay is working at Hobbs Cafe (stocking the espresso machine)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "espresso machine"
+    ],
+    "filling": null
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:23:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "cafe",
+    "description": "Bernard Lowe is managing the cafe and monitoring the baristas (inspecting the espresso machines)",
+    "original_description": "Bernard Lowe is managing the cafe and monitoring the baristas (inspecting the espresso machines)",
+    "embedding_key": "Bernard Lowe is managing the cafe and monitoring the baristas (inspecting the espresso machines)",
+    "poignancy": 3,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "cafe"
+    ],
+    "filling": null
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:23:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being monitored",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:24:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupying",
+    "object": "counter",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "counter"
+    ],
+    "filling": null
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:28:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being worked at",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being worked at",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being worked at",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being worked at",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:28:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "prepping",
+    "object": "pastry display",
+    "description": "Maeve Millay is working at Hobbs Cafe (prepping the pastry display)",
+    "original_description": "Maeve Millay is working at Hobbs Cafe (prepping the pastry display)",
+    "embedding_key": "Maeve Millay is working at Hobbs Cafe (prepping the pastry display)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "pastry display"
     ],
     "filling": null
   },
@@ -481,6 +3350,273 @@
     ],
     "filling": null
   },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:28:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is being micromanaged by a supervisor while preparing the espresso machine and pastry display for opening",
+    "original_description": "Bernard Lowe is being micromanaged by a supervisor while preparing the espresso machine and pastry display for opening",
+    "embedding_key": "Bernard Lowe is being micromanaged by a supervisor while preparing the espresso machine and pastry display for opening",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:28:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:28:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "working",
+    "object": "barista",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (greeting early customers)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (greeting early customers)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (greeting early customers)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "barista"
+    ],
+    "filling": null
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:28:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "barista",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by barista",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by barista",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied by barista",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "barista"
+    ],
+    "filling": null
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "running",
+    "object": "cafe",
+    "description": "I have learned that strict adherence to specific task priorities, like stocking pastries before checking the espresso machine, is essential for keeping the cafe running smoothly and meeting my boss's expectations.",
+    "original_description": "I have learned that strict adherence to specific task priorities, like stocking pastries before checking the espresso machine, is essential for keeping the cafe running smoothly and meeting my boss's expectations.",
+    "embedding_key": "I have learned that strict adherence to specific task priorities, like stocking pastries before checking the espresso machine, is essential for keeping the cafe running smoothly and meeting my boss's expectations.",
+    "poignancy": 3,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "running",
+      "cafe"
+    ],
+    "filling": [
+      "node_45",
+      "node_51",
+      "node_53",
+      "node_54",
+      "node_52"
+    ]
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "coordinating",
+    "object": "pre-opening tasks",
+    "description": "I view my relationship with Maeve as a collaborative partnership where we coordinate our pre-opening tasks to ensure the cafe is ready for customers.",
+    "original_description": "I view my relationship with Maeve as a collaborative partnership where we coordinate our pre-opening tasks to ensure the cafe is ready for customers.",
+    "embedding_key": "I view my relationship with Maeve as a collaborative partnership where we coordinate our pre-opening tasks to ensure the cafe is ready for customers.",
+    "poignancy": 3,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "coordinating",
+      "pre-opening tasks"
+    ],
+    "filling": [
+      "node_45",
+      "node_60",
+      "node_41",
+      "node_69",
+      "node_64",
+      "node_44",
+      "node_34"
+    ]
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "aware",
+    "object": "None",
+    "description": "I am aware that Bernard Lowe is under pressure from his own supervisor, which explains why he is so focused on monitoring us and enforcing specific opening procedures.",
+    "original_description": "I am aware that Bernard Lowe is under pressure from his own supervisor, which explains why he is so focused on monitoring us and enforcing specific opening procedures.",
+    "embedding_key": "I am aware that Bernard Lowe is under pressure from his own supervisor, which explains why he is so focused on monitoring us and enforcing specific opening procedures.",
+    "poignancy": 3,
+    "valence": 4,
+    "keywords": [
+      "dolores abernathy",
+      "aware",
+      "none"
+    ],
+    "filling": [
+      "node_56",
+      "node_35",
+      "node_70",
+      "node_52",
+      "node_65"
+    ]
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "expecting",
+    "object": "reading",
+    "description": "My expectation for the day is to follow a clear, task-oriented routine at work, which allows me to decompress and focus on my personal love of reading once I am back in my room.",
+    "original_description": "My expectation for the day is to follow a clear, task-oriented routine at work, which allows me to decompress and focus on my personal love of reading once I am back in my room.",
+    "embedding_key": "My expectation for the day is to follow a clear, task-oriented routine at work, which allows me to decompress and focus on my personal love of reading once I am back in my room.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "expecting",
+      "reading"
+    ],
+    "filling": [
+      "node_55",
+      "node_31",
+      "node_72",
+      "node_62",
+      "node_53",
+      "node_59",
+      "node_44",
+      "node_40",
+      "node_30"
+    ]
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "feeling flustered",
+    "object": "None",
+    "description": "My sense of self is defined by my role as a diligent barista who tries to do everything right, but I often feel flustered when I am being watched or put on the spot by management.",
+    "original_description": "My sense of self is defined by my role as a diligent barista who tries to do everything right, but I often feel flustered when I am being watched or put on the spot by management.",
+    "embedding_key": "My sense of self is defined by my role as a diligent barista who tries to do everything right, but I often feel flustered when I am being watched or put on the spot by management.",
+    "poignancy": 8,
+    "valence": -4,
+    "keywords": [
+      "dolores abernathy",
+      "feeling flustered",
+      "none"
+    ],
+    "filling": [
+      "node_55",
+      "node_56",
+      "node_31",
+      "node_72",
+      "node_63",
+      "node_73",
+      "node_66",
+      "node_59",
+      "node_57",
+      "node_40",
+      "node_30",
+      "node_68",
+      "node_67"
+    ]
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "feels",
+    "object": "None",
+    "description": "Dolores feels that her role at Hobbs Cafe is defined by strict, top-down supervision, which makes her feel scrutinized and prone to fluster.",
+    "original_description": "Dolores feels that her role at Hobbs Cafe is defined by strict, top-down supervision, which makes her feel scrutinized and prone to fluster.",
+    "embedding_key": "Dolores feels that her role at Hobbs Cafe is defined by strict, top-down supervision, which makes her feel scrutinized and prone to fluster.",
+    "poignancy": 7,
+    "valence": -4,
+    "keywords": [
+      "dolores abernathy",
+      "feels",
+      "none"
+    ],
+    "filling": [
+      "node_65",
+      "node_51",
+      "node_66",
+      "node_70",
+      "node_52",
+      "node_57"
+    ]
+  },
   "node_8": {
     "node_count": 8,
     "type_count": 6,
@@ -502,6 +3638,286 @@
     ],
     "filling": null
   },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "prioritizing",
+    "object": "boss's explicit instructions",
+    "description": "She has learned to prioritize the boss's explicit instructions, such as stocking pastries, over her own preferred tasks like checking the espresso machine.",
+    "original_description": "She has learned to prioritize the boss's explicit instructions, such as stocking pastries, over her own preferred tasks like checking the espresso machine.",
+    "embedding_key": "She has learned to prioritize the boss's explicit instructions, such as stocking pastries, over her own preferred tasks like checking the espresso machine.",
+    "poignancy": 3,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "prioritizing",
+      "boss's explicit instructions"
+    ],
+    "filling": [
+      "node_51",
+      "node_54",
+      "node_45",
+      "node_53"
+    ]
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "coordinating",
+    "object": "cafe",
+    "description": "Dolores views her relationship with Maeve as a collaborative partnership where they coordinate to keep the cafe running smoothly.",
+    "original_description": "Dolores views her relationship with Maeve as a collaborative partnership where they coordinate to keep the cafe running smoothly.",
+    "embedding_key": "Dolores views her relationship with Maeve as a collaborative partnership where they coordinate to keep the cafe running smoothly.",
+    "poignancy": 4,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "coordinating",
+      "cafe"
+    ],
+    "filling": [
+      "node_64",
+      "node_44",
+      "node_69",
+      "node_45",
+      "node_60",
+      "node_40"
+    ]
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "experiences",
+    "object": "conflict-averse nature",
+    "description": "She experiences a pattern of being put on the spot by management, which triggers her conflict-averse nature and makes her struggle to respond well.",
+    "original_description": "She experiences a pattern of being put on the spot by management, which triggers her conflict-averse nature and makes her struggle to respond well.",
+    "embedding_key": "She experiences a pattern of being put on the spot by management, which triggers her conflict-averse nature and makes her struggle to respond well.",
+    "poignancy": 9,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "experiences",
+      "conflict-averse nature"
+    ],
+    "filling": [
+      "node_51",
+      "node_70",
+      "node_52"
+    ]
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "sees",
+    "object": "workday",
+    "description": "Dolores sees her workday as a series of task-oriented duties that she must complete to maintain order, from waking up to greeting customers.",
+    "original_description": "Dolores sees her workday as a series of task-oriented duties that she must complete to maintain order, from waking up to greeting customers.",
+    "embedding_key": "Dolores sees her workday as a series of task-oriented duties that she must complete to maintain order, from waking up to greeting customers.",
+    "poignancy": 6,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "sees",
+      "workday"
+    ],
+    "filling": [
+      "node_30",
+      "node_55",
+      "node_62",
+      "node_72",
+      "node_31",
+      "node_59",
+      "node_15",
+      "node_47"
+    ]
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "believes",
+    "object": "being prepared and organized before opening",
+    "description": "Dolores believes that being prepared and organized before opening is essential to avoid conflict and ensure a smooth start to the day.",
+    "original_description": "Dolores believes that being prepared and organized before opening is essential to avoid conflict and ensure a smooth start to the day.",
+    "embedding_key": "Dolores believes that being prepared and organized before opening is essential to avoid conflict and ensure a smooth start to the day.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "believes",
+      "being prepared and organized before opening"
+    ],
+    "filling": [
+      "node_47",
+      "node_30",
+      "node_40",
+      "node_31",
+      "node_62",
+      "node_55",
+      "node_59",
+      "node_68",
+      "node_67",
+      "node_72"
+    ]
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "feels",
+    "object": "hierarchy and micromanagement in the cafe",
+    "description": "Dolores feels that the hierarchy and micromanagement in the cafe create a high-pressure environment where she must constantly adapt to external demands.",
+    "original_description": "Dolores feels that the hierarchy and micromanagement in the cafe create a high-pressure environment where she must constantly adapt to external demands.",
+    "embedding_key": "Dolores feels that the hierarchy and micromanagement in the cafe create a high-pressure environment where she must constantly adapt to external demands.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "feels",
+      "hierarchy and micromanagement in the cafe"
+    ],
+    "filling": [
+      "node_51",
+      "node_35",
+      "node_34",
+      "node_70"
+    ]
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "feels",
+    "object": "her worth at work",
+    "description": "Dolores feels that her worth at work is tied to strictly following the supervisor's exact sequence of tasks, even when it conflicts with her own instincts.",
+    "original_description": "Dolores feels that her worth at work is tied to strictly following the supervisor's exact sequence of tasks, even when it conflicts with her own instincts.",
+    "embedding_key": "Dolores feels that her worth at work is tied to strictly following the supervisor's exact sequence of tasks, even when it conflicts with her own instincts.",
+    "poignancy": 8,
+    "valence": -4,
+    "keywords": [
+      "dolores abernathy",
+      "feels",
+      "her worth at work"
+    ],
+    "filling": [
+      "node_51",
+      "node_54",
+      "node_44",
+      "node_53"
+    ]
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 18,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "perceives",
+    "object": "cafe environment",
+    "description": "Dolores perceives the cafe environment as constantly monitored, which likely increases her anxiety and flustered nature under scrutiny.",
+    "original_description": "Dolores perceives the cafe environment as constantly monitored, which likely increases her anxiety and flustered nature under scrutiny.",
+    "embedding_key": "Dolores perceives the cafe environment as constantly monitored, which likely increases her anxiety and flustered nature under scrutiny.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "perceives",
+      "cafe environment"
+    ],
+    "filling": [
+      "node_57",
+      "node_56",
+      "node_65",
+      "node_66",
+      "node_32",
+      "node_70"
+    ]
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 19,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:28:30",
+    "expiration": "2023-03-15 09:28:30",
+    "subject": "Dolores Abernathy",
+    "predicate": "running",
+    "object": "cafe",
+    "description": "Dolores views her relationship with Maeve as a collaborative partnership where they both strive to keep the cafe running smoothly.",
+    "original_description": "Dolores views her relationship with Maeve as a collaborative partnership where they both strive to keep the cafe running smoothly.",
+    "embedding_key": "Dolores views her relationship with Maeve as a collaborative partnership where they both strive to keep the cafe running smoothly.",
+    "poignancy": 4,
+    "valence": 4,
+    "keywords": [
+      "dolores abernathy",
+      "running",
+      "cafe"
+    ],
+    "filling": [
+      "node_69",
+      "node_49",
+      "node_45",
+      "node_60",
+      "node_64",
+      "node_34",
+      "node_41"
+    ]
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:28:50",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is being micromanaged by a supervisor while preparing the espresso machine and pastry display for opening",
+    "original_description": "Maeve Millay is being micromanaged by a supervisor while preparing the espresso machine and pastry display for opening",
+    "embedding_key": "Maeve Millay is being micromanaged by a supervisor while preparing the espresso machine and pastry display for opening",
+    "poignancy": 3,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
   "node_9": {
     "node_count": 9,
     "type_count": 7,
@@ -520,6 +3936,284 @@
     "keywords": [
       "dolores abernathy",
       "hair"
+    ],
+    "filling": null
+  },
+  "node_90": {
+    "node_count": 90,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:32:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "working",
+    "object": "coffee orders",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe (taking coffee orders)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe (taking coffee orders)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe (taking coffee orders)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "coffee orders"
+    ],
+    "filling": null
+  },
+  "node_91": {
+    "node_count": 91,
+    "type_count": 68,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:36:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being monitored",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being monitored",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_92": {
+    "node_count": 92,
+    "type_count": 69,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:36:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "managing",
+    "object": "cafe and baristas",
+    "description": "Bernard Lowe is managing the cafe and monitoring the baristas (observing the baristas' workflow)",
+    "original_description": "Bernard Lowe is managing the cafe and monitoring the baristas (observing the baristas' workflow)",
+    "embedding_key": "Bernard Lowe is managing the cafe and monitoring the baristas (observing the baristas' workflow)",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "cafe and baristas"
+    ],
+    "filling": null
+  },
+  "node_93": {
+    "node_count": 93,
+    "type_count": 70,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:36:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "working",
+    "object": "pastry display",
+    "description": "Maeve Millay is working at Hobbs Cafe (prepping the pastry display)",
+    "original_description": "Maeve Millay is working at Hobbs Cafe (prepping the pastry display)",
+    "embedding_key": "Maeve Millay is working at Hobbs Cafe (prepping the pastry display)",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "pastry display"
+    ],
+    "filling": null
+  },
+  "node_94": {
+    "node_count": 94,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:36:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "being sternly reprimanded by his supervisor for prioritizing the espresso machine over a crooked croissant in the pastry case, with repeated threats of disciplinary action if the display is not made flawless before opening",
+    "original_description": "being sternly reprimanded by his supervisor for prioritizing the espresso machine over a crooked croissant in the pastry case, with repeated threats of disciplinary action if the display is not made flawless before opening",
+    "embedding_key": "being sternly reprimanded by his supervisor for prioritizing the espresso machine over a crooked croissant in the pastry case, with repeated threats of disciplinary action if the display is not made flawless before opening",
+    "poignancy": 7,
+    "valence": -8,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Mr. Lowe. I'm just finishing up stocking the pastry case as you requested. Should I check the espresso machine pressure gauge next, or is there something else you need me to prioritize?"
+      ],
+      [
+        "Bernard Lowe",
+        "Don't you dare touch that pressure gauge until the pastry case is perfect. I see that croissant in the back row is still crooked. Fix it. Now. I am not leaving this spot until it is flawless, and I expect you to be ready for the first customer the second they walk in. Do not make me repeat myself."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm sorry about the croissant. I'll straighten it right away and make sure the case is exactly how you want it before I touch the machine."
+      ],
+      [
+        "Bernard Lowe",
+        "Don't just stand there looking at me. Move. If that croissant isn't straight and the case isn't spotless before the doors open, I'm writing you up. I'm watching you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm moving it now. I'll have the case spotless before the doors open."
+      ],
+      [
+        "Bernard Lowe",
+        "Don't just stand there looking at me. Move. If that croissant isn't straight and the case isn't spotless before the doors open, I'm writing you up. I'm watching you."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm moving it now. I'll have the case spotless before the doors open."
+      ],
+      [
+        "Bernard Lowe",
+        "I don't care about your promises, Dolores. I care about results. Keep your eyes on that croissant. If I catch you looking at the espresso machine before that case is perfect, you're done. Now get to work."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm on it. I won't touch the machine until the case is perfect."
+      ],
+      [
+        "Bernard Lowe",
+        "I don't care about your promises, Dolores. I care about results. Keep your eyes on that croissant. If I catch you looking at the espresso machine before that case is perfect, you're done. Now get to work."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I'm on it. I won't touch the machine until the case is perfect."
+      ],
+      [
+        "Bernard Lowe",
+        "Good. I'm watching you. Don't make me repeat myself."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I am focusing on the case now."
+      ],
+      [
+        "Bernard Lowe",
+        "Keep your eyes on that case. I'm not leaving until it's perfect."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, sir. I am focusing on the case now."
+      ],
+      [
+        "Bernard Lowe",
+        "I don't care about your promises, Dolores. I care about results. Keep your eyes on that croissant. If I catch you looking at the espresso machine before that case is perfect, you're done. Now get to work."
+      ]
+    ]
+  },
+  "node_95": {
+    "node_count": 95,
+    "type_count": 71,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:36:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is being sternly reprimanded by his supervisor for prioritizing the espresso machine over a crooked croissant in the pastry case, with repeated threats of disciplinary action if the display is not made flawless before opening",
+    "original_description": "Dolores Abernathy is being sternly reprimanded by his supervisor for prioritizing the espresso machine over a crooked croissant in the pastry case, with repeated threats of disciplinary action if the display is not made flawless before opening",
+    "embedding_key": "Dolores Abernathy is being sternly reprimanded by his supervisor for prioritizing the espresso machine over a crooked croissant in the pastry case, with repeated threats of disciplinary action if the display is not made flawless before opening",
+    "poignancy": 5,
+    "valence": -6,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_94"
+    ]
+  },
+  "node_96": {
+    "node_count": 96,
+    "type_count": 72,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:36:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_97": {
+    "node_count": 97,
+    "type_count": 73,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:36:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is being sternly reprimanded by his supervisor for prioritizing the espresso machine over a crooked croissant in the pastry case, with repeated threats of disciplinary action if the display is not made flawless before opening",
+    "original_description": "Bernard Lowe is being sternly reprimanded by his supervisor for prioritizing the espresso machine over a crooked croissant in the pastry case, with repeated threats of disciplinary action if the display is not made flawless before opening",
+    "embedding_key": "Bernard Lowe is being sternly reprimanded by his supervisor for prioritizing the espresso machine over a crooked croissant in the pastry case, with repeated threats of disciplinary action if the display is not made flawless before opening",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_98": {
+    "node_count": 98,
+    "type_count": 74,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:36:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "working",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being worked at",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being worked at",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being worked at",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_99": {
+    "node_count": 99,
+    "type_count": 20,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:42:50",
+    "expiration": "2023-03-15 09:42:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "planning",
+    "object": "the crooked croissant and the pastry case",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to fix the crooked croissant and make the pastry case spotless before the doors open, and not to touch the espresso machine until the case is perfect.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to fix the crooked croissant and make the pastry case spotless before the doors open, and not to touch the espresso machine until the case is perfect.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to fix the crooked croissant and make the pastry case spotless before the doors open, and not to touch the espresso machine until the case is perfect.",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "planning",
+      "the crooked croissant and the pastry case"
     ],
     "filling": null
   }

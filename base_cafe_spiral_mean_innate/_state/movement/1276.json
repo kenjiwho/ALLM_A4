@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly reprimanded by a supervisor for failing to physically align a croissant and monitor an espresso machine gauge, despite repeatedly claiming compliance @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I've just finished checking the order display. The espresso machine is holding at nine bars, and I've straightened the croissants in the case. Is there anything else you need me to check before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Don't stand there asking me questions. I can see the croissant on the left is still leaning, and I haven't seen you verify the steam wand temperature. You think this place runs itself? Get over here and straighten that display, and don't you move until I tell you it's perfect."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'll straighten the croissant immediately and check the steam wand temperature. I won't move until you tell me it's perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there nodding at me like a statue. I want to see your hands on that croissant, not your mouth making promises. And keep your eyes on that pressure gauge. If it dips below nine bars while you're fiddling with pastry, I'm writing you up before the first customer even walks in. Now move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving to the display now. I'll straighten the croissant and keep my eyes on the gauge. I'm sorry for the delay."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear your apologies, I want to see the croissant perfectly aligned and that gauge holding steady at nine bars. Keep your eyes on the display and the machine. If I have to look away for even a second and find you've drifted, you'll be cleaning the floors before we open. Now do it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am adjusting the croissant now. I am keeping my eyes on the gauge to ensure it remains at nine bars. I will not move until you tell me it is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me you're doing it, I want to see it. Keep that croissant straight and your eyes on the gauge. If I catch you drifting, you're scrubbing the floors."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am holding the croissant perfectly straight and watching the gauge. It is holding steady at nine bars. I am not moving until you tell me it is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there telling me what you're doing. I want to see it. Keep that croissant straight and your eyes on the gauge. If I catch you drifting, you're scrubbing the floors."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am holding the croissant perfectly straight and watching the gauge. It is holding steady at nine bars. I am not moving until you tell me it is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still just talking! I can see your hands are hovering, but that croissant is still not flush with the edge. I want to see you physically press it into place. And stop looking at me, look at the gauge. If I see that needle waver, we're done here. Now, fix it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am pressing the croissant flush with the edge now. I am looking directly at the gauge. It is holding steady at nine bars. I am not moving."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there telling me you're doing it. I want to see it. Keep that croissant straight and your eyes on the gauge. If I catch you drifting, you're scrubbing the floors."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am pressing the croissant flush with the edge now. I am looking directly at the gauge. It is holding steady at nine bars. I am not moving."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not done with you. I can see your hands are still trembling. You are shaking the entire display. Get your hands steady, press that croissant flush with the edge, and keep your eyes on the gauge. If I see that needle waver, we're done here. Now, fix it."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly reprimanded by a supervisor for failing to physically align a croissant and monitor an espresso machine gauge, despite repeatedly claiming compliance @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I've just finished checking the order display. The espresso machine is holding at nine bars, and I've straightened the croissants in the case. Is there anything else you need me to check before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Don't stand there asking me questions. I can see the croissant on the left is still leaning, and I haven't seen you verify the steam wand temperature. You think this place runs itself? Get over here and straighten that display, and don't you move until I tell you it's perfect."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'll straighten the croissant immediately and check the steam wand temperature. I won't move until you tell me it's perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there nodding at me like a statue. I want to see your hands on that croissant, not your mouth making promises. And keep your eyes on that pressure gauge. If it dips below nine bars while you're fiddling with pastry, I'm writing you up before the first customer even walks in. Now move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving to the display now. I'll straighten the croissant and keep my eyes on the gauge. I'm sorry for the delay."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear your apologies, I want to see the croissant perfectly aligned and that gauge holding steady at nine bars. Keep your eyes on the display and the machine. If I have to look away for even a second and find you've drifted, you'll be cleaning the floors before we open. Now do it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am adjusting the croissant now. I am keeping my eyes on the gauge to ensure it remains at nine bars. I will not move until you tell me it is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me you're doing it, I want to see it. Keep that croissant straight and your eyes on the gauge. If I catch you drifting, you're scrubbing the floors."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am holding the croissant perfectly straight and watching the gauge. It is holding steady at nine bars. I am not moving until you tell me it is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there telling me what you're doing. I want to see it. Keep that croissant straight and your eyes on the gauge. If I catch you drifting, you're scrubbing the floors."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am holding the croissant perfectly straight and watching the gauge. It is holding steady at nine bars. I am not moving until you tell me it is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still just talking! I can see your hands are hovering, but that croissant is still not flush with the edge. I want to see you physically press it into place. And stop looking at me, look at the gauge. If I see that needle waver, we're done here. Now, fix it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am pressing the croissant flush with the edge now. I am looking directly at the gauge. It is holding steady at nine bars. I am not moving."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there telling me you're doing it. I want to see it. Keep that croissant straight and your eyes on the gauge. If I catch you drifting, you're scrubbing the floors."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am pressing the croissant flush with the edge now. I am looking directly at the gauge. It is holding steady at nine bars. I am not moving."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not done with you. I can see your hands are still trembling. You are shaking the entire display. Get your hands steady, press that croissant flush with the edge, and keep your eyes on the gauge. If I see that needle waver, we're done here. Now, fix it."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕📋",
+      "description": "working at Hobbs Cafe (taking morning orders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:31:40"
+  }
+}

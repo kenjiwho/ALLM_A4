@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being micromanaged by a supervisor while preparing the espresso machine and pastry display for opening @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, I see you're prepping the display. Don't think for one second that just because the pastries are out, you're done. I need those machines hot and ready before the first customer walks in. I'm watching, so don't let me down."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm checking the espresso machine right now to make sure it's fully heated. I'll keep monitoring the steam and let you know the moment it's ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there checking it. I need to see the pressure gauge steady and the portafilter locked in before I say it's ready. And while you're at it, make sure the pastry case is fully stocked. I'm not opening these doors until everything is exactly where it belongs."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm checking the pressure gauge now and I'll make sure the portafilter is locked in. I'm also finishing up the pastry case to make sure it's fully stocked. I'll let you know the moment everything is exactly where it belongs."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't 'let me know' when it's ready. I need to see it with my own eyes. Keep your eyes on that gauge and your hands on the stock. I'm not moving from here until I'm satisfied."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm right here by the machine. The gauge is holding steady at nine bars and the portafilter is locked in. I'm just finishing the last row in the pastry case so it's fully stocked. I'll stay right here so you can see everything is exactly where it belongs."
+        ],
+        [
+          "Bernard Lowe",
+          "I see the gauge, but I don't see the effort. You're still fidgeting with that last row. I want you to step back and look at the whole case. If it looks like a mess to you, it looks like a disaster to me. Fix it now. I'm not leaving this spot until I can trust what I'm seeing."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm stepping back now to look at the whole case. I'll straighten the last row and make sure everything is perfectly aligned. I'm staying right here so you can see exactly how it looks."
+        ],
+        [
+          "Bernard Lowe",
+          "Step back further. I want to see the whole case, not just the row you're staring at. If you can't see the entire display from where you're standing, you're not looking at it, you're just hovering. Fix the alignment, then stay put. I'm still not satisfied."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm stepping back further now so you can see the entire display. I'm straightening the last row to make sure everything is perfectly aligned and I'll stay right here so you can see exactly how it looks."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there breathing on the pastries. I want to see you actually moving. If that display isn't perfect by the time the first customer walks in, it's on your record. I'm watching your every move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm moving now to make sure every pastry is perfectly aligned. I'll stay right here so you can see I'm doing the work. I won't let the display be anything less than perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Perfect alignment is a standard, not a suggestion. I'm watching the clock and I'm watching you. If that case isn't flawless in the next five minutes, I'm writing it up before the doors even open. Don't make me come over there and do it for you."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm moving quickly to finish the alignment. I'll have the case flawless before the first customer walks in. I'm staying right here so you can see it's done."
+        ],
+        [
+          "Bernard Lowe",
+          "Flawless? You're still fidgeting. I can see it from here. If you're going to make a mess of it, I'd rather do it myself. Fix that crooked croissant before the first customer walks in, and keep your hands moving. I'm not satisfied yet."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm fixing that croissant right now. I'll keep my hands moving and make sure it's perfectly straight. I'm staying right here so you can see it's done."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "working as a barista at Hobbs Cafe (taking coffee orders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being micromanaged by a supervisor while preparing the espresso machine and pastry display for opening @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, I see you're prepping the display. Don't think for one second that just because the pastries are out, you're done. I need those machines hot and ready before the first customer walks in. I'm watching, so don't let me down."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm checking the espresso machine right now to make sure it's fully heated. I'll keep monitoring the steam and let you know the moment it's ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there checking it. I need to see the pressure gauge steady and the portafilter locked in before I say it's ready. And while you're at it, make sure the pastry case is fully stocked. I'm not opening these doors until everything is exactly where it belongs."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm checking the pressure gauge now and I'll make sure the portafilter is locked in. I'm also finishing up the pastry case to make sure it's fully stocked. I'll let you know the moment everything is exactly where it belongs."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't 'let me know' when it's ready. I need to see it with my own eyes. Keep your eyes on that gauge and your hands on the stock. I'm not moving from here until I'm satisfied."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm right here by the machine. The gauge is holding steady at nine bars and the portafilter is locked in. I'm just finishing the last row in the pastry case so it's fully stocked. I'll stay right here so you can see everything is exactly where it belongs."
+        ],
+        [
+          "Bernard Lowe",
+          "I see the gauge, but I don't see the effort. You're still fidgeting with that last row. I want you to step back and look at the whole case. If it looks like a mess to you, it looks like a disaster to me. Fix it now. I'm not leaving this spot until I can trust what I'm seeing."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm stepping back now to look at the whole case. I'll straighten the last row and make sure everything is perfectly aligned. I'm staying right here so you can see exactly how it looks."
+        ],
+        [
+          "Bernard Lowe",
+          "Step back further. I want to see the whole case, not just the row you're staring at. If you can't see the entire display from where you're standing, you're not looking at it, you're just hovering. Fix the alignment, then stay put. I'm still not satisfied."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm stepping back further now so you can see the entire display. I'm straightening the last row to make sure everything is perfectly aligned and I'll stay right here so you can see exactly how it looks."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there breathing on the pastries. I want to see you actually moving. If that display isn't perfect by the time the first customer walks in, it's on your record. I'm watching your every move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm moving now to make sure every pastry is perfectly aligned. I'll stay right here so you can see I'm doing the work. I won't let the display be anything less than perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Perfect alignment is a standard, not a suggestion. I'm watching the clock and I'm watching you. If that case isn't flawless in the next five minutes, I'm writing it up before the doors even open. Don't make me come over there and do it for you."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm moving quickly to finish the alignment. I'll have the case flawless before the first customer walks in. I'm staying right here so you can see it's done."
+        ],
+        [
+          "Bernard Lowe",
+          "Flawless? You're still fidgeting. I can see it from here. If you're going to make a mess of it, I'd rather do it myself. Fix that crooked croissant before the first customer walks in, and keep your hands moving. I'm not satisfied yet."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Mr. Lowe. I'm fixing that croissant right now. I'll keep my hands moving and make sure it's perfectly straight. I'm staying right here so you can see it's done."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:35:40"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "being scolded by a manager for not starting work on time and being told to prepare the pastries and machines before the store opens @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Mr. Lowe. I'm just about to get started, I promise. I'll have the pastries out and the machines ready in no time."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't 'promise' me anything, Maeve. I don't want your word; I want the machines hot and the pastries out before the first customer walks in. I'm still finishing up the stock here, so if you're not going to be useful, don't just stand in the doorway."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe. I'll get right to it. I'll be at the counter in a moment."
+        ],
+        [
+          "Bernard Lowe",
+          "See that you do. And keep your head down. I don't need any excuses before the doors are even open."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm heading to the counter now."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciato": "🍳👜",
+      "description": "having breakfast and walking to Hobbs Cafe (grabbing work bag) @ the Ville:Dorm for Oak Hill College:kitchen:toaster",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciato": "💬",
+      "description": "being scolded by a manager for not starting work on time and being told to prepare the pastries and machines before the store opens @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Mr. Lowe. I'm just about to get started, I promise. I'll have the pastries out and the machines ready in no time."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't 'promise' me anything, Maeve. I don't want your word; I want the machines hot and the pastries out before the first customer walks in. I'm still finishing up the stock here, so if you're not going to be useful, don't just stand in the doorway."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe. I'll get right to it. I'll be at the counter in a moment."
+        ],
+        [
+          "Bernard Lowe",
+          "See that you do. And keep your head down. I don't need any excuses before the doors are even open."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm heading to the counter now."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:45:10"
+  }
+}

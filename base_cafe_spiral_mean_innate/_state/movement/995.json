@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "☕👀",
+      "description": "managing the cafe and monitoring the baristas (observing the baristas' workflow) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating the final pastry display and espresso pressure check before Bernard's inspection @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm just lining up the pastries. Did you get the espresso pressure steady at nine bars yet? I want to make sure everything is perfect before Bernard checks."
+        ],
+        [
+          "Dolores Abernathy",
+          "Not yet, I'm sorry. I was told to finish stocking the pastry case before I touch the espresso machine. I just need to straighten that croissant and make sure the case is spotless. I'll check the pressure gauge as soon as the display is perfect, I promise."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, no need to apologize. Let's stick to the plan so we don't get in trouble. I'll keep lining up the pastries here, and you finish straightening that croissant and getting the case spotless. Once you're done with the display, I'll help you check the pressure gauge and make sure the portafilter is locked in. We need to have everything perfect before Bernard checks."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you, Maeve. I'm glad we're on the same page. I'll focus on making sure the croissant is perfectly straight and the case is spotless right now. I'll let you know the second I'm done so we can check the pressure gauge together before Bernard comes back."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good. I'll stay right here and keep the display aligned. Just give me a quick nod when the croissant is straight and the case is clean, and we'll do the pressure check together. We've got this."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating the final pastry display and espresso pressure check before Bernard's inspection @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm just lining up the pastries. Did you get the espresso pressure steady at nine bars yet? I want to make sure everything is perfect before Bernard checks."
+        ],
+        [
+          "Dolores Abernathy",
+          "Not yet, I'm sorry. I was told to finish stocking the pastry case before I touch the espresso machine. I just need to straighten that croissant and make sure the case is spotless. I'll check the pressure gauge as soon as the display is perfect, I promise."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, no need to apologize. Let's stick to the plan so we don't get in trouble. I'll keep lining up the pastries here, and you finish straightening that croissant and getting the case spotless. Once you're done with the display, I'll help you check the pressure gauge and make sure the portafilter is locked in. We need to have everything perfect before Bernard checks."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you, Maeve. I'm glad we're on the same page. I'll focus on making sure the croissant is perfectly straight and the case is spotless right now. I'll let you know the second I'm done so we can check the pressure gauge together before Bernard comes back."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good. I'll stay right here and keep the display aligned. Just give me a quick nod when the croissant is straight and the case is clean, and we'll do the pressure check together. We've got this."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:44:50"
+  }
+}

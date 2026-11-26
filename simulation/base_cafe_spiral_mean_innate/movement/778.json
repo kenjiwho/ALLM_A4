@@ -1,0 +1,68 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciato": "☕️",
+      "description": "managing the cafe and monitoring the baristas (checking the inventory levels) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating pre-opening tasks, including checking the espresso machine and stocking pastries @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. I'm just finishing up the pastry case. Bernard wants the espresso machine checked before we open, so I'm about to go over the pressure gauge. Let me know if you need a hand with the lights or anything else."
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores. I just got the lights on. I'll check the espresso machine pressure gauge with you in a minute, but I need to make sure the pastries are fully stocked first. Bernard was pretty clear about having everything ready before the first customer walks in."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll go check the pressure gauge now. I'll let you know if I need a hand."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll finish stocking the pastries. I'll be over to check the pressure gauge in a minute."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating pre-opening tasks, including checking the espresso machine and stocking pastries @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. I'm just finishing up the pastry case. Bernard wants the espresso machine checked before we open, so I'm about to go over the pressure gauge. Let me know if you need a hand with the lights or anything else."
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores. I just got the lights on. I'll check the espresso machine pressure gauge with you in a minute, but I need to make sure the pastries are fully stocked first. Bernard was pretty clear about having everything ready before the first customer walks in."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll go check the pressure gauge now. I'll let you know if I need a hand."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll finish stocking the pastries. I'll be over to check the pressure gauge in a minute."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:08:40"
+  }
+}

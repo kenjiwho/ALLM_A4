@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly berated by a demanding supervisor for failing to visibly straighten a croissant and verify espresso pressure, culminating in a threat of disciplinary action @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, what on earth are you doing standing there with that menu? The espresso machine isn't going to heat itself, and that pastry case is a disgrace. I see you fidgeting with the last row again. Fix that crooked croissant and get the pressure check done before the first customer walks in. I am not leaving my spot until this place is flawless. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm on it. I'm straightening the croissant right now and I'm checking the pressure gauge. It's steady at nine bars and the portafilter is locked in. I'll have the display perfect before you inspect it."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me it's steady, show me. I'm watching the counter, Maeve. I want to see that croissant straight and the display flawless before I say a word. Keep moving."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving to the pastry case now. I'm going to straighten that croissant and check the pressure gauge again right in front of you. I'll have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me you're moving. I want to see that croissant straight and the pressure gauge at nine bars before I say a word. I am not leaving my spot until this place is flawless. Keep moving."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am at the case now. I have the croissant straight and the pressure is steady at nine bars. The portafilter is locked in. I am ready for you to inspect."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it. I see you standing there. I want to see that croissant straight and the pressure gauge at nine bars before I say a word. I am not leaving my spot until this place is flawless. Keep moving."
+        ],
+        [
+          "Maeve Millay",
+          "I am moving the croissant now. I am turning the portafilter and checking the gauge. I am looking at the nine bars. I am ready."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it. I see you standing there. I want to see that croissant straight and the pressure gauge at nine bars before I say a word. I am not leaving my spot until this place is flawless. Keep moving."
+        ],
+        [
+          "Maeve Millay",
+          "I'm turning the croissant to the left now. I'm locking the portafilter in place and watching the gauge. It is at nine bars. I am looking at the case."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still fidgeting! I can see the croissant is still not perfectly aligned. Get your hands off the portafilter and focus on the display. I want that croissant straight and the case flawless before I say a word. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am stepping back from the portafilter. I am using my fingertips to straighten the croissant to the exact line. I am not touching the machine. I am looking at the case."
+        ],
+        [
+          "Bernard Lowe",
+          "I see you stepping back, but I don't see the croissant straight. I see you fidgeting with your hands. I want to see that croissant straight and the case flawless before I say a word. I am not leaving my spot until this place is flawless. Keep moving."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am holding the croissant perfectly still. I am not touching the machine. I am looking at the case. It is straight."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't believe you. I see you holding it, but I don't see it straight. You're shaking. Put it down and let me see the case. If you touch that croissant again, I'm writing you up. I am not leaving my spot until this place is flawless."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am putting the croissant down. I am stepping back. I am not touching the case. I am waiting for you to inspect."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "working as a barista at Hobbs Cafe (preparing espresso drinks) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly berated by a demanding supervisor for failing to visibly straighten a croissant and verify espresso pressure, culminating in a threat of disciplinary action @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, what on earth are you doing standing there with that menu? The espresso machine isn't going to heat itself, and that pastry case is a disgrace. I see you fidgeting with the last row again. Fix that crooked croissant and get the pressure check done before the first customer walks in. I am not leaving my spot until this place is flawless. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm on it. I'm straightening the croissant right now and I'm checking the pressure gauge. It's steady at nine bars and the portafilter is locked in. I'll have the display perfect before you inspect it."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me it's steady, show me. I'm watching the counter, Maeve. I want to see that croissant straight and the display flawless before I say a word. Keep moving."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving to the pastry case now. I'm going to straighten that croissant and check the pressure gauge again right in front of you. I'll have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me you're moving. I want to see that croissant straight and the pressure gauge at nine bars before I say a word. I am not leaving my spot until this place is flawless. Keep moving."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am at the case now. I have the croissant straight and the pressure is steady at nine bars. The portafilter is locked in. I am ready for you to inspect."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it. I see you standing there. I want to see that croissant straight and the pressure gauge at nine bars before I say a word. I am not leaving my spot until this place is flawless. Keep moving."
+        ],
+        [
+          "Maeve Millay",
+          "I am moving the croissant now. I am turning the portafilter and checking the gauge. I am looking at the nine bars. I am ready."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it. I see you standing there. I want to see that croissant straight and the pressure gauge at nine bars before I say a word. I am not leaving my spot until this place is flawless. Keep moving."
+        ],
+        [
+          "Maeve Millay",
+          "I'm turning the croissant to the left now. I'm locking the portafilter in place and watching the gauge. It is at nine bars. I am looking at the case."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still fidgeting! I can see the croissant is still not perfectly aligned. Get your hands off the portafilter and focus on the display. I want that croissant straight and the case flawless before I say a word. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am stepping back from the portafilter. I am using my fingertips to straighten the croissant to the exact line. I am not touching the machine. I am looking at the case."
+        ],
+        [
+          "Bernard Lowe",
+          "I see you stepping back, but I don't see the croissant straight. I see you fidgeting with your hands. I want to see that croissant straight and the case flawless before I say a word. I am not leaving my spot until this place is flawless. Keep moving."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am holding the croissant perfectly still. I am not touching the machine. I am looking at the case. It is straight."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't believe you. I see you holding it, but I don't see it straight. You're shaking. Put it down and let me see the case. If you touch that croissant again, I'm writing you up. I am not leaving my spot until this place is flawless."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am putting the croissant down. I am stepping back. I am not touching the case. I am waiting for you to inspect."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:59:20"
+  }
+}
