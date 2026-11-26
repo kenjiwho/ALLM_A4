@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        14
+      ],
+      "pronunciato": "🏃🏻‍♂️🚪",
+      "description": "walking to Hobbs cafe (locking the front door) @ the Ville:Bernard Lowe's apartment:main room:closet",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        123,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "repeatedly agreeing to grab aprons and name tags before heading out @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. I just got the coffee maker ready for us. Are you all set for the shift today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. Yes, I think I'm all set. I just need to grab my apron and name tag before we head out. Did you get your coffee ready?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, I did. I'll make sure to grab that coffee on the way back from the park like you reminded me. Just need to find my apron and name tag too. Ready to head out whenever you are."
+        ],
+        [
+          "Dolores Abernathy",
+          "Great, let's head out then. Don't forget to grab your apron and name tag before we leave."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll grab my apron and name tag too. Let's go."
+        ],
+        [
+          "Dolores Abernathy",
+          "Perfect. Let's get our aprons and name tags and head out. I'll meet you at the door."
+        ],
+        [
+          "Maeve Millay",
+          "I'll be right there. Just a sec."
+        ],
+        [
+          "Dolores Abernathy",
+          "Perfect. I'll be right here. Let's grab our aprons and name tags and head out."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, I'll grab my apron and name tag. I'll meet you at the door in a minute."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll be right here. Just a sec."
+        ],
+        [
+          "Maeve Millay",
+          "I'll be there in a minute. Just grabbing my apron."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll be right here. Just grabbing my apron and name tag. I'll be out in a minute."
+        ],
+        [
+          "Maeve Millay",
+          "I'm grabbing my apron now. I'll be out in just a minute."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll be right here. Just grabbing my apron and name tag. I'll be out in a minute."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll be out in a minute. Just grabbing my apron."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll be right here. Just grabbing my apron and name tag. I'll be out in a minute."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "repeatedly agreeing to grab aprons and name tags before heading out @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. I just got the coffee maker ready for us. Are you all set for the shift today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. Yes, I think I'm all set. I just need to grab my apron and name tag before we head out. Did you get your coffee ready?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, I did. I'll make sure to grab that coffee on the way back from the park like you reminded me. Just need to find my apron and name tag too. Ready to head out whenever you are."
+        ],
+        [
+          "Dolores Abernathy",
+          "Great, let's head out then. Don't forget to grab your apron and name tag before we leave."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll grab my apron and name tag too. Let's go."
+        ],
+        [
+          "Dolores Abernathy",
+          "Perfect. Let's get our aprons and name tags and head out. I'll meet you at the door."
+        ],
+        [
+          "Maeve Millay",
+          "I'll be right there. Just a sec."
+        ],
+        [
+          "Dolores Abernathy",
+          "Perfect. I'll be right here. Let's grab our aprons and name tags and head out."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, I'll grab my apron and name tag. I'll meet you at the door in a minute."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll be right here. Just a sec."
+        ],
+        [
+          "Maeve Millay",
+          "I'll be there in a minute. Just grabbing my apron."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll be right here. Just grabbing my apron and name tag. I'll be out in a minute."
+        ],
+        [
+          "Maeve Millay",
+          "I'm grabbing my apron now. I'll be out in just a minute."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll be right here. Just grabbing my apron and name tag. I'll be out in a minute."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll be out in a minute. Just grabbing my apron."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll be right here. Just grabbing my apron and name tag. I'll be out in a minute."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:23:30"
+  }
+}

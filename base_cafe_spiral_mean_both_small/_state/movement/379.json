@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciato": "🚶☁️",
+      "description": "walking to Hobbs cafe (checking the weather forecast) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        124,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "confirming work readiness and logistics for a morning shift at the cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Ready for work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. Yeah, I'm ready. Bernard texted me this morning about the coffee machine, so I've got to make sure it's working before we open. You ready?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll be there in a few minutes. Just finishing up my morning routine. Good luck with the machine, I hope it's not a hassle."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing. I'll check it out before we get there. See you soon!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good. I'll be there in a few minutes. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Great, I'll see you at the cafe then. Don't forget to grab a coffee on the way back from your walk!"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. I'll see you at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "You too, Maeve. It'll be great to see you there. I'll be at Hobbs in a bit."
+        ],
+        [
+          "Maeve Millay",
+          "You too, Dolores. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Perfect, Maeve. Just don't forget your apron and name tag. See you in a bit!"
+        ],
+        [
+          "Maeve Millay",
+          "You too, Dolores. See you in a bit!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        125,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "confirming work readiness and logistics for a morning shift at the cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Ready for work?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. Yeah, I'm ready. Bernard texted me this morning about the coffee machine, so I've got to make sure it's working before we open. You ready?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll be there in a few minutes. Just finishing up my morning routine. Good luck with the machine, I hope it's not a hassle."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing. I'll check it out before we get there. See you soon!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good. I'll be there in a few minutes. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Great, I'll see you at the cafe then. Don't forget to grab a coffee on the way back from your walk!"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. I'll see you at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "You too, Maeve. It'll be great to see you there. I'll be at Hobbs in a bit."
+        ],
+        [
+          "Maeve Millay",
+          "You too, Dolores. See you soon!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Perfect, Maeve. Just don't forget your apron and name tag. See you in a bit!"
+        ],
+        [
+          "Maeve Millay",
+          "You too, Dolores. See you in a bit!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:02:10"
+  }
+}
