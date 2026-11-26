@@ -1,2 +1,20 @@
-{"kw_strength_event": {},
- "kw_strength_thought": {}}
+{
+  "kw_strength_thought": {
+    "plan": 1
+  },
+  "kw_strength_event": {
+    "bed": 6,
+    "breakfast": 3,
+    "closet": 3,
+    "computer": 1,
+    "cooking area": 1,
+    "desk": 1,
+    "dolores abernathy": 10,
+    "face": 1,
+    "hair": 1,
+    "kitchen sink": 1,
+    "morning routine": 3,
+    "none": 16,
+    "toaster": 1
+  }
+}

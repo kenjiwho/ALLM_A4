@@ -2,8 +2,11 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": null,
-  "curr_tile": null,
+  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_tile": [
+    52,
+    30
+  ],
   "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
   "name": "Maeve Millay",
   "first_name": "Maeve",
@@ -14,47 +17,476 @@
   "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
   "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
   "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
-  "concept_forget": 100,
-  "daily_reflection_time": 180,
-  "daily_reflection_size": 5,
-  "overlap_reflect_th": 4,
-  "kw_strg_event_reflect_th": 10,
-  "kw_strg_thought_reflect_th": 9,
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
   "recency_w": 1,
   "relevance_w": 1,
   "importance_w": 1,
   "valence_w": 0,
-  "recency_decay": 0.99,
   "asymetric_encoding": false,
-  "negativity_bias": 1.0,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 75,
-  "importance_ele_n": 0,
-  "thought_count": 5,
-  "daily_req": [],
-  "f_daily_schedule": [],
-  "f_daily_schedule_hourly_org": [],
-  "act_address": null,
-  "act_start_time": null,
-  "act_duration": null,
-  "act_description": null,
-  "act_pronunciatio": null,
+  "importance_trigger_curr": 48,
+  "importance_ele_n": 26,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "have breakfast at 7:00 am",
+    "walk to Hobbs Cafe at 8:00 am",
+    "work at Hobbs Cafe from 8:00 am to 4:00 pm",
+    "walk to Johnson Park at 4:00 pm",
+    "walk through Johnson Park from 4:00 pm to 8:00 pm",
+    "have dinner at the dorm at 8:00 pm",
+    "spend time in her room from 8:00 pm to 11:00 pm",
+    "go to bed at 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine (turning off the alarm)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (stretching in the room)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (turning on the bathroom light)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (brushing teeth)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (washing face)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (combing hair)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (drying face and hands)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (choosing work clothes)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (putting on clothes)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (putting on shoes)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (packing work bag)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (putting on walking shoes)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (grabbing a warm coat)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (locking the dorm door)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (walking along the main street)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (crossing the park entrance)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (walking through the side streets)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at Hobbs Cafe)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (unlocking the cafe door)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (unlocking the cafe door)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (turning on the lights)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (checking the coffee machine)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (stocking the espresso machine)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (prepping the pastry display)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (setting up the register)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (reviewing the daily menu)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (greeting early customers)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (taking morning orders)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (brewing coffee drinks)",
+      20
+    ],
+    [
+      "working at Hobbs Cafe (serving morning customers)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (restocking milk and cups)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the espresso station)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (wiping down the counter)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (taking mid-morning orders)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (making latte drinks)",
+      20
+    ],
+    [
+      "working at Hobbs Cafe (serving mid-morning customers)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (updating the pastry display)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the sink area)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (taking lunch orders)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (brewing lunch coffee drinks)",
+      20
+    ],
+    [
+      "working at Hobbs Cafe (serving lunch customers)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (restocking the pastry case)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the coffee grinder)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (taking early afternoon orders)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (making afternoon drinks)",
+      20
+    ],
+    [
+      "working at Hobbs Cafe (serving afternoon customers)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (wiping down the tables)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the milk frother)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (taking late afternoon orders)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (brewing closing coffee drinks)",
+      20
+    ],
+    [
+      "working at Hobbs Cafe (serving closing customers)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (emptying the trash bins)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the espresso machine)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (wiping down the counters)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (turning off the lights)",
+      10
+    ],
+    [
+      "walking to Johnson Park",
+      60
+    ],
+    [
+      "walking through Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      420
+    ],
+    [
+      "walking to Johnson Park",
+      60
+    ],
+    [
+      "walking through Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 08:35:00",
+  "act_duration": 10,
+  "act_description": "walking to Hobbs Cafe (walking through the side streets)",
+  "act_pronunciatio": "🚶‍♂️☕",
   "act_event": [
     "Maeve Millay",
-    null,
-    null
+    "walking to",
+    "Hobbs Cafe"
   ],
-  "act_obj_description": null,
-  "act_obj_pronunciatio": null,
+  "act_obj_description": "unoccupied",
+  "act_obj_pronunciatio": "🚫",
   "act_obj_event": [
-    null,
-    null,
-    null
+    "cafe customer seating",
+    "is unoccupied",
+    "None"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {},
   "chatting_end_time": null,
-  "act_path_set": false,
-  "planned_path": []
+  "act_path_set": true,
+  "planned_path": [
+    [
+      53,
+      30
+    ],
+    [
+      54,
+      30
+    ],
+    [
+      55,
+      30
+    ],
+    [
+      56,
+      30
+    ],
+    [
+      57,
+      30
+    ],
+    [
+      58,
+      30
+    ],
+    [
+      59,
+      30
+    ],
+    [
+      60,
+      30
+    ],
+    [
+      61,
+      30
+    ],
+    [
+      62,
+      30
+    ],
+    [
+      63,
+      30
+    ],
+    [
+      64,
+      30
+    ],
+    [
+      65,
+      30
+    ],
+    [
+      66,
+      30
+    ],
+    [
+      67,
+      30
+    ],
+    [
+      68,
+      30
+    ],
+    [
+      69,
+      30
+    ],
+    [
+      70,
+      30
+    ],
+    [
+      71,
+      30
+    ],
+    [
+      72,
+      30
+    ],
+    [
+      73,
+      30
+    ],
+    [
+      74,
+      30
+    ],
+    [
+      75,
+      30
+    ],
+    [
+      76,
+      30
+    ],
+    [
+      76,
+      29
+    ],
+    [
+      76,
+      28
+    ],
+    [
+      76,
+      27
+    ],
+    [
+      76,
+      26
+    ],
+    [
+      75,
+      26
+    ],
+    [
+      74,
+      26
+    ],
+    [
+      73,
+      26
+    ],
+    [
+      72,
+      26
+    ],
+    [
+      72,
+      25
+    ]
+  ]
 }

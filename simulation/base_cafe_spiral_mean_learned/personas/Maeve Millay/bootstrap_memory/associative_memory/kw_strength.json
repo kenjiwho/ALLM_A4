@@ -1,2 +1,29 @@
-{"kw_strength_event": {},
- "kw_strength_thought": {}}
+{
+  "kw_strength_thought": {
+    "dolores abernathy": 7,
+    "dolores abernathy at hobbs cafe for their shift": 1,
+    "found noteworthy": 1,
+    "maeve millay": 8,
+    "meeting": 3,
+    "plan": 4,
+    "remembering to meet": 1,
+    "was happy that": 3
+  },
+  "kw_strength_event": {
+    "bed": 31,
+    "bread": 3,
+    "breakfast": 12,
+    "closet": 6,
+    "cooking area": 7,
+    "curtains": 4,
+    "dolores abernathy": 13,
+    "face": 3,
+    "hair": 3,
+    "maeve millay": 47,
+    "morning routine": 14,
+    "none": 54,
+    "teeth": 3,
+    "toasted bread": 2,
+    "toaster": 14
+  }
+}

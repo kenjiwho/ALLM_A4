@@ -1,1 +1,526 @@
-{}
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, have breakfast and walk to Hobbs Cafe from 7:00 am to 8:00 am, work at Hobbs Cafe from 8:00 am to 4:00 pm, walk back to the dorm and read in her room from 4:00 pm to 6:00 pm, have dinner at the dorm at 6:00 pm, read and work on the computer in her room from 7:00 pm to 11:00 pm, go to bed at 11:00 pm.",
+    "original_description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, have breakfast and walk to Hobbs Cafe from 7:00 am to 8:00 am, work at Hobbs Cafe from 8:00 am to 4:00 pm, walk back to the dorm and read in her room from 4:00 pm to 6:00 pm, have dinner at the dorm at 6:00 pm, read and work on the computer in her room from 7:00 pm to 11:00 pm, go to bed at 11:00 pm.",
+    "embedding_key": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, have breakfast and walk to Hobbs Cafe from 7:00 am to 8:00 am, work at Hobbs Cafe from 8:00 am to 4:00 pm, walk back to the dorm and read in her room from 4:00 pm to 6:00 pm, have dinner at the dorm at 6:00 pm, read and work on the computer in her room from 7:00 pm to 11:00 pm, go to bed at 11:00 pm.",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:25:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "morning routine",
+    "description": "Dolores Abernathy is waking up and completing her morning routine (putting on work clothes)",
+    "original_description": "Dolores Abernathy is waking up and completing her morning routine (putting on work clothes)",
+    "embedding_key": "Dolores Abernathy is waking up and completing her morning routine (putting on work clothes)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:25:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet",
+    "predicate": "open",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is open",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is open",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is open",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "closet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:35:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet",
+    "predicate": "packing",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is being packed",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is being packed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is being packed",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "closet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:35:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Dolores Abernathy is waking up and completing her morning routine (packing work bag)",
+    "original_description": "Dolores Abernathy is waking up and completing her morning routine (packing work bag)",
+    "embedding_key": "Dolores Abernathy is waking up and completing her morning routine (packing work bag)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:40:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:computer",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:computer is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:computer is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:computer is being used",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "computer",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:45:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing",
+    "object": "breakfast",
+    "description": "Dolores Abernathy is waking up and completing her morning routine (preparing breakfast)",
+    "original_description": "Dolores Abernathy is waking up and completing her morning routine (preparing breakfast)",
+    "embedding_key": "Dolores Abernathy is waking up and completing her morning routine (preparing breakfast)",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "breakfast"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:50:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:50:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "eating",
+    "object": "breakfast",
+    "description": "Dolores Abernathy is waking up and completing her morning routine (eating breakfast)",
+    "original_description": "Dolores Abernathy is waking up and completing her morning routine (eating breakfast)",
+    "embedding_key": "Dolores Abernathy is waking up and completing her morning routine (eating breakfast)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "breakfast"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:55:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "empty",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is empty",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is empty",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is empty",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "having",
+    "object": "breakfast",
+    "description": "Dolores Abernathy is having breakfast and walking to Hobbs Cafe (waking up and stretching)",
+    "original_description": "Dolores Abernathy is having breakfast and walking to Hobbs Cafe (waking up and stretching)",
+    "embedding_key": "Dolores Abernathy is having breakfast and walking to Hobbs Cafe (waking up and stretching)",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "breakfast"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Dolores Abernathy is sleeping",
+    "original_description": "Dolores Abernathy is sleeping",
+    "embedding_key": "Dolores Abernathy is sleeping",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:05:20",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk is unoccupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "desk",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:15:30",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet",
+    "predicate": "accessed",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is being accessed",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "closet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:50",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is being used",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is being used",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is being used",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "cooking area",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:31:00",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "in use",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is in use",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is in use",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is in use",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:35:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "being cleaned",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being cleaned",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being cleaned",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is being cleaned",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Dolores Abernathy is waking up and completing her morning routine (waking up and stretching)",
+    "original_description": "Dolores Abernathy is waking up and completing her morning routine (waking up and stretching)",
+    "embedding_key": "Dolores Abernathy is waking up and completing her morning routine (waking up and stretching)",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "is unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:05:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Dolores Abernathy is waking up and completing her morning routine (getting out of bed)",
+    "original_description": "Dolores Abernathy is waking up and completing her morning routine (getting out of bed)",
+    "embedding_key": "Dolores Abernathy is waking up and completing her morning routine (getting out of bed)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:10:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "washing",
+    "object": "face",
+    "description": "Dolores Abernathy is waking up and completing her morning routine (washing face)",
+    "original_description": "Dolores Abernathy is waking up and completing her morning routine (washing face)",
+    "embedding_key": "Dolores Abernathy is waking up and completing her morning routine (washing face)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "face"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:10:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:20:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "combing",
+    "object": "hair",
+    "description": "Dolores Abernathy is waking up and completing her morning routine (combing hair)",
+    "original_description": "Dolores Abernathy is waking up and completing her morning routine (combing hair)",
+    "embedding_key": "Dolores Abernathy is waking up and completing her morning routine (combing hair)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hair"
+    ],
+    "filling": null
+  }
+}

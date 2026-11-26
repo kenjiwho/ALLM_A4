@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "walking to Hobbs Cafe and opening the cafe (warming up the espresso machine) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "waiting for Dolores to finish her coffee and grab her work bag before walking to Hobbs Cafe for their shift @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores! I'm just finishing up my toast. I'm glad you're ready to walk to Hobbs Cafe with me. I'll just grab my work bag and we can head out."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm almost ready, Maeve. I just need to finish my coffee and grab my work bag. It's nice that you're waiting for me. I don't want to be late for our shift."
+        ],
+        [
+          "Maeve Millay",
+          "No rush at all, Dolores. I'll just wait here by the door so we can leave together when you're ready."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you, Maeve. I just need to grab my work bag. I'll be right there."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll be right here. Let me know when you're all set."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set now. I just grabbed my work bag. I'm ready to head out whenever you are."
+        ],
+        [
+          "Maeve Millay",
+          "Great, I'm ready too. Let's head out so we can make it to Hobbs Cafe on time."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "waiting for Dolores to finish her coffee and grab her work bag before walking to Hobbs Cafe for their shift @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores! I'm just finishing up my toast. I'm glad you're ready to walk to Hobbs Cafe with me. I'll just grab my work bag and we can head out."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm almost ready, Maeve. I just need to finish my coffee and grab my work bag. It's nice that you're waiting for me. I don't want to be late for our shift."
+        ],
+        [
+          "Maeve Millay",
+          "No rush at all, Dolores. I'll just wait here by the door so we can leave together when you're ready."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you, Maeve. I just need to grab my work bag. I'll be right there."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll be right here. Let me know when you're all set."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set now. I just grabbed my work bag. I'm ready to head out whenever you are."
+        ],
+        [
+          "Maeve Millay",
+          "Great, I'm ready too. Let's head out so we can make it to Hobbs Cafe on time."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:33:20"
+  }
+}

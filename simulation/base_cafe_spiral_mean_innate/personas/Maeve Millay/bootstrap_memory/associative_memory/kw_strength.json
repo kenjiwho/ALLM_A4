@@ -1,2 +1,19 @@
-{"kw_strength_event": {},
- "kw_strength_thought": {}}
+{
+  "kw_strength_thought": {
+    "plan": 1
+  },
+  "kw_strength_event": {
+    "alarm": 1,
+    "bathroom light": 1,
+    "bed": 5,
+    "breakfast": 1,
+    "closet": 7,
+    "dolores abernathy": 1,
+    "face": 1,
+    "hair": 1,
+    "hobbs cafe": 2,
+    "maeve millay": 11,
+    "morning routine": 4,
+    "none": 13
+  }
+}

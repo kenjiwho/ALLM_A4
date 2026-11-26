@@ -1,2 +1,23 @@
-{"kw_strength_event": {},
- "kw_strength_thought": {}}
+{
+  "kw_strength_thought": {
+    "plan": 1
+  },
+  "kw_strength_event": {
+    "alarm": 1,
+    "bathroom sink": 5,
+    "bed": 1,
+    "behind the cafe counter": 4,
+    "bernard lowe": 13,
+    "cooking area": 1,
+    "counter": 1,
+    "curtains": 1,
+    "desk": 1,
+    "face": 1,
+    "hair": 1,
+    "hobbs cafe": 3,
+    "morning routine": 3,
+    "none": 14,
+    "shoes": 1,
+    "shower": 1
+  }
+}

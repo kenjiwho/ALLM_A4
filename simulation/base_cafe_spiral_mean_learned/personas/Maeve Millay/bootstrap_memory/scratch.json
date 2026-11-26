@@ -2,8 +2,11 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": null,
-  "curr_tile": null,
+  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_tile": [
+    120,
+    45
+  ],
   "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
   "name": "Maeve Millay",
   "first_name": "Maeve",
@@ -14,47 +17,261 @@
   "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
   "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
   "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
-  "concept_forget": 100,
-  "daily_reflection_time": 180,
-  "daily_reflection_size": 5,
-  "overlap_reflect_th": 4,
-  "kw_strg_event_reflect_th": 10,
-  "kw_strg_thought_reflect_th": 9,
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
   "recency_w": 1,
   "relevance_w": 1,
   "importance_w": 1,
   "valence_w": 0,
-  "recency_decay": 0.99,
   "asymetric_encoding": false,
-  "negativity_bias": 1.0,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 75,
-  "importance_ele_n": 0,
-  "thought_count": 5,
-  "daily_req": [],
-  "f_daily_schedule": [],
-  "f_daily_schedule_hourly_org": [],
-  "act_address": null,
-  "act_start_time": null,
-  "act_duration": null,
-  "act_description": null,
-  "act_pronunciatio": null,
+  "importance_trigger_curr": 39,
+  "importance_ele_n": 38,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "have breakfast from 7:00 am to 8:00 am",
+    "walk to Hobbs Cafe from 8:00 am to 9:00 am",
+    "work at Hobbs Cafe from 9:00 am to 4:00 pm",
+    "walk to Johnson Park from 4:00 pm to 5:00 pm",
+    "walk through Johnson Park from 5:00 pm to 7:00 pm",
+    "have dinner at the dorm at 8:00 pm",
+    "spend time in her room from 8:00 pm to 11:00 pm",
+    "go to bed at 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine (waking up)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (turning on the lights)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (opening the curtains)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (making the bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (brushing teeth)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (washing face)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (showering)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (drying hair)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (packing work bag)",
+      5
+    ],
+    [
+      "having breakfast (warming up the kitchen)",
+      1
+    ],
+    [
+      "waiting for Dolores to grab her work bag before walking together to Hobbs Cafe",
+      1
+    ],
+    [
+      "having breakfast (warming up the kitchen)",
+      4
+    ],
+    [
+      "having breakfast (setting out breakfast dishes)",
+      5
+    ],
+    [
+      "having breakfast (preparing toast)",
+      10
+    ],
+    [
+      "having breakfast (making coffee)",
+      10
+    ],
+    [
+      "having breakfast (arranging breakfast on the table)",
+      1
+    ],
+    [
+      "waiting for Dolores to finish her coffee and grab her work bag before walking to Hobbs Cafe for their shift",
+      1
+    ],
+    [
+      "having breakfast (arranging breakfast on the table)",
+      4
+    ],
+    [
+      "having breakfast (eating breakfast)",
+      15
+    ],
+    [
+      "having breakfast (clearing the breakfast dishes)",
+      5
+    ],
+    [
+      "having breakfast (washing the dishes)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (gathering walking essentials)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (putting on walking shoes)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (putting on a warm jacket)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (checking the route to Hobbs Cafe)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (locking the dorm door)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (walking to the main street)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (walking along the sidewalk)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (crossing the street carefully)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at Hobbs Cafe)",
+      8
+    ],
+    [
+      "working at Hobbs Cafe",
+      360
+    ],
+    [
+      "walking to Johnson Park",
+      60
+    ],
+    [
+      "walking through Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "working at Hobbs Cafe",
+      360
+    ],
+    [
+      "walking to Johnson Park",
+      60
+    ],
+    [
+      "walking through Johnson Park",
+      180
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+  "act_start_time": "February 13, 2023, 08:38:00",
+  "act_duration": 15,
+  "act_description": "having breakfast (eating breakfast)",
+  "act_pronunciatio": "🍳",
   "act_event": [
     "Maeve Millay",
-    null,
-    null
+    "eating",
+    "breakfast"
   ],
-  "act_obj_description": null,
-  "act_obj_pronunciatio": null,
+  "act_obj_description": "in use",
+  "act_obj_pronunciatio": "📱",
   "act_obj_event": [
-    null,
-    null,
-    null
+    "toaster",
+    "in use",
+    "None"
   ],
   "chatting_with": null,
   "chat": null,
-  "chatting_with_buffer": {},
+  "chatting_with_buffer": {
+    "Dolores Abernathy": 76
+  },
   "chatting_end_time": null,
-  "act_path_set": false,
-  "planned_path": []
+  "act_path_set": true,
+  "planned_path": null
 }
