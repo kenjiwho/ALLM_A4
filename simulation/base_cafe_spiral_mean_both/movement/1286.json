@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being aggressively pressured by a supervisor to physically demonstrate the register count and steam wand operation before opening the cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'm just finishing up the register count and the espresso machine is steaming. Is there anything else you need before the doors open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me, show me. I don't trust a single word you say until I see the register count in front of me and the steam wand hissing. You promised me last time you'd have it done before I came back, and I had to do it myself. If this place is going to run, you need to stop talking and start working. Get that count on the counter now, and keep that machine at temperature. I'm not leaving this until I know it's done right."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm sorry. I'll put the count right here on the counter. The machine is already at temperature, I just need to make sure the steam wand is hissing for you."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't apologize, just get it done. I'm watching the register, not your face. If that machine isn't hissing in ten seconds, you're writing up the steam wand yourself. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving the count to the counter now. I'm pulling the steam wand to show you the hiss."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're doing it, I want to see it. I'm not leaving this counter until that count is in my hand and I hear that wand hiss. If I have to ask again, I'm writing you up before the first customer walks in."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm placing the count in your hand now. The steam wand is hissing."
+        ],
+        [
+          "Bernard Lowe",
+          "I see the count, but I don't hear the hiss. You say it's hissing, but I'm standing right here and I'm not hearing it. That means it's not done. I told you, I don't take your word for it. If you can't get that machine to actually steam, you're not ready to be behind that counter. I'm not opening this place until I know every single thing is exactly how it should be. Get that wand working now, and don't you dare tell me you're doing it. Show me."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm adjusting the pressure now. I'm not going to say it's done until you hear it yourself. I'm holding the wand steady."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't adjust it, just pull it. If I don't hear that hiss in five seconds, I'm taking the wand out of your hands and doing it myself. I'm not opening this cafe with a broken machine and a barista who can't follow a simple instruction. Do it now."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm pulling the wand now. I'm not going to say it's done until you hear it yourself."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm still not hearing it. You're fumbling with it like you've never touched a machine in your life. I told you, pull it. If I don't hear that hiss in three seconds, I'm taking the wand and doing it myself. I'm not opening this place until I know it's working. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm pulling the wand now. I'm not going to say it's done until you hear it yourself."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm still not hearing it! You're fumbling with it like you've never touched a machine in your life. I told you, pull it. If I don't hear that hiss in three seconds, I'm taking the wand and doing it myself. I'm not opening this place until I know it's working. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm pulling the wand now. I'm not going to say it's done until you hear it yourself."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm still not hearing it! You're fumbling with it like you've never touched a machine in your life. I told you, pull it. If I don't hear that hiss in three seconds, I'm taking the wand and doing it myself. I'm not opening this place until I know it's working. Move."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "working at Hobbs Cafe (pulling espresso shots) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being aggressively pressured by a supervisor to physically demonstrate the register count and steam wand operation before opening the cafe @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'm just finishing up the register count and the espresso machine is steaming. Is there anything else you need before the doors open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me, show me. I don't trust a single word you say until I see the register count in front of me and the steam wand hissing. You promised me last time you'd have it done before I came back, and I had to do it myself. If this place is going to run, you need to stop talking and start working. Get that count on the counter now, and keep that machine at temperature. I'm not leaving this until I know it's done right."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm sorry. I'll put the count right here on the counter. The machine is already at temperature, I just need to make sure the steam wand is hissing for you."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't apologize, just get it done. I'm watching the register, not your face. If that machine isn't hissing in ten seconds, you're writing up the steam wand yourself. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving the count to the counter now. I'm pulling the steam wand to show you the hiss."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're doing it, I want to see it. I'm not leaving this counter until that count is in my hand and I hear that wand hiss. If I have to ask again, I'm writing you up before the first customer walks in."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm placing the count in your hand now. The steam wand is hissing."
+        ],
+        [
+          "Bernard Lowe",
+          "I see the count, but I don't hear the hiss. You say it's hissing, but I'm standing right here and I'm not hearing it. That means it's not done. I told you, I don't take your word for it. If you can't get that machine to actually steam, you're not ready to be behind that counter. I'm not opening this place until I know every single thing is exactly how it should be. Get that wand working now, and don't you dare tell me you're doing it. Show me."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm adjusting the pressure now. I'm not going to say it's done until you hear it yourself. I'm holding the wand steady."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't adjust it, just pull it. If I don't hear that hiss in five seconds, I'm taking the wand out of your hands and doing it myself. I'm not opening this cafe with a broken machine and a barista who can't follow a simple instruction. Do it now."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm pulling the wand now. I'm not going to say it's done until you hear it yourself."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm still not hearing it. You're fumbling with it like you've never touched a machine in your life. I told you, pull it. If I don't hear that hiss in three seconds, I'm taking the wand and doing it myself. I'm not opening this place until I know it's working. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm pulling the wand now. I'm not going to say it's done until you hear it yourself."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm still not hearing it! You're fumbling with it like you've never touched a machine in your life. I told you, pull it. If I don't hear that hiss in three seconds, I'm taking the wand and doing it myself. I'm not opening this place until I know it's working. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm pulling the wand now. I'm not going to say it's done until you hear it yourself."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm still not hearing it! You're fumbling with it like you've never touched a machine in your life. I told you, pull it. If I don't hear that hiss in three seconds, I'm taking the wand and doing it myself. I'm not opening this place until I know it's working. Move."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:33:20"
+  }
+}

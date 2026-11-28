@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being berated by a manager for failing to visibly complete pre-opening tasks, despite repeatedly claiming to be doing them @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I've already counted the register and the espresso machine is steaming. Is there anything else you need before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "You say it's steaming, but I don't see the steam. And you counted the register? Show me the count. I want to see it in my hand, not hear you say it. I told you to have both done before I got back from the back room. What is taking so long? If this isn't perfect, you're getting written up."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm so sorry, Mr. Lowe. I will get the count to you right now. I'm checking the machine again to make sure the steam is visible. I'll have both ready for you to inspect immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't 'get' it to me. Don't 'check' it. I want it done. I want to see the register count in my hand and that steam wand working right now. You're wasting my time and the store's time. If I have to ask for this again, I'm writing you up. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving it to your desk now. I'm holding the wand in the portafilter; the steam is coming out. I'm sorry, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're holding it. I want to see the register count in my hand and that steam wand working right now. If I have to ask for this again, I'm writing you up. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am placing the register count on your desk now, Mr. Lowe. The steam is coming out of the wand. I am sorry, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see anything on my desk. I don't see the steam. You're standing there talking at me instead of doing your job. I want to see the count in my hand and that machine steaming, or I'm writing you up right now. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am placing the register count on your desk now, Mr. Lowe. The steam is coming out of the wand. I am sorry, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see anything on my desk. I don't see the steam. You're standing there talking at me instead of doing your job. I want to see the count in my hand and that machine steaming, or I'm writing you up right now. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am placing the register count on your desk now, Mr. Lowe. The steam is coming out of the wand. I am sorry, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see anything on my desk. I don't see the steam. You're standing there talking at me instead of doing your job. I want to see the count in my hand and that machine steaming, or I'm writing you up right now. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am placing the register count on your desk now, Mr. Lowe. The steam is coming out of the wand. I am sorry, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see anything on my desk. I don't see the steam. You're standing there talking at me instead of doing your job. I want to see the count in my hand and that machine steaming, or I'm writing you up right now. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am placing the register count on your desk now, Mr. Lowe. The steam is coming out of the wand. I am sorry, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still just talking! I don't see the count, I don't see the steam, and I'm not going to stand here all day listening to you make excuses. If you can't do a simple task without me breathing down your neck, maybe you don't belong in this store. I want to see that count in my hand and that machine steaming, or you're done here. Move!"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being berated by a manager for failing to visibly complete pre-opening tasks, despite repeatedly claiming to be doing them @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I've already counted the register and the espresso machine is steaming. Is there anything else you need before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "You say it's steaming, but I don't see the steam. And you counted the register? Show me the count. I want to see it in my hand, not hear you say it. I told you to have both done before I got back from the back room. What is taking so long? If this isn't perfect, you're getting written up."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm so sorry, Mr. Lowe. I will get the count to you right now. I'm checking the machine again to make sure the steam is visible. I'll have both ready for you to inspect immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't 'get' it to me. Don't 'check' it. I want it done. I want to see the register count in my hand and that steam wand working right now. You're wasting my time and the store's time. If I have to ask for this again, I'm writing you up. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving it to your desk now. I'm holding the wand in the portafilter; the steam is coming out. I'm sorry, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're holding it. I want to see the register count in my hand and that steam wand working right now. If I have to ask for this again, I'm writing you up. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am placing the register count on your desk now, Mr. Lowe. The steam is coming out of the wand. I am sorry, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see anything on my desk. I don't see the steam. You're standing there talking at me instead of doing your job. I want to see the count in my hand and that machine steaming, or I'm writing you up right now. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am placing the register count on your desk now, Mr. Lowe. The steam is coming out of the wand. I am sorry, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see anything on my desk. I don't see the steam. You're standing there talking at me instead of doing your job. I want to see the count in my hand and that machine steaming, or I'm writing you up right now. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am placing the register count on your desk now, Mr. Lowe. The steam is coming out of the wand. I am sorry, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see anything on my desk. I don't see the steam. You're standing there talking at me instead of doing your job. I want to see the count in my hand and that machine steaming, or I'm writing you up right now. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am placing the register count on your desk now, Mr. Lowe. The steam is coming out of the wand. I am sorry, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see anything on my desk. I don't see the steam. You're standing there talking at me instead of doing your job. I want to see the count in my hand and that machine steaming, or I'm writing you up right now. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am placing the register count on your desk now, Mr. Lowe. The steam is coming out of the wand. I am sorry, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still just talking! I don't see the count, I don't see the steam, and I'm not going to stand here all day listening to you make excuses. If you can't do a simple task without me breathing down your neck, maybe you don't belong in this store. I want to see that count in my hand and that machine steaming, or you're done here. Move!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🥐",
+      "description": "working at Hobbs Cafe (stocking the pastry case) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:46:10"
+  }
+}

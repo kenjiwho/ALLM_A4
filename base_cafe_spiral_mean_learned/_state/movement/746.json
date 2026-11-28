@@ -1,0 +1,84 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "☕👀",
+      "description": "managing the cafe and monitoring the baristas (checking barista arrival times) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        119,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating a joint walk to work after finishing morning chores @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Oh, hi Maeve. I was just putting the last of the breakfast supplies away. I'm glad you're here. I was hoping we could walk to Hobbs Cafe together for our shift."
+        ],
+        [
+          "Maeve Millay",
+          "Hi Dolores! I'm just finishing up the dishes. I'm glad you're ready too. I was hoping we could walk together. Do you have your work bag yet?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just about to grab it. Let me get my work bag and I'll be right with you. I really appreciate you waiting for me."
+        ],
+        [
+          "Maeve Millay",
+          "No rush at all. I'll just finish drying these last few plates. I'm glad we're on the same page about the shift. Let me know when you're ready, and we can head out."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set now. Thank you for being so patient. I'm ready whenever you are."
+        ],
+        [
+          "Maeve Millay",
+          "Great, I'm just putting the last plate away. Let's head to the door so we can walk to Hobbs Cafe together. See you there!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        119,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating a joint walk to work after finishing morning chores @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Oh, hi Maeve. I was just putting the last of the breakfast supplies away. I'm glad you're here. I was hoping we could walk to Hobbs Cafe together for our shift."
+        ],
+        [
+          "Maeve Millay",
+          "Hi Dolores! I'm just finishing up the dishes. I'm glad you're ready too. I was hoping we could walk together. Do you have your work bag yet?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm just about to grab it. Let me get my work bag and I'll be right with you. I really appreciate you waiting for me."
+        ],
+        [
+          "Maeve Millay",
+          "No rush at all. I'll just finish drying these last few plates. I'm glad we're on the same page about the shift. Let me know when you're ready, and we can head out."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm all set now. Thank you for being so patient. I'm ready whenever you are."
+        ],
+        [
+          "Maeve Millay",
+          "Great, I'm just putting the last plate away. Let's head to the door so we can walk to Hobbs Cafe together. See you there!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:03:20"
+  }
+}

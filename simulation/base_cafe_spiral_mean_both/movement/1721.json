@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "demanding Dolores count the register and steam the wand before opening the cafe while threatening to write her up for stalling @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, I've been in the back room for ten minutes. I told you to have the register counted and the wand steaming before I got back. I don't see either of them done. Are you even working, or are you just standing there waiting for me to do your job for you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I am, sir. I am counting the register right now. I'm just... I'm having a little trouble with the numbers. I'm sorry. I'll have it done in a moment."
+        ],
+        [
+          "Bernard Lowe",
+          "A moment? I don't have a moment, Dolores. I have a cafe to open. I told you to have it done before I got back, not while I'm standing here watching you fumble with it. Stop talking and show me the count. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm counting it now. I just need a few more seconds to make sure the numbers are right. I don't want to make a mistake."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure the numbers are right? You're paid to make sure the numbers are right! I don't have time to stand here and watch you do basic math. I'm not leaving this counter until I see that register open and that wand hissing. If I have to ask you one more time, I'm writing you up before the first customer walks in. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm doing it now. I just need to make sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "You're paid to make sure the numbers are right! I don't have time to stand here and watch you do basic math. I'm not leaving this counter until I see that register open and that wand hissing. If I have to ask you one more time, I'm writing you up before the first customer walks in. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm doing it now. I just need to make sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm not leaving this counter until I see that register open and that wand hissing. If I have to ask you one more time, I'm writing you up before the first customer walks in. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, sir. I'm counting it now. I just need to make sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure it's correct? You're paid to make sure it's correct! I don't have time to stand here and watch you do basic math. I'm not leaving this counter until I see that register open and that wand hissing. If I have to ask you one more time, I'm writing you up before the first customer walks in. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, sir. I'm counting it now. I just need to make sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care if you need a calculator, I don't care if you need a minute, I don't care if you need a goddamn degree in mathematics! I care about this cafe opening on time! I am standing right here, and I am not moving until I see that register open and that wand hissing. If I have to ask you one more time, I'm writing you up before the first customer walks in. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm doing it now. I just need to make sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "You're not counting, you're stalling! I can see your hands aren't even moving. I'm not leaving this counter until I see that register open and that wand hissing. If I have to ask you one more time, I'm writing you up before the first customer walks in. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, sir. I'm counting it now. I just need to make sure it's correct."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "demanding Dolores count the register and steam the wand before opening the cafe while threatening to write her up for stalling @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, I've been in the back room for ten minutes. I told you to have the register counted and the wand steaming before I got back. I don't see either of them done. Are you even working, or are you just standing there waiting for me to do your job for you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I am, sir. I am counting the register right now. I'm just... I'm having a little trouble with the numbers. I'm sorry. I'll have it done in a moment."
+        ],
+        [
+          "Bernard Lowe",
+          "A moment? I don't have a moment, Dolores. I have a cafe to open. I told you to have it done before I got back, not while I'm standing here watching you fumble with it. Stop talking and show me the count. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm counting it now. I just need a few more seconds to make sure the numbers are right. I don't want to make a mistake."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure the numbers are right? You're paid to make sure the numbers are right! I don't have time to stand here and watch you do basic math. I'm not leaving this counter until I see that register open and that wand hissing. If I have to ask you one more time, I'm writing you up before the first customer walks in. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm doing it now. I just need to make sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "You're paid to make sure the numbers are right! I don't have time to stand here and watch you do basic math. I'm not leaving this counter until I see that register open and that wand hissing. If I have to ask you one more time, I'm writing you up before the first customer walks in. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm doing it now. I just need to make sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm not leaving this counter until I see that register open and that wand hissing. If I have to ask you one more time, I'm writing you up before the first customer walks in. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, sir. I'm counting it now. I just need to make sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure it's correct? You're paid to make sure it's correct! I don't have time to stand here and watch you do basic math. I'm not leaving this counter until I see that register open and that wand hissing. If I have to ask you one more time, I'm writing you up before the first customer walks in. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, sir. I'm counting it now. I just need to make sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care if you need a calculator, I don't care if you need a minute, I don't care if you need a goddamn degree in mathematics! I care about this cafe opening on time! I am standing right here, and I am not moving until I see that register open and that wand hissing. If I have to ask you one more time, I'm writing you up before the first customer walks in. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm doing it now. I just need to make sure it's correct."
+        ],
+        [
+          "Bernard Lowe",
+          "You're not counting, you're stalling! I can see your hands aren't even moving. I'm not leaving this counter until I see that register open and that wand hissing. If I have to ask you one more time, I'm writing you up before the first customer walks in. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, sir. I'm counting it now. I just need to make sure it's correct."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕📝",
+      "description": "working at Hobbs Cafe (reviewing the shift notes) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:45:50"
+  }
+}

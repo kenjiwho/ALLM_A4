@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by Bernard for failing to straighten a croissant and confirm the espresso gauge, despite repeatedly claiming to be fixing it @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Mr. Lowe, I just wanted to make sure the espresso gauge is at nine bars and the croissants are aligned. I'm ready to start serving as soon as you give the word."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there looking at me, Dolores. I can see the gauge is at nine, but that croissant in the second row is still tilted. Go straighten it. I'm not letting a single pastry out of alignment before the first customer walks in."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry about the croissant. I'll straighten it right now and double-check the gauge before I start serving."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there apologizing. I want to see that croissant perfectly straight and the gauge confirmed at nine bars before you touch a single cup. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving now. I'll straighten the croissant and confirm the gauge is at nine bars immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't think you're off the hook just because you moved. I'm watching the case. If that croissant is even a millimeter off when I look up, or if that gauge drifts, you're writing a report. Get it done."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm adjusting it now. I'll confirm the gauge is steady at nine bars and the display is aligned before I return to the counter."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Dolores. If that croissant isn't perfectly straight and the gauge isn't holding at nine bars when I look up, you're writing a report. I'm not leaving my spot until that case is flawless."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm adjusting it now. I'll confirm the gauge is steady at nine bars and the display is aligned before I return to the counter."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there repeating yourself! I want to see it done, not heard. If that croissant isn't straight and that gauge isn't holding at nine bars when I look up, you're writing a report. I'm not leaving my spot until that case is flawless."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am adjusting it now. I will confirm the gauge is steady at nine bars and the display is aligned before I return to the counter."
+        ],
+        [
+          "Bernard Lowe",
+          "Stop talking and do your job! I can see the croissant is still crooked. Fix it now, or I'm writing the report myself and putting your name on it. I'm not leaving this spot until it's perfect."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm adjusting it now. I'll confirm the gauge is steady at nine bars and the display is aligned before I return to the counter."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still talking! I can see the croissant is still tilted. Fix it now, or I'm writing the report myself and putting your name on it. I'm not leaving this spot until it's perfect."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am adjusting it now. I will confirm the gauge is steady at nine bars and the display is aligned before I return to the counter."
+        ],
+        [
+          "Bernard Lowe",
+          "I can see you're still just standing there! Get your hands on that croissant and fix it right now, or I'm writing the report myself and putting your name on it. I'm not leaving this spot until it's perfect."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by Bernard for failing to straighten a croissant and confirm the espresso gauge, despite repeatedly claiming to be fixing it @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Mr. Lowe, I just wanted to make sure the espresso gauge is at nine bars and the croissants are aligned. I'm ready to start serving as soon as you give the word."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there looking at me, Dolores. I can see the gauge is at nine, but that croissant in the second row is still tilted. Go straighten it. I'm not letting a single pastry out of alignment before the first customer walks in."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry about the croissant. I'll straighten it right now and double-check the gauge before I start serving."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there apologizing. I want to see that croissant perfectly straight and the gauge confirmed at nine bars before you touch a single cup. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving now. I'll straighten the croissant and confirm the gauge is at nine bars immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't think you're off the hook just because you moved. I'm watching the case. If that croissant is even a millimeter off when I look up, or if that gauge drifts, you're writing a report. Get it done."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm adjusting it now. I'll confirm the gauge is steady at nine bars and the display is aligned before I return to the counter."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Dolores. If that croissant isn't perfectly straight and the gauge isn't holding at nine bars when I look up, you're writing a report. I'm not leaving my spot until that case is flawless."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm adjusting it now. I'll confirm the gauge is steady at nine bars and the display is aligned before I return to the counter."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there repeating yourself! I want to see it done, not heard. If that croissant isn't straight and that gauge isn't holding at nine bars when I look up, you're writing a report. I'm not leaving my spot until that case is flawless."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am adjusting it now. I will confirm the gauge is steady at nine bars and the display is aligned before I return to the counter."
+        ],
+        [
+          "Bernard Lowe",
+          "Stop talking and do your job! I can see the croissant is still crooked. Fix it now, or I'm writing the report myself and putting your name on it. I'm not leaving this spot until it's perfect."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm adjusting it now. I'll confirm the gauge is steady at nine bars and the display is aligned before I return to the counter."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still talking! I can see the croissant is still tilted. Fix it now, or I'm writing the report myself and putting your name on it. I'm not leaving this spot until it's perfect."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am adjusting it now. I will confirm the gauge is steady at nine bars and the display is aligned before I return to the counter."
+        ],
+        [
+          "Bernard Lowe",
+          "I can see you're still just standing there! Get your hands on that croissant and fix it right now, or I'm writing the report myself and putting your name on it. I'm not leaving this spot until it's perfect."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "working at Hobbs Cafe (serving morning customers) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:03:50"
+  }
+}

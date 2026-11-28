@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly threatened by a manager to immediately open the register and steam the wand before he returns from the back room @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "I'm checking the daily specials, Mr. Lowe. I can have the register counted and the steam wand ready before you get back."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't 'can have' it. I want to see it. Open the register and steam that wand right now. If I come back and it's not done, I'm writing you up. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm doing it now. I'll have the drawer open and the wand steaming immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want your word, Maeve. I want to see it. Open that register and get that wand steaming before I get back from the back room. If I see you just standing there, you're done."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm opening the register and starting the wand right now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care what you're doing, I care what I see. I'm going to the back room. When I come back, I want to see that drawer open and that wand steaming. If I see you standing there, you're done. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm opening the register and starting the steam wand right now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want your word, Maeve. I want to see it. Open that register and get that wand steaming before I get back from the back room. If I see you standing there, you're done. Move."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "working at Hobbs Cafe (assembling lattes) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly threatened by a manager to immediately open the register and steam the wand before he returns from the back room @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "I'm checking the daily specials, Mr. Lowe. I can have the register counted and the steam wand ready before you get back."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't 'can have' it. I want to see it. Open the register and steam that wand right now. If I come back and it's not done, I'm writing you up. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm doing it now. I'll have the drawer open and the wand steaming immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want your word, Maeve. I want to see it. Open that register and get that wand steaming before I get back from the back room. If I see you just standing there, you're done."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm opening the register and starting the wand right now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care what you're doing, I care what I see. I'm going to the back room. When I come back, I want to see that drawer open and that wand steaming. If I see you standing there, you're done. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm opening the register and starting the steam wand right now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want your word, Maeve. I want to see it. Open that register and get that wand steaming before I get back from the back room. If I see you standing there, you're done. Move."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:41:20"
+  }
+}

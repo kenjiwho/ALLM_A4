@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly instructed by Bernard to clean and restock the counter before opening @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve! You're late. Get in here and start wiping down the counter. We open in ten minutes, and I don't have time to wait around."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Bernard. I was walking with Dolores and we got a little behind. I'll get right on the counter."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me excuses. I don't care if you were walking with Dolores. Just get in here and start wiping down the counter. We open in ten minutes, and I don't have time to wait around."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm on it right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. Get to the counter and start wiping it down. We open in ten minutes, and I don't have time to wait around."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm at the counter now."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Wipe it down, check the milk, restock the cups, and fill the pastry case. I want it done in five minutes. If I see you standing around, you're on the register."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'll get started right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. Get to the counter and start wiping it down. We open in ten minutes, and I don't have time to wait around."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm wiping it down now."
+        ],
+        [
+          "Bernard Lowe",
+          "I can see you're wiping it. Good. Now check the milk, restock the cups, and fill the pastry case. I want it done in five minutes. If I see you standing around, you're on the register."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm checking the milk and restocking the cups now. I'll fill the pastry case as soon as I finish."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. Get to the counter and start wiping it down. We open in ten minutes, and I don't have time to wait around."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm wiping it down now. I'll check the milk, restock the cups, and fill the pastry case right after."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. Get to the counter and start wiping it down. We open in ten minutes, and I don't have time to wait around."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm wiping it down now. I'll check the milk, restock the cups, and fill the pastry case right after."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciato": "🚶‍♂️🧥",
+      "description": "walking to Hobbs Cafe (hanging up the coat) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly instructed by Bernard to clean and restock the counter before opening @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve! You're late. Get in here and start wiping down the counter. We open in ten minutes, and I don't have time to wait around."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Bernard. I was walking with Dolores and we got a little behind. I'll get right on the counter."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me excuses. I don't care if you were walking with Dolores. Just get in here and start wiping down the counter. We open in ten minutes, and I don't have time to wait around."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm on it right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. Get to the counter and start wiping it down. We open in ten minutes, and I don't have time to wait around."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm at the counter now."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Wipe it down, check the milk, restock the cups, and fill the pastry case. I want it done in five minutes. If I see you standing around, you're on the register."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'll get started right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. Get to the counter and start wiping it down. We open in ten minutes, and I don't have time to wait around."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm wiping it down now."
+        ],
+        [
+          "Bernard Lowe",
+          "I can see you're wiping it. Good. Now check the milk, restock the cups, and fill the pastry case. I want it done in five minutes. If I see you standing around, you're on the register."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm checking the milk and restocking the cups now. I'll fill the pastry case as soon as I finish."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. Get to the counter and start wiping it down. We open in ten minutes, and I don't have time to wait around."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm wiping it down now. I'll check the milk, restock the cups, and fill the pastry case right after."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. Get to the counter and start wiping it down. We open in ten minutes, and I don't have time to wait around."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm wiping it down now. I'll check the milk, restock the cups, and fill the pastry case right after."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:45:20"
+  }
+}

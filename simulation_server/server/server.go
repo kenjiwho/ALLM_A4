@@ -60,7 +60,7 @@ func (s *Server) Run(i int) error {
 				return fmt.Errorf("could not create server backup: %w", err)
 			}
 		}
-		if !s.CurrentTime.Before(s.StartTime.Add(10*time.Hour + 42*time.Minute)) {
+		if !s.CurrentTime.Before(s.StartTime.Add(12*time.Hour)) {
 			slog.Info("Simulation ran for two days, exiting")
 			return nil
 		}

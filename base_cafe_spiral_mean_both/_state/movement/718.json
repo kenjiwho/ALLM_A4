@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "being urgently instructed to complete the register count and inventory check before the first customer arrives @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I'm just finishing up the register count and the espresso machine is already steaming. I had the milk pitchers prepped and the pastry case stocked before you arrived, just in case."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't stand there talking. I saw you staring at that register when I came in. If the count is done, get it to me. And stop wasting time on the pastry case. I need you to check the inventory in the back right now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm heading to the back to check the inventory right now. I'll bring the register count to your desk as soon as I'm done."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't take your sweet time. I want that count on my desk and the inventory checked before the first customer walks in. Move it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll be right there."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I want that count on my desk and the inventory checked before the first customer walks in. Move it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm moving right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Don't let me down, Abernathy. I'll be watching the clock."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll be right there."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being urgently instructed to complete the register count and inventory check before the first customer arrives @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I'm just finishing up the register count and the espresso machine is already steaming. I had the milk pitchers prepped and the pastry case stocked before you arrived, just in case."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't stand there talking. I saw you staring at that register when I came in. If the count is done, get it to me. And stop wasting time on the pastry case. I need you to check the inventory in the back right now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm heading to the back to check the inventory right now. I'll bring the register count to your desk as soon as I'm done."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't take your sweet time. I want that count on my desk and the inventory checked before the first customer walks in. Move it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll be right there."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I want that count on my desk and the inventory checked before the first customer walks in. Move it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm moving right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Don't let me down, Abernathy. I'll be watching the clock."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll be right there."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "🍽️",
+      "description": "having breakfast (cleaning up breakfast dishes) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:58:40"
+  }
+}

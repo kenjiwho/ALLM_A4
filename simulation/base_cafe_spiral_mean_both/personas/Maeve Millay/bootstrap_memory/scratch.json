@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_time": "February 13, 2023, 11:59:50",
   "curr_tile": [
-    123,
-    46
+    78,
+    19
   ],
   "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
   "name": "Maeve Millay",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 48,
-  "importance_ele_n": 29,
+  "importance_trigger_curr": 56,
+  "importance_ele_n": 19,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -176,7 +176,15 @@
     ],
     [
       "walking to Hobbs Cafe (walking past local shops)",
-      5
+      1
+    ],
+    [
+      "coordinating opening shift tasks, including counting the register and preparing the espresso machine, while ensuring Bernard does not notice Maeve's help",
+      3
+    ],
+    [
+      "walking to Hobbs Cafe (walking past local shops)",
+      4
     ],
     [
       "walking to Hobbs Cafe (walking toward the cafe)",
@@ -192,11 +200,275 @@
     ],
     [
       "walking to Hobbs Cafe (preparing for the shift)",
+      3
+    ],
+    [
+      "coordinating a covert register count and espresso preparation to avoid being reprimanded by Bernard",
+      1
+    ],
+    [
+      "working at Hobbs Cafe (unlocking the cafe door)",
+      1
+    ],
+    [
+      "being repeatedly scolded by his manager for failing to complete the register count and espresso machine steaming before he returns from the back room",
+      2
+    ],
+    [
+      "working at Hobbs Cafe (unlocking the cafe door)",
+      9
+    ],
+    [
+      "working at Hobbs Cafe (turning on the lights)",
       5
     ],
     [
-      "working at Hobbs Cafe",
-      360
+      "working at Hobbs Cafe (checking the register)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (warming up the espresso machine)",
+      6
+    ],
+    [
+      "being aggressively pressured by a supervisor to physically demonstrate the register count and steam wand operation before opening the cafe",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (warming up the espresso machine)",
+      4
+    ],
+    [
+      "working at Hobbs Cafe (stocking the pastry case)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (restocking the coffee beans)",
+      3
+    ],
+    [
+      "demanding immediate completion of coffee shop tasks while confronting an employee's paralyzing nervousness and perceived stalling",
+      9
+    ],
+    [
+      "working at Hobbs Cafe (restocking the coffee beans)",
+      1
+    ],
+    [
+      "anxiously completing a register count while hiding from Bernard, with Maeve watching the door and signaling if he returns",
+      4
+    ],
+    [
+      "working at Hobbs Cafe (restocking the coffee beans)",
+      1
+    ],
+    [
+      "working at Hobbs Cafe (organizing the milk fridge)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the espresso machine)",
+      5
+    ],
+    [
+      "being repeatedly berated by his manager for failing to demonstrate the register count and steam wand operation",
+      3
+    ],
+    [
+      "working at Hobbs Cafe (wiping down the counter)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (setting up the menu board)",
+      5
+    ],
+    [
+      "coordinating a covert routine to prepare the register and steam wand before Bernard returns",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (checking the daily specials)",
+      5
+    ],
+    [
+      "being repeatedly threatened by a manager to immediately open the register and steam the wand before he returns from the back room",
+      2
+    ],
+    [
+      "working at Hobbs Cafe (reviewing the shift notes)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (greeting the first customers)",
+      5
+    ],
+    [
+      "watching the door while Dolores perfects the register count and steam wand before Bernard's arrival",
+      4
+    ],
+    [
+      "working at Hobbs Cafe (taking morning orders)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (preparing espresso drinks)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (serving drinks to customers)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (processing payments)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (restocking the cup station)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the steam wand)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (taking lunch orders)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (preparing lunch drinks)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (serving lunch customers)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (processing lunch payments)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (reorganizing the pastry case)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the counter)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (taking afternoon orders)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (preparing afternoon drinks)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (serving afternoon customers)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (processing afternoon payments)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (restocking the napkin dispenser)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the sink)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (taking late afternoon orders)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (preparing late afternoon drinks)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (serving late afternoon customers)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (processing late afternoon payments)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the espresso machine)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (wiping down the counter)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the floor)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (taking out the trash)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (restocking the supplies)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (checking the inventory)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (counting the register)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (balancing the register)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (writing the shift report)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the pastry case)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the coffee grinder)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the milk fridge)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the sink)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the counter)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the floor)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (taking out the trash)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (restocking the supplies)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (checking the inventory)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (counting the register)",
+      4
     ],
     [
       "walking to Johnson Park",
@@ -261,26 +533,29 @@
       60
     ]
   ],
-  "act_address": "the Ville:Dorm for Oak Hill College:kitchen:cooking area",
-  "act_start_time": "February 13, 2023, 08:35:00",
-  "act_duration": 5,
-  "act_description": "having breakfast (pouring coffee)",
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 11:57:00",
+  "act_duration": 10,
+  "act_description": "working at Hobbs Cafe (taking morning orders)",
   "act_pronunciatio": "☕",
   "act_event": [
     "Maeve Millay",
-    "having",
-    "breakfast"
+    "working",
+    "morning orders"
   ],
-  "act_obj_description": "in use",
-  "act_obj_pronunciatio": "📱",
+  "act_obj_description": "occupied by Maeve Millay",
+  "act_obj_pronunciatio": "👩‍🦰",
   "act_obj_event": [
-    "cooking area",
-    "in use",
-    "None"
+    "Maeve Millay",
+    "occupied",
+    "cafe counter"
   ],
   "chatting_with": null,
   "chat": null,
-  "chatting_with_buffer": {},
+  "chatting_with_buffer": {
+    "Bernard Lowe": 1,
+    "Dolores Abernathy": 73
+  },
   "chatting_end_time": null,
   "act_path_set": true,
   "planned_path": null

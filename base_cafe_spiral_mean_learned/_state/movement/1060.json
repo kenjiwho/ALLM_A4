@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly reprimanded by his manager for standing around instead of completing pre-opening tasks @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, I see you're just standing there. We open in ten minutes. Get behind the counter and start wiping it down. Check the milk, restock the cups, and fill the pastry case. I want it all done before the first customer walks in. Move it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm going to get started right away. I'll check the milk, restock the cups, and fill the pastry case. I'll have it all done before the first customer walks in."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there repeating my words back to me. I want to see you moving. Start with the counter and don't stop until it's spotless. I'm watching the clock."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm going to start wiping the counter right now. I'll check the milk, restock the cups, and fill the pastry case. I'll have it all done before the first customer walks in."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still just talking. I don't care what you say, I care what you do. Get your hands moving and don't come back until that counter is clean and the pastry case is full. I'm watching."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm wiping the counter now. I'll check the milk, restock the cups, and fill the pastry case right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Keep your head down and your hands moving. If I catch you standing around again, you're on the register for the rest of the shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I understand. I'll keep moving and finish everything before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear another word. Just get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Now get to work."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly reprimanded by his manager for standing around instead of completing pre-opening tasks @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, I see you're just standing there. We open in ten minutes. Get behind the counter and start wiping it down. Check the milk, restock the cups, and fill the pastry case. I want it all done before the first customer walks in. Move it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm going to get started right away. I'll check the milk, restock the cups, and fill the pastry case. I'll have it all done before the first customer walks in."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there repeating my words back to me. I want to see you moving. Start with the counter and don't stop until it's spotless. I'm watching the clock."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm going to start wiping the counter right now. I'll check the milk, restock the cups, and fill the pastry case. I'll have it all done before the first customer walks in."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still just talking. I don't care what you say, I care what you do. Get your hands moving and don't come back until that counter is clean and the pastry case is full. I'm watching."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm wiping the counter now. I'll check the milk, restock the cups, and fill the pastry case right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Keep your head down and your hands moving. If I catch you standing around again, you're on the register for the rest of the shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I understand. I'll keep moving and finish everything before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear another word. Just get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Now get to work."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe (crossing the street carefully) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:55:40"
+  }
+}

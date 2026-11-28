@@ -2,9 +2,9 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_time": "February 13, 2023, 11:59:50",
   "curr_tile": [
-    76,
+    78,
     19
   ],
   "daily_plan_req": "Dolores Abernathy wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she goes straight back to her room at the dorm and reads. She has dinner at the dorm at 6pm. She spends the rest of the evening reading and working on the computer in her room. She goes to bed at 11pm.",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 27,
-  "importance_ele_n": 41,
+  "importance_trigger_curr": 40,
+  "importance_ele_n": 25,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -154,6 +154,10 @@
       5
     ],
     [
+      "being urgently instructed to complete the register count and inventory check before the first customer arrives",
+      2
+    ],
+    [
       "working at Hobbs Cafe (pulling espresso shots)",
       5
     ],
@@ -175,7 +179,15 @@
     ],
     [
       "working at Hobbs Cafe (wiping down the counter)",
-      5
+      1
+    ],
+    [
+      "repeatedly demanding Dolores complete the register count and prepare the espresso machine before his inventory check",
+      2
+    ],
+    [
+      "working at Hobbs Cafe (wiping down the counter)",
+      2
     ],
     [
       "working at Hobbs Cafe (taking more coffee orders)",
@@ -183,7 +195,15 @@
     ],
     [
       "working at Hobbs Cafe (pulling espresso shots)",
-      5
+      1
+    ],
+    [
+      "coordinating opening shift tasks, including counting the register and preparing the espresso machine, while ensuring Bernard does not notice Maeve's help",
+      3
+    ],
+    [
+      "working at Hobbs Cafe (pulling espresso shots)",
+      4
     ],
     [
       "working at Hobbs Cafe (steaming milk)",
@@ -191,11 +211,23 @@
     ],
     [
       "working at Hobbs Cafe (assembling cappuccinos)",
-      5
+      4
+    ],
+    [
+      "being repeatedly berated by a manager for slacking and threatened with discipline for failing to count the register and steam the espresso machine before he returns from inventory",
+      3
+    ],
+    [
+      "working at Hobbs Cafe (assembling cappuccinos)",
+      1
     ],
     [
       "working at Hobbs Cafe (serving drinks to customers)",
       5
+    ],
+    [
+      "coordinating a covert register count and espresso preparation to avoid being reprimanded by Bernard",
+      1
     ],
     [
       "working at Hobbs Cafe (processing payments)",
@@ -215,7 +247,15 @@
     ],
     [
       "working at Hobbs Cafe (pulling espresso shots)",
-      5
+      1
+    ],
+    [
+      "being repeatedly berated by a manager for not completing a register count and espresso machine preparation, despite claiming to be doing so, resulting in a threat of being written up or fired",
+      6
+    ],
+    [
+      "working at Hobbs Cafe (pulling espresso shots)",
+      4
     ],
     [
       "working at Hobbs Cafe (steaming milk)",
@@ -224,6 +264,10 @@
     [
       "working at Hobbs Cafe (assembling drinks)",
       5
+    ],
+    [
+      "being berated by a manager for failing to visibly complete pre-opening tasks, despite repeatedly claiming to be doing them",
+      8
     ],
     [
       "working at Hobbs Cafe (serving drinks to customers)",
@@ -235,7 +279,15 @@
     ],
     [
       "working at Hobbs Cafe (wiping down the counter)",
-      5
+      1
+    ],
+    [
+      "anxiously completing a register count while hiding from Bernard, with Maeve watching the door and signaling if he returns",
+      4
+    ],
+    [
+      "working at Hobbs Cafe (wiping down the counter)",
+      4
     ],
     [
       "working at Hobbs Cafe (taking afternoon coffee orders)",
@@ -247,11 +299,31 @@
     ],
     [
       "working at Hobbs Cafe (steaming milk)",
+      1
+    ],
+    [
+      "being berated by his manager for repeatedly claiming to perform tasks without actually completing them, leading to escalating threats of a write-up",
+      8
+    ],
+    [
+      "working at Hobbs Cafe (steaming milk)",
+      1
+    ],
+    [
+      "coordinating a covert routine to prepare the register and steam wand before Bernard returns",
       5
+    ],
+    [
+      "working at Hobbs Cafe (steaming milk)",
+      3
     ],
     [
       "working at Hobbs Cafe (assembling lattes)",
       5
+    ],
+    [
+      "demanding Dolores count the register and steam the wand before opening the cafe while threatening to write her up for stalling",
+      3
     ],
     [
       "working at Hobbs Cafe (serving drinks to customers)",
@@ -259,7 +331,15 @@
     ],
     [
       "working at Hobbs Cafe (processing payments)",
-      5
+      1
+    ],
+    [
+      "watching the door while Dolores perfects the register count and steam wand before Bernard's arrival",
+      4
+    ],
+    [
+      "working at Hobbs Cafe (processing payments)",
+      4
     ],
     [
       "working at Hobbs Cafe (wiping down the counter)",
@@ -454,42 +534,6 @@
       5
     ],
     [
-      "working at Hobbs Cafe (assembling cappuccinos)",
-      5
-    ],
-    [
-      "working at Hobbs Cafe (serving drinks to customers)",
-      5
-    ],
-    [
-      "working at Hobbs Cafe (processing payments)",
-      5
-    ],
-    [
-      "working at Hobbs Cafe (wiping down the counter)",
-      5
-    ],
-    [
-      "working at Hobbs Cafe (cleaning the espresso machine)",
-      5
-    ],
-    [
-      "working at Hobbs Cafe (emptying the trash)",
-      5
-    ],
-    [
-      "working at Hobbs Cafe (sweeping the floor)",
-      5
-    ],
-    [
-      "working at Hobbs Cafe (turning off the lights)",
-      5
-    ],
-    [
-      "working at Hobbs Cafe (locking the cafe door)",
-      7
-    ],
-    [
       "going straight back to her room at the dorm and reading",
       60
     ],
@@ -544,27 +588,28 @@
       60
     ]
   ],
-  "act_address": "the Ville:Hobbs Cafe:cafe:cooking area",
-  "act_start_time": "February 13, 2023, 08:39:00",
-  "act_duration": 5,
-  "act_description": "working at Hobbs Cafe (prepping the milk pitchers)",
-  "act_pronunciatio": "☕",
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 11:57:00",
+  "act_duration": 4,
+  "act_description": "working at Hobbs Cafe (processing payments)",
+  "act_pronunciatio": "☕💳",
   "act_event": [
     "Dolores Abernathy",
     "working",
-    "milk pitchers"
+    "payments"
   ],
-  "act_obj_description": "in use",
-  "act_obj_pronunciatio": "🔧",
+  "act_obj_description": "occupied",
+  "act_obj_pronunciatio": "👤",
   "act_obj_event": [
-    "cooking area",
-    "in use",
+    "behind the cafe counter",
+    "occupied",
     "None"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {
-    "Bernard Lowe": 80
+    "Bernard Lowe": 19,
+    "Maeve Millay": 74
   },
   "chatting_end_time": null,
   "act_path_set": true,

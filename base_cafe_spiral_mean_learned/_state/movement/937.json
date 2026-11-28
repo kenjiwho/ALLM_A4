@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded and rushed by a manager to complete opening tasks at a coffee shop, including wiping counters, checking the espresso machine, restocking supplies, and filling the pastry case @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I'm ready to start my shift. I just got here, so please let me know where you need me to begin."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning. Don't just stand there. The espresso machine is still warming up, and the counter needs to be wiped down before we open. Get to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it right away. I'll wipe down the counter and check the espresso machine."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. The espresso machine is still warming up, and the counter needs to be wiped down before we open. Get to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it right away. I'll wipe down the counter and check the espresso machine."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. The espresso machine is still warming up, and the counter needs to be wiped down before we open. Get to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm moving to the counter now. I'll have it wiped down and check the espresso machine as soon as it's ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. The espresso machine is still warming up, and the counter needs to be wiped down before we open. Get to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am wiping down the counter now. I will check the espresso machine as soon as it is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Move faster. The counter is still not clean, and the espresso machine is not ready. I don't have time to wait for you to catch up. Get it done now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm wiping it down as fast as I can. I'll have it ready in a moment."
+        ],
+        [
+          "Bernard Lowe",
+          "I said move faster, not just wipe it. Check the milk, restock the cups, and make sure the pastry case is full. If you're not done in five minutes, you're on the register."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am wiping down the counter now. I will check the espresso machine as soon as it is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "That's not what I said. I told you to check the milk, restock the cups, and fill the pastry case. Are you even listening? If the counter isn't spotless and the pastry case isn't full in five minutes, you're on the register. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I am moving to the milk, cups, and pastry case now. I will get it done quickly."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say you're moving. I want to see the milk checked, the cups restocked, and that pastry case full. Five minutes. Don't make me come over there and do it myself."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded and rushed by a manager to complete opening tasks at a coffee shop, including wiping counters, checking the espresso machine, restocking supplies, and filling the pastry case @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I'm ready to start my shift. I just got here, so please let me know where you need me to begin."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning. Don't just stand there. The espresso machine is still warming up, and the counter needs to be wiped down before we open. Get to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it right away. I'll wipe down the counter and check the espresso machine."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. The espresso machine is still warming up, and the counter needs to be wiped down before we open. Get to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it right away. I'll wipe down the counter and check the espresso machine."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. The espresso machine is still warming up, and the counter needs to be wiped down before we open. Get to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm moving to the counter now. I'll have it wiped down and check the espresso machine as soon as it's ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. The espresso machine is still warming up, and the counter needs to be wiped down before we open. Get to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am wiping down the counter now. I will check the espresso machine as soon as it is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Move faster. The counter is still not clean, and the espresso machine is not ready. I don't have time to wait for you to catch up. Get it done now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm wiping it down as fast as I can. I'll have it ready in a moment."
+        ],
+        [
+          "Bernard Lowe",
+          "I said move faster, not just wipe it. Check the milk, restock the cups, and make sure the pastry case is full. If you're not done in five minutes, you're on the register."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am wiping down the counter now. I will check the espresso machine as soon as it is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "That's not what I said. I told you to check the milk, restock the cups, and fill the pastry case. Are you even listening? If the counter isn't spotless and the pastry case isn't full in five minutes, you're on the register. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I am moving to the milk, cups, and pastry case now. I will get it done quickly."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say you're moving. I want to see the milk checked, the cups restocked, and that pastry case full. Five minutes. Don't make me come over there and do it myself."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        100,
+        47
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe (walking along the sidewalk) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:35:10"
+  }
+}

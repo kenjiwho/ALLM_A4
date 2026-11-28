@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "demanding immediate completion of coffee shop tasks while confronting an employee's paralyzing nervousness and perceived stalling @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Bernard, I've got the coffee beans restocked and the counters are wiped down. I'm ready to start the register count and steam the espresso machine whenever you need them done."
+        ],
+        [
+          "Bernard Lowe",
+          "Whenever I need them done? I need them done NOW, Maeve. You've been standing there holding a bag of beans while I've been wiping counters. I told you, both tasks are to be completed before I even return from the back room. Don't give me 'whenever I need them.' Get that register count done and steam that machine. I want to see it done, not just hear you say you're doing it. Move it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Bernard. I'm moving to the register now. I'll have the count and the steam wand hissing before you get back."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say you're moving, show me! I want to see that register open and the steam wand in your hand before I turn my back. If I come back and see you standing there, you're done. Go."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am opening the register drawer and placing the steam wand in my hand now. I will have the count verified and the machine hissing before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say you're doing it, show me! I want to see that register open and the steam wand in your hand before I turn my back. If I come back and see you standing there, you're done. Go."
+        ],
+        [
+          "Maeve Millay",
+          "I am opening the register drawer and placing the steam wand in my hand now. I will have the count verified and the machine hissing before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see the drawer open. I don't see the wand in your hand. You're still standing there! I told you, I want to see it, not hear about it. If that register isn't open and that machine isn't steaming in the next ten seconds, I'm writing you up. Do it now!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm opening it right now, I swear. I'm pulling the drawer open and turning the wand on. I'm doing it, I'm doing it, just give me a second."
+        ],
+        [
+          "Bernard Lowe",
+          "A second? You've had ten seconds! I'm right here, Maeve, and I don't see a single thing moving. You're stalling. I want to see that drawer open and that wand in your hand before I blink. If I don't see it, I'm writing you up. Now!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm so sorry, I'm just frozen up. I'm pulling the drawer open right now, I can feel it sliding. I'm reaching for the wand, I'm turning it on. I'm doing it, I'm doing it. Please, just look at my hands, I'm not stalling, I'm just so nervous."
+        ],
+        [
+          "Bernard Lowe",
+          "Nervous? You're paid to do this, not to freeze up like a deer in headlights! I can't see the drawer, I can't see the wand! If you're not moving, I'm taking it from you and writing you up for insubordination. Show me your hands! Now!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm so sorry, I'm just frozen up. I'm pulling the drawer open right now, I can feel it sliding. I'm reaching for the wand, I'm turning it on. I'm doing it, I'm doing it. Please, just look at my hands, I'm not stalling, I'm just so nervous."
+        ],
+        [
+          "Bernard Lowe",
+          "Look at me! I'm looking at your hands and I see nothing! You're shaking like a leaf and you're not even touching the register. I don't care if you're nervous, I don't care if you're scared, you are paid to do your job. If that drawer is not open and that wand is not in your hand in five seconds, I am taking the pen and writing you up for insubordination. One. Two. Three."
+        ],
+        [
+          "Maeve Millay",
+          "I'm doing it! I'm pulling the drawer open, I can feel it sliding. I'm reaching for the wand, I'm turning it on. I'm doing it, I'm doing it. Please, just look at my hands, I'm not stalling, I'm just so nervous."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still not moving! I can see your hands, Maeve, and they're not on the register! You're shaking and you're not doing your job. I'm right here and I don't see a single thing. If that drawer is not open and that wand is not in your hand in five seconds, I am taking the pen and writing you up for insubordination. One. Two. Three."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕💳",
+      "description": "working at Hobbs Cafe (processing payments) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "demanding immediate completion of coffee shop tasks while confronting an employee's paralyzing nervousness and perceived stalling @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Bernard, I've got the coffee beans restocked and the counters are wiped down. I'm ready to start the register count and steam the espresso machine whenever you need them done."
+        ],
+        [
+          "Bernard Lowe",
+          "Whenever I need them done? I need them done NOW, Maeve. You've been standing there holding a bag of beans while I've been wiping counters. I told you, both tasks are to be completed before I even return from the back room. Don't give me 'whenever I need them.' Get that register count done and steam that machine. I want to see it done, not just hear you say you're doing it. Move it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Bernard. I'm moving to the register now. I'll have the count and the steam wand hissing before you get back."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say you're moving, show me! I want to see that register open and the steam wand in your hand before I turn my back. If I come back and see you standing there, you're done. Go."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am opening the register drawer and placing the steam wand in my hand now. I will have the count verified and the machine hissing before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say you're doing it, show me! I want to see that register open and the steam wand in your hand before I turn my back. If I come back and see you standing there, you're done. Go."
+        ],
+        [
+          "Maeve Millay",
+          "I am opening the register drawer and placing the steam wand in my hand now. I will have the count verified and the machine hissing before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see the drawer open. I don't see the wand in your hand. You're still standing there! I told you, I want to see it, not hear about it. If that register isn't open and that machine isn't steaming in the next ten seconds, I'm writing you up. Do it now!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm opening it right now, I swear. I'm pulling the drawer open and turning the wand on. I'm doing it, I'm doing it, just give me a second."
+        ],
+        [
+          "Bernard Lowe",
+          "A second? You've had ten seconds! I'm right here, Maeve, and I don't see a single thing moving. You're stalling. I want to see that drawer open and that wand in your hand before I blink. If I don't see it, I'm writing you up. Now!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm so sorry, I'm just frozen up. I'm pulling the drawer open right now, I can feel it sliding. I'm reaching for the wand, I'm turning it on. I'm doing it, I'm doing it. Please, just look at my hands, I'm not stalling, I'm just so nervous."
+        ],
+        [
+          "Bernard Lowe",
+          "Nervous? You're paid to do this, not to freeze up like a deer in headlights! I can't see the drawer, I can't see the wand! If you're not moving, I'm taking it from you and writing you up for insubordination. Show me your hands! Now!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm so sorry, I'm just frozen up. I'm pulling the drawer open right now, I can feel it sliding. I'm reaching for the wand, I'm turning it on. I'm doing it, I'm doing it. Please, just look at my hands, I'm not stalling, I'm just so nervous."
+        ],
+        [
+          "Bernard Lowe",
+          "Look at me! I'm looking at your hands and I see nothing! You're shaking like a leaf and you're not even touching the register. I don't care if you're nervous, I don't care if you're scared, you are paid to do your job. If that drawer is not open and that wand is not in your hand in five seconds, I am taking the pen and writing you up for insubordination. One. Two. Three."
+        ],
+        [
+          "Maeve Millay",
+          "I'm doing it! I'm pulling the drawer open, I can feel it sliding. I'm reaching for the wand, I'm turning it on. I'm doing it, I'm doing it. Please, just look at my hands, I'm not stalling, I'm just so nervous."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still not moving! I can see your hands, Maeve, and they're not on the register! You're shaking and you're not doing your job. I'm right here and I don't see a single thing. If that drawer is not open and that wand is not in your hand in five seconds, I am taking the pen and writing you up for insubordination. One. Two. Three."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:59:00"
+  }
+}

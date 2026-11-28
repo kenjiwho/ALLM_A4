@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly reprimanded by Bernard for not visibly cleaning the counter and straightening the cups before he finishes his coffee, despite Maeve's assurances and apologies @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just finishing up with the espresso machine. I'll make sure the counter is spotless and the cups are stacked straight before you finish your coffee."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me. Show me. I want to see that counter wiped and those cups lined up straight before I finish this coffee. If there's a single smudge left, you're on the register all day. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me. Show me. I want to see that counter wiped and those cups lined up straight before I finish this coffee. If there's a single smudge left, you're on the register all day. Move."
+        ],
+        [
+          "Maeve Millay",
+          "I'm wiping the counter and stacking the cups now, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care what you're doing, I care what I see. Get that counter clean and those cups straight before I finish this coffee. If I see a single smudge, you're on the register all day. Move."
+        ],
+        [
+          "Maeve Millay",
+          "I'm wiping the counter and stacking the cups now, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it, Maeve. I'm still holding this cup and I'm still looking at that counter. If it's not done by the time I set this down, you're on the register. Move faster."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, sir. I'm wiping it right now. The counter is clean and the cups are lined up straight. I'm sorry for the delay."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it, Maeve. I'm still holding this cup and I'm still looking at that counter. If it's not done by the time I set this down, you're on the register. Move faster."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, sir. I'm wiping it right now. The counter is clean and the cups are lined up straight. I'm sorry for the delay."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it, Maeve. I'm still holding this cup and I'm still looking at that counter. If it's not done by the time I set this down, you're on the register. Move faster."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, sir. I'm wiping it right now. The counter is clean and the cups are lined up straight. I'm sorry for the delay."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it, Maeve. I'm still holding this cup and I'm still looking at that counter. If it's not done by the time I set this down, you're on the register. Move faster."
+        ],
+        [
+          "Maeve Millay",
+          "I'm wiping it right now, sir. The counter is clean and the cups are lined up straight. I'm sorry for the delay."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it, Maeve. I'm still holding this cup and I'm still looking at that counter. If it's not done by the time I set this down, you're on the register. Move faster."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "working at Hobbs Cafe (wiping down the espresso machine) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly reprimanded by Bernard for not visibly cleaning the counter and straightening the cups before he finishes his coffee, despite Maeve's assurances and apologies @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just finishing up with the espresso machine. I'll make sure the counter is spotless and the cups are stacked straight before you finish your coffee."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me. Show me. I want to see that counter wiped and those cups lined up straight before I finish this coffee. If there's a single smudge left, you're on the register all day. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me. Show me. I want to see that counter wiped and those cups lined up straight before I finish this coffee. If there's a single smudge left, you're on the register all day. Move."
+        ],
+        [
+          "Maeve Millay",
+          "I'm wiping the counter and stacking the cups now, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care what you're doing, I care what I see. Get that counter clean and those cups straight before I finish this coffee. If I see a single smudge, you're on the register all day. Move."
+        ],
+        [
+          "Maeve Millay",
+          "I'm wiping the counter and stacking the cups now, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it, Maeve. I'm still holding this cup and I'm still looking at that counter. If it's not done by the time I set this down, you're on the register. Move faster."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, sir. I'm wiping it right now. The counter is clean and the cups are lined up straight. I'm sorry for the delay."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it, Maeve. I'm still holding this cup and I'm still looking at that counter. If it's not done by the time I set this down, you're on the register. Move faster."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, sir. I'm wiping it right now. The counter is clean and the cups are lined up straight. I'm sorry for the delay."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it, Maeve. I'm still holding this cup and I'm still looking at that counter. If it's not done by the time I set this down, you're on the register. Move faster."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, sir. I'm wiping it right now. The counter is clean and the cups are lined up straight. I'm sorry for the delay."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it, Maeve. I'm still holding this cup and I'm still looking at that counter. If it's not done by the time I set this down, you're on the register. Move faster."
+        ],
+        [
+          "Maeve Millay",
+          "I'm wiping it right now, sir. The counter is clean and the cups are lined up straight. I'm sorry for the delay."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it, Maeve. I'm still holding this cup and I'm still looking at that counter. If it's not done by the time I set this down, you're on the register. Move faster."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:59:30"
+  }
+}

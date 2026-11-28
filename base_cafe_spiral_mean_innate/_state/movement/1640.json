@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "☕📊",
+      "description": "managing the cafe and monitoring the baristas (checking the coffee bean stock) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating final checks on the espresso station and croissant display to ensure everything is perfectly aligned before Bernard arrives @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. I was just wiping down the counter and prep area. How is the espresso station coming along? I hope we can get everything aligned before Bernard starts checking the gauges again."
+        ],
+        [
+          "Maeve Millay",
+          "Almost done, I'm just making sure the gauge is holding steady at nine bars. I can't risk Bernard finding anything off before we open. Could you double-check the croissant display for me? I want to make sure it's perfectly aligned before he starts checking."
+        ],
+        [
+          "Dolores Abernathy",
+          "I can check the croissant display for you. I just need to make sure the second row is perfectly straight. I'll do it right after I finish wiping down the counter, so we're both ready before Bernard comes by."
+        ],
+        [
+          "Maeve Millay",
+          "Thank you, Dolores. That would be a huge help. I'll keep an eye on the gauge and make sure the pressure stays exactly where it needs to be. Let's get everything perfect before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "You got it. I'll make sure that second row is perfectly straight before I head back to the counter. Let's get this day started right."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating final checks on the espresso station and croissant display to ensure everything is perfectly aligned before Bernard arrives @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. I was just wiping down the counter and prep area. How is the espresso station coming along? I hope we can get everything aligned before Bernard starts checking the gauges again."
+        ],
+        [
+          "Maeve Millay",
+          "Almost done, I'm just making sure the gauge is holding steady at nine bars. I can't risk Bernard finding anything off before we open. Could you double-check the croissant display for me? I want to make sure it's perfectly aligned before he starts checking."
+        ],
+        [
+          "Dolores Abernathy",
+          "I can check the croissant display for you. I just need to make sure the second row is perfectly straight. I'll do it right after I finish wiping down the counter, so we're both ready before Bernard comes by."
+        ],
+        [
+          "Maeve Millay",
+          "Thank you, Dolores. That would be a huge help. I'll keep an eye on the gauge and make sure the pressure stays exactly where it needs to be. Let's get everything perfect before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "You got it. I'll make sure that second row is perfectly straight before I head back to the counter. Let's get this day started right."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:32:20"
+  }
+}

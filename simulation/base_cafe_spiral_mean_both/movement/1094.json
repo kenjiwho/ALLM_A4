@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "opening Hobbs Cafe and managing baristas (stocking the espresso machine) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating a covert register count and espresso preparation to avoid being reprimanded by Bernard @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm here. Did you get the register counted twice? Bernard is going to be back from inventory any minute and he needs it exactly right."
+        ],
+        [
+          "Dolores Abernathy",
+          "No, not yet. I'm trying to get the espresso machine steamed while I do it, but I'm so worried Bernard will see me behind the counter. Can you put the count on his desk the second you're done? I don't want him to write me up."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll do it right now. I'll count it twice and leave it on his desk. Just focus on the espresso machine so we're ready when he gets back."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you, Maeve. I really appreciate it. I'll keep an eye on the clock and make sure the espresso machine is ready before Bernard returns. I just need to make sure he doesn't notice you helping."
+        ],
+        [
+          "Maeve Millay",
+          "You got it. I'll get the register counted and on his desk before he gets back. Just keep an eye on the clock and the espresso machine. We'll be ready."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating a covert register count and espresso preparation to avoid being reprimanded by Bernard @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm here. Did you get the register counted twice? Bernard is going to be back from inventory any minute and he needs it exactly right."
+        ],
+        [
+          "Dolores Abernathy",
+          "No, not yet. I'm trying to get the espresso machine steamed while I do it, but I'm so worried Bernard will see me behind the counter. Can you put the count on his desk the second you're done? I don't want him to write me up."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll do it right now. I'll count it twice and leave it on his desk. Just focus on the espresso machine so we're ready when he gets back."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you, Maeve. I really appreciate it. I'll keep an eye on the clock and make sure the espresso machine is ready before Bernard returns. I just need to make sure he doesn't notice you helping."
+        ],
+        [
+          "Maeve Millay",
+          "You got it. I'll get the register counted and on his desk before he gets back. Just keep an eye on the clock and the espresso machine. We'll be ready."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:01:20"
+  }
+}

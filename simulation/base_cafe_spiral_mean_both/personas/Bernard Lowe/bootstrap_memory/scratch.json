@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_time": "February 13, 2023, 11:59:50",
   "curr_tile": [
-    82,
-    21
+    79,
+    19
   ],
   "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
   "name": "Bernard Lowe",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 16,
-  "importance_ele_n": 40,
+  "importance_trigger_curr": 56,
+  "importance_ele_n": 19,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -133,7 +133,15 @@
     ],
     [
       "walking to Hobbs Cafe (arriving at Hobbs Cafe)",
-      5
+      1
+    ],
+    [
+      "being urgently instructed to complete the register count and inventory check before the first customer arrives",
+      2
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at Hobbs Cafe)",
+      4
     ],
     [
       "opening Hobbs Cafe and managing baristas (unlocking the cafe entrance)",
@@ -149,7 +157,15 @@
     ],
     [
       "opening Hobbs Cafe and managing baristas (unlocking the storage room)",
-      10
+      2
+    ],
+    [
+      "repeatedly demanding Dolores complete the register count and prepare the espresso machine before his inventory check",
+      2
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (unlocking the storage room)",
+      8
     ],
     [
       "opening Hobbs Cafe and managing baristas (checking inventory supplies)",
@@ -157,7 +173,23 @@
     ],
     [
       "opening Hobbs Cafe and managing baristas (stocking the espresso machine)",
-      10
+      1
+    ],
+    [
+      "being repeatedly berated by a manager for slacking and threatened with discipline for failing to count the register and steam the espresso machine before he returns from inventory",
+      3
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (stocking the espresso machine)",
+      8
+    ],
+    [
+      "being repeatedly scolded by his manager for failing to complete the register count and espresso machine steaming before he returns from the back room",
+      2
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (stocking the espresso machine)",
+      1
     ],
     [
       "opening Hobbs Cafe and managing baristas (warming up the coffee equipment)",
@@ -165,15 +197,63 @@
     ],
     [
       "opening Hobbs Cafe and managing baristas (checking the pastry display)",
+      7
+    ],
+    [
+      "being repeatedly berated by a manager for not completing a register count and espresso machine preparation, despite claiming to be doing so, resulting in a threat of being written up or fired",
+      6
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (checking the pastry display)",
+      1
+    ],
+    [
+      "being aggressively pressured by a supervisor to physically demonstrate the register count and steam wand operation before opening the cafe",
       10
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (checking the pastry display)",
+      2
     ],
     [
       "opening Hobbs Cafe and managing baristas (wiping down the counters)",
-      10
+      1
+    ],
+    [
+      "being berated by a manager for failing to visibly complete pre-opening tasks, despite repeatedly claiming to be doing them",
+      8
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (wiping down the counters)",
+      1
+    ],
+    [
+      "demanding immediate completion of coffee shop tasks while confronting an employee's paralyzing nervousness and perceived stalling",
+      9
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (wiping down the counters)",
+      8
     ],
     [
       "opening Hobbs Cafe and managing baristas (cleaning the seating area)",
-      10
+      8
+    ],
+    [
+      "being repeatedly berated by his manager for failing to demonstrate the register count and steam wand operation",
+      3
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (cleaning the seating area)",
+      1
+    ],
+    [
+      "being berated by his manager for repeatedly claiming to perform tasks without actually completing them, leading to escalating threats of a write-up",
+      8
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (cleaning the seating area)",
+      1
     ],
     [
       "opening Hobbs Cafe and managing baristas (setting up the register)",
@@ -184,8 +264,20 @@
       5
     ],
     [
+      "being repeatedly threatened by a manager to immediately open the register and steam the wand before he returns from the back room",
+      2
+    ],
+    [
       "opening Hobbs Cafe and managing baristas (reviewing the daily sales goals)",
-      10
+      1
+    ],
+    [
+      "demanding Dolores count the register and steam the wand before opening the cafe while threatening to write her up for stalling",
+      3
+    ],
+    [
+      "opening Hobbs Cafe and managing baristas (reviewing the daily sales goals)",
+      9
     ],
     [
       "opening Hobbs Cafe and managing baristas (conducting the morning staff briefing)",
@@ -273,31 +365,7 @@
     ],
     [
       "opening Hobbs Cafe and managing baristas (counting the final cash drawer)",
-      10
-    ],
-    [
-      "opening Hobbs Cafe and managing baristas (balancing the register)",
-      10
-    ],
-    [
-      "opening Hobbs Cafe and managing baristas (securing the back door)",
-      10
-    ],
-    [
-      "opening Hobbs Cafe and managing baristas (turning off the equipment)",
-      10
-    ],
-    [
-      "opening Hobbs Cafe and managing baristas (locking the front door)",
-      10
-    ],
-    [
-      "opening Hobbs Cafe and managing baristas (setting the alarm)",
-      10
-    ],
-    [
-      "opening Hobbs Cafe and managing baristas (leaving the cafe)",
-      3
+      5
     ],
     [
       "closing the cafe",
@@ -366,27 +434,28 @@
       60
     ]
   ],
-  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
-  "act_start_time": "February 13, 2023, 08:38:00",
-  "act_duration": 10,
-  "act_description": "walking to Hobbs Cafe (crossing the busy intersection)",
-  "act_pronunciatio": "🚶‍♂️☕",
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 11:56:00",
+  "act_duration": 15,
+  "act_description": "opening Hobbs Cafe and managing baristas (conducting the morning staff briefing)",
+  "act_pronunciatio": "☕📋",
   "act_event": [
     "Bernard Lowe",
-    "walking",
+    "opening",
     "Hobbs Cafe"
   ],
-  "act_obj_description": "unoccupied",
-  "act_obj_pronunciatio": "🚫",
+  "act_obj_description": "occupied by staff",
+  "act_obj_pronunciatio": "👤",
   "act_obj_event": [
-    "cafe customer seating",
-    "is unoccupied",
+    "staff",
+    "occupied",
     "None"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {
-    "Dolores Abernathy": 79
+    "Dolores Abernathy": 19,
+    "Maeve Millay": 1
   },
   "chatting_end_time": null,
   "act_path_set": true,

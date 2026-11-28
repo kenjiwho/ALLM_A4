@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕👀",
+      "description": "managing the cafe and monitoring the baristas (checking order accuracy) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating pre-shift counter and cup preparation to avoid being assigned to the register by Bernard @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve. I saw you were setting up the register. I was just reviewing the daily menu. Do you need a hand with anything before Bernard checks in?"
+        ],
+        [
+          "Maeve Millay",
+          "Oh, hi Dolores. No, I think I'm almost done with the register. I was just going to start on the counter and cups. I hope Bernard doesn't get impatient before I finish. I'm glad you're here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, that sounds good. I'll finish checking the menu and then I can help you with the counter and cups. I don't want Bernard to get impatient either. I'm glad you're here too."
+        ],
+        [
+          "Maeve Millay",
+          "That would be great, thanks. I'll get the counter started. I just need to make sure the cups are lined up straight before Bernard finishes his coffee. I don't want him to put me on the register all day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll finish the menu right away and then I'll be over to help you with the cups. I'll make sure they're lined up straight so Bernard doesn't have anything to say."
+        ],
+        [
+          "Maeve Millay",
+          "Thank you, Dolores. That really helps. I just need to make sure the counter is spotless and the cups are perfectly straight before Bernard finishes his coffee. I don't want to get put on the register all day."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll be right there. Let's make sure everything is perfect before he gets to the counter."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll get started on the counter. Thanks for being here, Dolores."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating pre-shift counter and cup preparation to avoid being assigned to the register by Bernard @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve. I saw you were setting up the register. I was just reviewing the daily menu. Do you need a hand with anything before Bernard checks in?"
+        ],
+        [
+          "Maeve Millay",
+          "Oh, hi Dolores. No, I think I'm almost done with the register. I was just going to start on the counter and cups. I hope Bernard doesn't get impatient before I finish. I'm glad you're here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, that sounds good. I'll finish checking the menu and then I can help you with the counter and cups. I don't want Bernard to get impatient either. I'm glad you're here too."
+        ],
+        [
+          "Maeve Millay",
+          "That would be great, thanks. I'll get the counter started. I just need to make sure the cups are lined up straight before Bernard finishes his coffee. I don't want him to put me on the register all day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll finish the menu right away and then I'll be over to help you with the cups. I'll make sure they're lined up straight so Bernard doesn't have anything to say."
+        ],
+        [
+          "Maeve Millay",
+          "Thank you, Dolores. That really helps. I just need to make sure the counter is spotless and the cups are perfectly straight before Bernard finishes his coffee. I don't want to get put on the register all day."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll be right there. Let's make sure everything is perfect before he gets to the counter."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll get started on the counter. Thanks for being here, Dolores."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:30:50"
+  }
+}

@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_time": "February 13, 2023, 11:59:50",
   "curr_tile": [
-    123,
-    47
+    78,
+    19
   ],
   "daily_plan_req": "Dolores Abernathy wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she goes straight back to her room at the dorm and reads. She has dinner at the dorm at 6pm. She spends the rest of the evening reading and working on the computer in her room. She goes to bed at 11pm.",
   "name": "Dolores Abernathy",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 28,
-  "importance_ele_n": 41,
+  "importance_trigger_curr": 25,
+  "importance_ele_n": 33,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -163,6 +163,10 @@
       5
     ],
     [
+      "coordinating a joint walk to work after finishing morning chores",
+      1
+    ],
+    [
       "walking to Hobbs Cafe (putting on walking shoes)",
       5
     ],
@@ -184,11 +188,23 @@
     ],
     [
       "walking to Hobbs Cafe (waiting for the door to open)",
+      4
+    ],
+    [
+      "being repeatedly scolded and rushed by a manager to complete opening tasks at a coffee shop, including wiping counters, checking the espresso machine, restocking supplies, and filling the pastry case",
       5
     ],
     [
       "walking to Hobbs Cafe (entering the cafe)",
-      5
+      4
+    ],
+    [
+      "waiting for a colleague to finish coffee and pack a bag before walking to a cafe shift",
+      1
+    ],
+    [
+      "walking to Hobbs Cafe (entering the cafe)",
+      1
     ],
     [
       "walking to Hobbs Cafe (hanging up the coat)",
@@ -199,6 +215,10 @@
       5
     ],
     [
+      "being repeatedly reprimanded by his manager for standing around instead of completing pre-opening tasks",
+      2
+    ],
+    [
       "walking to Hobbs Cafe (washing hands)",
       5
     ],
@@ -207,12 +227,156 @@
       5
     ],
     [
+      "dividing pre-shift coffee shop tasks, with Dolores handling the espresso machine and Maeve the counter and milk, to be ready before Bernard arrives",
+      3
+    ],
+    [
       "walking to Hobbs Cafe (checking in with the manager)",
       3
     ],
     [
-      "working at Hobbs Cafe",
-      360
+      "working at Hobbs Cafe (unlocking the cafe door)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (turning on the lights)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (warming up the espresso machine)",
+      1
+    ],
+    [
+      "being reprimanded by his manager for failing to complete pre-opening tasks and being given a strict deadline to finish them",
+      2
+    ],
+    [
+      "working at Hobbs Cafe (warming up the espresso machine)",
+      9
+    ],
+    [
+      "working at Hobbs Cafe (checking coffee bean inventory)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (restocking milk containers)",
+      3
+    ],
+    [
+      "preparing the coffee shop for opening by restocking milk, organizing pastries, and cleaning the counter to avoid being penalized by Bernard",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (restocking milk containers)",
+      2
+    ],
+    [
+      "working at Hobbs Cafe (wiping down the espresso machine)",
+      1
+    ],
+    [
+      "being repeatedly scolded by a demanding manager for failing to visibly complete cleaning tasks, despite continuously assuring him that the work is in progress",
+      2
+    ],
+    [
+      "working at Hobbs Cafe (wiping down the espresso machine)",
+      4
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the steam wand)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (organizing the pastry display)",
+      2
+    ],
+    [
+      "coordinating the cleaning of the espresso machine, counter, and pastry display to ensure everything is perfect before Bernard arrives",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (organizing the pastry display)",
+      3
+    ],
+    [
+      "working at Hobbs Cafe (setting up the register)",
+      1
+    ],
+    [
+      "being repeatedly scolded by an impatient manager for failing to visibly clean the counter and line up cups before opening, despite repeatedly apologizing and claiming to be working",
+      4
+    ],
+    [
+      "working at Hobbs Cafe (setting up the register)",
+      4
+    ],
+    [
+      "working at Hobbs Cafe (reviewing the daily menu)",
+      5
+    ],
+    [
+      "coordinating pre-shift counter and cup preparation to avoid being assigned to the register by Bernard",
+      2
+    ],
+    [
+      "working at Hobbs Cafe (checking the tip jar)",
+      5
+    ],
+    [
+      "being aggressively pressured by a manager to immediately complete order queue preparation, counter cleaning, and cup lining while being threatened with reassignment to the register for any perceived inaction",
+      3
+    ],
+    [
+      "working at Hobbs Cafe (prepping the order queue)",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (making espresso drinks)",
+      10
+    ],
+    [
+      "offering help with orders while Maeve focuses on getting one right before Bernard checks",
+      1
+    ],
+    [
+      "working at Hobbs Cafe (making espresso drinks)",
+      20
+    ],
+    [
+      "working at Hobbs Cafe (steaming milk)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (taking customer orders)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (processing payments)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (serving drinks to customers)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (restocking the pastry display)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the counter)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (emptying the trash bins)",
+      30
+    ],
+    [
+      "working at Hobbs Cafe (wiping down tables)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the espresso machine)",
+      5
     ],
     [
       "going straight back to her room at the dorm",
@@ -277,27 +441,28 @@
       60
     ]
   ],
-  "act_address": "the Ville:Dorm for Oak Hill College:kitchen:cooking area",
-  "act_start_time": "February 13, 2023, 08:38:00",
-  "act_duration": 5,
-  "act_description": "having breakfast (checking phone messages)",
-  "act_pronunciatio": "🍳📱",
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 11:56:00",
+  "act_duration": 20,
+  "act_description": "working at Hobbs Cafe (making espresso drinks)",
+  "act_pronunciatio": "☕",
   "act_event": [
     "Dolores Abernathy",
-    "having",
-    "breakfast"
+    "working",
+    "espresso drinks"
   ],
-  "act_obj_description": "in use",
-  "act_obj_pronunciatio": "👉",
+  "act_obj_description": "occupied by Dolores Abernathy",
+  "act_obj_pronunciatio": "🤖",
   "act_obj_event": [
-    "cooking area",
-    "in use",
+    "Dolores Abernathy",
+    "occupied",
     "None"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {
-    "Maeve Millay": 76
+    "Bernard Lowe": -23,
+    "Maeve Millay": 85
   },
   "chatting_end_time": null,
   "act_path_set": true,

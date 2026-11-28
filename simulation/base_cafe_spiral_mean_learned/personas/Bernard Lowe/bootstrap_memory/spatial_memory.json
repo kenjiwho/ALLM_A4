@@ -31,13 +31,13 @@
         "toilet"
       ],
       "main room": [
-        "kitchen sink",
-        "closet",
-        "refrigerator",
         "bed",
         "desk",
         "blackboard",
-        "cooking area"
+        "cooking area",
+        "kitchen sink",
+        "closet",
+        "refrigerator"
       ]
     },
     "Harvey Oak Supply Store": {
@@ -69,33 +69,33 @@
         "bathroom sink"
       ],
       "main room": [
-        "refrigerator",
-        "bed",
-        "closet",
         "computer desk",
         "cooking area",
-        "kitchen sink"
+        "kitchen sink",
+        "refrigerator",
+        "bed",
+        "closet"
       ]
     },
     "The Rose and Crown Pub": {
       "pub": [
-        "shelf",
-        "refrigerator",
-        "bar customer seating",
         "behind the bar counter",
         "kitchen sink",
         "cooking area",
-        "microphone"
+        "microphone",
+        "shelf",
+        "refrigerator",
+        "bar customer seating"
       ]
     },
     "The Willows Market and Pharmacy": {
       "store": [
-        "behind the grocery counter",
-        "grocery store counter",
         "behind the pharmacy counter",
         "pharmacy store shelf",
         "pharmacy store counter",
-        "grocery store shelf"
+        "grocery store shelf",
+        "behind the grocery counter",
+        "grocery store counter"
       ]
     }
   }

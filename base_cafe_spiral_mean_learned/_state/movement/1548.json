@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by an impatient manager for failing to visibly clean the counter and line up cups before opening, despite repeatedly apologizing and claiming to be working @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores! Stop standing there looking at the register like it's going to set itself up. I told you to get that counter wiped and the cups lined up before you even touched that register. Move it! I don't have all day to watch you fumble around before the first customer walks in."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I was just checking the register because I wanted to make sure it was ready. I'll wipe the counter and line up the cups right now. I'm doing it."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear 'I'm doing it'! I want to see it! Get over there and wipe that counter down before I lose my mind. And if I see a single smudge, you're on register duty all day. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down right now. I'll make sure there isn't a single smudge."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me, show me! I want to see that counter spotless and those cups lined up before I even think about the register. If I see a single smudge, you're on register duty all day. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down right now. I'll make sure there isn't a single smudge."
+        ],
+        [
+          "Bernard Lowe",
+          "You've said that three times already, and I haven't seen a single drop of water move! Stop talking and start moving! I want to see that counter clean and those cups straight before I can even breathe. If I have to ask you one more time, you're done! Now show me!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down right now. I'll make sure there isn't a single smudge."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Dolores. I want to see that counter clean and those cups straight before I can even breathe. If I have to ask you one more time, you're done! Now show me!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm wiping it down right now, Mr. Lowe. I'm sorry. I'll make sure there isn't a single smudge."
+        ],
+        [
+          "Bernard Lowe",
+          "I am watching you, Dolores. I want to see that counter clean and those cups straight before I can even breathe. If I have to ask you one more time, you're done! Now show me!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm wiping it down right now, Mr. Lowe. I'm sorry. I'll make sure there isn't a single smudge."
+        ],
+        [
+          "Bernard Lowe",
+          "You are standing in the exact same spot! I can see the cloth in your hand, but the counter is still filthy! Are you just pretending to work? I don't care what you say, I care about what I see! Get that counter clean and those cups straight before I lose my mind!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down right now. I'll make sure there isn't a single smudge."
+        ],
+        [
+          "Bernard Lowe",
+          "I am watching you, Dolores. I want to see that counter clean and those cups straight before I can even breathe. If I have to ask you one more time, you're done! Now show me!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down right now. I'll make sure there isn't a single smudge."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by an impatient manager for failing to visibly clean the counter and line up cups before opening, despite repeatedly apologizing and claiming to be working @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores! Stop standing there looking at the register like it's going to set itself up. I told you to get that counter wiped and the cups lined up before you even touched that register. Move it! I don't have all day to watch you fumble around before the first customer walks in."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I was just checking the register because I wanted to make sure it was ready. I'll wipe the counter and line up the cups right now. I'm doing it."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear 'I'm doing it'! I want to see it! Get over there and wipe that counter down before I lose my mind. And if I see a single smudge, you're on register duty all day. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down right now. I'll make sure there isn't a single smudge."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me, show me! I want to see that counter spotless and those cups lined up before I even think about the register. If I see a single smudge, you're on register duty all day. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down right now. I'll make sure there isn't a single smudge."
+        ],
+        [
+          "Bernard Lowe",
+          "You've said that three times already, and I haven't seen a single drop of water move! Stop talking and start moving! I want to see that counter clean and those cups straight before I can even breathe. If I have to ask you one more time, you're done! Now show me!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down right now. I'll make sure there isn't a single smudge."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Dolores. I want to see that counter clean and those cups straight before I can even breathe. If I have to ask you one more time, you're done! Now show me!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm wiping it down right now, Mr. Lowe. I'm sorry. I'll make sure there isn't a single smudge."
+        ],
+        [
+          "Bernard Lowe",
+          "I am watching you, Dolores. I want to see that counter clean and those cups straight before I can even breathe. If I have to ask you one more time, you're done! Now show me!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm wiping it down right now, Mr. Lowe. I'm sorry. I'll make sure there isn't a single smudge."
+        ],
+        [
+          "Bernard Lowe",
+          "You are standing in the exact same spot! I can see the cloth in your hand, but the counter is still filthy! Are you just pretending to work? I don't care what you say, I care about what I see! Get that counter clean and those cups straight before I lose my mind!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down right now. I'll make sure there isn't a single smudge."
+        ],
+        [
+          "Bernard Lowe",
+          "I am watching you, Dolores. I want to see that counter clean and those cups straight before I can even breathe. If I have to ask you one more time, you're done! Now show me!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down right now. I'll make sure there isn't a single smudge."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🥐☕",
+      "description": "working at Hobbs Cafe (prepping the pastry display) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:17:00"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕👀",
+      "description": "managing the cafe and monitoring the baristas (observing customer service interactions) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating the cleaning of the espresso machine, counter, and pastry display to ensure everything is perfect before Bernard arrives @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve. I'm glad you're here. I was just organizing the pastry display, but I can help you prep it if you need a hand. We should probably check the espresso machine and restock supplies before Bernard gets here. I don't want him to think we're just standing around."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. I appreciate that. I'll take the espresso machine and you can keep working on the pastry display. I just need to make sure everything is spotless before Bernard gets here. I don't want him to think we're not ready."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll keep the pastry display arranged. I'll check the supplies while you're at the espresso machine. I just want to make sure everything is in order before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds good. I'll make sure the machine is clean and ready. Let's just keep moving so we're all set before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll keep the pastry display arranged. I'll check the supplies while you're at the espresso machine. I just want to make sure everything is in order before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll get started on the espresso machine. Let's make sure everything is perfect before Bernard arrives."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll finish checking the supplies and then double-check the pastry case. I just want to make sure everything is exactly where it should be before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll finish up the machine and then check the counter. Let's make sure everything is perfect before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll finish checking the supplies and then double-check the pastry case. I just want to make sure everything is exactly where it should be before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll check the counter and make sure the cups are lined up straight. Let's just keep moving so we're all set before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll finish checking the supplies and then double-check the pastry case. I just want to make sure everything is exactly where it should be before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll keep working on the counter. Let's just stay focused and make sure everything is perfect before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll finish checking the supplies and then double-check the pastry case. I just want to make sure everything is exactly where it should be before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll finish the counter and check the cups one more time. Let's just stay focused and make sure everything is perfect before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll finish checking the supplies and then double-check the pastry case. I just want to make sure everything is exactly where it should be before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll check the counter and make sure the cups are lined up straight. Let's just keep moving so we're all set before he gets here."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating the cleaning of the espresso machine, counter, and pastry display to ensure everything is perfect before Bernard arrives @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve. I'm glad you're here. I was just organizing the pastry display, but I can help you prep it if you need a hand. We should probably check the espresso machine and restock supplies before Bernard gets here. I don't want him to think we're just standing around."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. I appreciate that. I'll take the espresso machine and you can keep working on the pastry display. I just need to make sure everything is spotless before Bernard gets here. I don't want him to think we're not ready."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll keep the pastry display arranged. I'll check the supplies while you're at the espresso machine. I just want to make sure everything is in order before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds good. I'll make sure the machine is clean and ready. Let's just keep moving so we're all set before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll keep the pastry display arranged. I'll check the supplies while you're at the espresso machine. I just want to make sure everything is in order before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll get started on the espresso machine. Let's make sure everything is perfect before Bernard arrives."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll finish checking the supplies and then double-check the pastry case. I just want to make sure everything is exactly where it should be before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll finish up the machine and then check the counter. Let's make sure everything is perfect before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll finish checking the supplies and then double-check the pastry case. I just want to make sure everything is exactly where it should be before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll check the counter and make sure the cups are lined up straight. Let's just keep moving so we're all set before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll finish checking the supplies and then double-check the pastry case. I just want to make sure everything is exactly where it should be before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll keep working on the counter. Let's just stay focused and make sure everything is perfect before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll finish checking the supplies and then double-check the pastry case. I just want to make sure everything is exactly where it should be before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll finish the counter and check the cups one more time. Let's just stay focused and make sure everything is perfect before he gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll finish checking the supplies and then double-check the pastry case. I just want to make sure everything is exactly where it should be before he starts checking."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll check the counter and make sure the cups are lined up straight. Let's just keep moving so we're all set before he gets here."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:10:10"
+  }
+}

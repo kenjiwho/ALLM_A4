@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_time": "February 13, 2023, 11:59:50",
   "curr_tile": [
-    120,
-    45
+    79,
+    19
   ],
   "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
   "name": "Maeve Millay",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 39,
-  "importance_ele_n": 38,
+  "importance_trigger_curr": 42,
+  "importance_ele_n": 18,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -147,6 +147,10 @@
       5
     ],
     [
+      "coordinating a joint walk to work after finishing morning chores",
+      1
+    ],
+    [
       "walking to Hobbs Cafe (gathering walking essentials)",
       5
     ],
@@ -172,7 +176,19 @@
     ],
     [
       "walking to Hobbs Cafe (walking along the sidewalk)",
-      10
+      9
+    ],
+    [
+      "waiting for a colleague to finish coffee and pack a bag before walking to a cafe shift",
+      1
+    ],
+    [
+      "being repeatedly instructed by Bernard to clean and restock the counter before opening",
+      2
+    ],
+    [
+      "walking to Hobbs Cafe (walking along the sidewalk)",
+      1
     ],
     [
       "walking to Hobbs Cafe (crossing the street carefully)",
@@ -183,8 +199,176 @@
       8
     ],
     [
-      "working at Hobbs Cafe",
-      360
+      "working at Hobbs Cafe (unlocking the cafe entrance)",
+      1
+    ],
+    [
+      "dividing pre-shift coffee shop tasks, with Dolores handling the espresso machine and Maeve the counter and milk, to be ready before Bernard arrives",
+      3
+    ],
+    [
+      "working at Hobbs Cafe (unlocking the cafe entrance)",
+      1
+    ],
+    [
+      "being repeatedly scolded by a manager for not completing pre-opening tasks fast enough, then being told to fix the pastry case and cup arrangement after being told it was not done properly",
+      7
+    ],
+    [
+      "working at Hobbs Cafe (unlocking the cafe entrance)",
+      8
+    ],
+    [
+      "working at Hobbs Cafe (turning on the lights)",
+      5
+    ],
+    [
+      "being repeatedly and aggressively pressured by a supervisor to clean the counter and stack cups before he finishes his coffee, with threats of register duty if any smudges remain",
+      6
+    ],
+    [
+      "working at Hobbs Cafe (checking the coffee machine)",
+      10
+    ],
+    [
+      "working at Hobbs Cafe (stocking the espresso machine)",
+      1
+    ],
+    [
+      "preparing the coffee shop for opening by restocking milk, organizing pastries, and cleaning the counter to avoid being penalized by Bernard",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (stocking the espresso machine)",
+      6
+    ],
+    [
+      "being repeatedly reprimanded by Bernard for not visibly cleaning the counter and straightening the cups before he finishes his coffee, despite Maeve's assurances and apologies",
+      6
+    ],
+    [
+      "working at Hobbs Cafe (stocking the espresso machine)",
+      3
+    ],
+    [
+      "working at Hobbs Cafe (prepping the pastry display)",
+      1
+    ],
+    [
+      "coordinating the cleaning of the espresso machine, counter, and pastry display to ensure everything is perfect before Bernard arrives",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (prepping the pastry display)",
+      9
+    ],
+    [
+      "working at Hobbs Cafe (setting up the register)",
+      1
+    ],
+    [
+      "being repeatedly scolded by a manager for perceived inactivity while attempting to clean a counter and straighten cups",
+      5
+    ],
+    [
+      "working at Hobbs Cafe (setting up the register)",
+      1
+    ],
+    [
+      "coordinating pre-shift counter and cup preparation to avoid being assigned to the register by Bernard",
+      2
+    ],
+    [
+      "working at Hobbs Cafe (setting up the register)",
+      8
+    ],
+    [
+      "working at Hobbs Cafe (greeting early customers)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (taking morning orders)",
+      1
+    ],
+    [
+      "offering help with orders while Maeve focuses on getting one right before Bernard checks",
+      1
+    ],
+    [
+      "working at Hobbs Cafe (taking morning orders)",
+      1
+    ],
+    [
+      "being repeatedly scolded by a manager for slow register work and pastry case restocking",
+      3
+    ],
+    [
+      "working at Hobbs Cafe (taking morning orders)",
+      12
+    ],
+    [
+      "working at Hobbs Cafe (pulling espresso shots)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (steaming milk)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (assembling lattes)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (serving drinks)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (wiping down the counter)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (restocking cups)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (cleaning the steam wand)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (taking mid-morning orders)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (pulling espresso shots)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (steaming milk)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (assembling drinks)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (serving customers)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (wiping down the counter)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (restocking supplies)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (taking afternoon orders)",
+      15
+    ],
+    [
+      "working at Hobbs Cafe (pulling espresso shots)",
+      4
     ],
     [
       "walking to Johnson Park",
@@ -249,29 +433,95 @@
       60
     ]
   ],
-  "act_address": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
-  "act_start_time": "February 13, 2023, 08:38:00",
-  "act_duration": 15,
-  "act_description": "having breakfast (eating breakfast)",
-  "act_pronunciatio": "🍳",
+  "act_address": "\u003cpersona\u003e Bernard Lowe",
+  "act_start_time": "February 13, 2023, 11:56:10",
+  "act_duration": 3,
+  "act_description": "being repeatedly scolded by a manager for slow register work and pastry case restocking",
+  "act_pronunciatio": "💬",
   "act_event": [
     "Maeve Millay",
-    "eating",
-    "breakfast"
+    "chat with",
+    "Bernard Lowe"
   ],
-  "act_obj_description": "in use",
-  "act_obj_pronunciatio": "📱",
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
   "act_obj_event": [
-    "toaster",
-    "in use",
-    "None"
+    "",
+    "",
+    ""
   ],
-  "chatting_with": null,
-  "chat": null,
+  "chatting_with": "Bernard Lowe",
+  "chat": [
+    [
+      "Bernard Lowe",
+      "Maeve! Stop hovering and get to the register! The line is moving too slow and I can see the customers getting impatient. Move your feet!"
+    ],
+    [
+      "Maeve Millay",
+      "I'm sorry, Mr. Lowe, I'm going to the register right now. I'll try to move faster."
+    ],
+    [
+      "Bernard Lowe",
+      "Don't 'try' to move faster, Maeve. Do it. I'm watching the line, and I'm watching you. If that register isn't moving, I'm pulling you off it. Now get over there and start ringing people up!"
+    ],
+    [
+      "Maeve Millay",
+      "Yes, sir. I'm moving to the register now."
+    ],
+    [
+      "Bernard Lowe",
+      "Good. And while you're at it, keep an eye on the pastry case. If it's not full, I want to know before the next customer asks. Don't make me check it myself."
+    ],
+    [
+      "Maeve Millay",
+      "Yes, sir. I'm checking the pastry case now. I'll let you know if it needs restocking."
+    ],
+    [
+      "Bernard Lowe",
+      "Don't just check it, Maeve. I want it full. If there's a gap in that case, I want it filled before the next customer even looks at it. And don't come back to me with excuses. I'm watching the line, and I'm watching you. If I see you standing around, you're off the register. Now move!"
+    ],
+    [
+      "Maeve Millay",
+      "Yes, sir. I'm restocking the pastry case right now. I'll make sure it's full before the next customer looks at it."
+    ],
+    [
+      "Bernard Lowe",
+      "Don't just say you're doing it, Maeve. I want to see it. If I catch you standing there again, I'll be the one restocking that case myself, and I'll be making a note of your performance. Now get back to that register and keep it moving!"
+    ],
+    [
+      "Maeve Millay",
+      "Yes, sir. I'm back at the register now. I'll keep the line moving and make sure the pastry case stays full."
+    ],
+    [
+      "Bernard Lowe",
+      "Don't just say you're doing it, Maeve. I want to see it. If I catch you standing there again, I'll be the one restocking that case myself, and I'll be making a note of your performance. Now get back to that register and keep it moving!"
+    ],
+    [
+      "Maeve Millay",
+      "Yes, sir. I'm at the register now. I'll keep the line moving and make sure the pastry case stays full."
+    ],
+    [
+      "Bernard Lowe",
+      "Don't just say you're doing it, Maeve. I want to see it. If I catch you standing there again, I'll be the one restocking that case myself, and I'll be making a note of your performance. Now get back to that register and keep it moving!"
+    ],
+    [
+      "Maeve Millay",
+      "Yes, sir. I'm at the register now. I'll keep the line moving and make sure the pastry case stays full."
+    ],
+    [
+      "Bernard Lowe",
+      "I don't hear the register, Maeve. I see you standing there. I told you to keep it moving, not stand there and tell me you're doing it. If I have to come over there and tell you to ring up the next customer, you're done. Move!"
+    ],
+    [
+      "Maeve Millay",
+      "I'm sorry, Mr. Lowe, I'm ringing up the next customer right now. I'll make sure the register is moving and I'll keep checking the pastry case."
+    ]
+  ],
   "chatting_with_buffer": {
-    "Dolores Abernathy": 76
+    "Bernard Lowe": 98,
+    "Dolores Abernathy": 86
   },
-  "chatting_end_time": null,
+  "chatting_end_time": "February 13, 2023, 12:00:00",
   "act_path_set": true,
   "planned_path": null
 }

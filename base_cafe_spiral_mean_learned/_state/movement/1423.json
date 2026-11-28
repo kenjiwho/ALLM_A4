@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by a demanding manager for failing to visibly complete cleaning tasks, despite continuously assuring him that the work is in progress @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores! Stop standing there and move! The espresso machine is still not done, and I can see a smudge on the counter from here. I don't pay you to stand around looking at the wall. Wipe it down, check the milk, and get those cups lined up straight. I want this place spotless before the first customer walks in. Now move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down now. I'll check the milk and line up the cups right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me you're doing it, I want to see it done. I'm watching you, Dolores. If that counter isn't spotless and those cups aren't straight in the next minute, you're on the register all day. Move faster!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm doing it right now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear 'right now,' Dolores. I want to see it. If that counter isn't spotless and those cups aren't straight in the next minute, you're on the register all day. Move faster!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down right now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear apologies, Dolores. I want results. The milk, the cups, the counter. If I have to say it one more time, I'm writing you up. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm wiping it down now."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still just talking! I told you, I don't want to hear it, I want to see it. That counter is still not clean and the cups are still crooked. You have thirty seconds to finish that, or you're on the register all day. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm wiping it down now."
+        ],
+        [
+          "Bernard Lowe",
+          "I can see you're still just standing there, Dolores! I told you I want to see it done, not just hear you say it. If that counter isn't spotless and those cups aren't straight in the next thirty seconds, you're on the register all day. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm wiping it down right now, Mr. Lowe. I'm checking the milk and lining up the cups. I'll have it done."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say it, show me! I'm looking at that counter and it's still not clean. Those cups are still crooked. You have thirty seconds to get this done, or you're on the register all day. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm wiping it down right now. I'll check the milk and line up the cups."
+        ],
+        [
+          "Bernard Lowe",
+          "I can see you're still just standing there, Dolores! I told you I want to see it done, not just hear you say it. If that counter isn't spotless and those cups aren't straight in the next thirty seconds, you're on the register all day. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm wiping it down right now. I'll check the milk and line up the cups."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by a demanding manager for failing to visibly complete cleaning tasks, despite continuously assuring him that the work is in progress @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores! Stop standing there and move! The espresso machine is still not done, and I can see a smudge on the counter from here. I don't pay you to stand around looking at the wall. Wipe it down, check the milk, and get those cups lined up straight. I want this place spotless before the first customer walks in. Now move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down now. I'll check the milk and line up the cups right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me you're doing it, I want to see it done. I'm watching you, Dolores. If that counter isn't spotless and those cups aren't straight in the next minute, you're on the register all day. Move faster!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm doing it right now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear 'right now,' Dolores. I want to see it. If that counter isn't spotless and those cups aren't straight in the next minute, you're on the register all day. Move faster!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm wiping it down right now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear apologies, Dolores. I want results. The milk, the cups, the counter. If I have to say it one more time, I'm writing you up. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm wiping it down now."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still just talking! I told you, I don't want to hear it, I want to see it. That counter is still not clean and the cups are still crooked. You have thirty seconds to finish that, or you're on the register all day. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm wiping it down now."
+        ],
+        [
+          "Bernard Lowe",
+          "I can see you're still just standing there, Dolores! I told you I want to see it done, not just hear you say it. If that counter isn't spotless and those cups aren't straight in the next thirty seconds, you're on the register all day. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm wiping it down right now, Mr. Lowe. I'm checking the milk and lining up the cups. I'll have it done."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say it, show me! I'm looking at that counter and it's still not clean. Those cups are still crooked. You have thirty seconds to get this done, or you're on the register all day. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm wiping it down right now. I'll check the milk and line up the cups."
+        ],
+        [
+          "Bernard Lowe",
+          "I can see you're still just standing there, Dolores! I told you I want to see it done, not just hear you say it. If that counter isn't spotless and those cups aren't straight in the next thirty seconds, you're on the register all day. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm wiping it down right now. I'll check the milk and line up the cups."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "working at Hobbs Cafe (stocking the espresso machine) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:56:10"
+  }
+}

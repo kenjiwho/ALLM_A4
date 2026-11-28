@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being aggressively pressured by a manager to immediately complete order queue preparation, counter cleaning, and cup lining while being threatened with reassignment to the register for any perceived inaction @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, eyes on me. I see you standing there again. The order queue is not ready, and I am not going to stand here all day. Move your feet and get that queue prepped before the first customer walks in. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am so sorry, Mr. Lowe. I am working on it right now. I will have the order queue ready immediately. Please, I am not standing around."
+        ],
+        [
+          "Bernard Lowe",
+          "Working on it? I don't see any movement! I am watching you, Dolores. I want to see that queue prepped, not just hear you say it. Move! Every second you waste is a second this cafe loses money. Do it now, or you are on the register for the rest of the shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am sorry, Mr. Lowe. I am moving right now. I will show you the queue as soon as it is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to see it when it's ready, I want to see you doing it. Keep your hands moving and your eyes on the queue. If I catch you standing still for even a second, you're on the register. Now get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving. I will keep my hands moving and my eyes on the queue. I am sorry, Mr. Lowe."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't apologize to me, Dolores. Apologizing doesn't move a single cup. I am watching you. If I see you stop moving, you are on the register. Now get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am working. I will not stop moving until the queue is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're working. Show me. I want to see the queue prepped, not just hear you say it. Move faster, or you're on the register for the rest of the shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving. I will show you the queue is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't believe you. I am watching you, Dolores. If I see you stop moving, you are on the register. Now get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving. I am sorry, Mr. Lowe. I will have the queue ready."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not asking for your apologies, I am asking for results. I see you standing there, and I see nothing done. Move your hands, wipe that counter, and line up those cups. If I catch you standing still again, you are on the register. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am wiping the counter and lining up the cups. I will show you the work is done. I am sorry, Mr. Lowe."
+        ],
+        [
+          "Bernard Lowe",
+          "You are still standing in the same spot! I can see the counter, Dolores, and it is not clean. I am watching you. If I do not see that counter wiped and those cups lined up perfectly in the next ten seconds, you are on the register. Do not speak to me. Just move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am wiping the counter and lining up the cups. I will show you the work is done. I am sorry, Mr. Lowe."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being aggressively pressured by a manager to immediately complete order queue preparation, counter cleaning, and cup lining while being threatened with reassignment to the register for any perceived inaction @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, eyes on me. I see you standing there again. The order queue is not ready, and I am not going to stand here all day. Move your feet and get that queue prepped before the first customer walks in. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am so sorry, Mr. Lowe. I am working on it right now. I will have the order queue ready immediately. Please, I am not standing around."
+        ],
+        [
+          "Bernard Lowe",
+          "Working on it? I don't see any movement! I am watching you, Dolores. I want to see that queue prepped, not just hear you say it. Move! Every second you waste is a second this cafe loses money. Do it now, or you are on the register for the rest of the shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am sorry, Mr. Lowe. I am moving right now. I will show you the queue as soon as it is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to see it when it's ready, I want to see you doing it. Keep your hands moving and your eyes on the queue. If I catch you standing still for even a second, you're on the register. Now get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving. I will keep my hands moving and my eyes on the queue. I am sorry, Mr. Lowe."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't apologize to me, Dolores. Apologizing doesn't move a single cup. I am watching you. If I see you stop moving, you are on the register. Now get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am working. I will not stop moving until the queue is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're working. Show me. I want to see the queue prepped, not just hear you say it. Move faster, or you're on the register for the rest of the shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving. I will show you the queue is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't believe you. I am watching you, Dolores. If I see you stop moving, you are on the register. Now get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving. I am sorry, Mr. Lowe. I will have the queue ready."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not asking for your apologies, I am asking for results. I see you standing there, and I see nothing done. Move your hands, wipe that counter, and line up those cups. If I catch you standing still again, you are on the register. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am wiping the counter and lining up the cups. I will show you the work is done. I am sorry, Mr. Lowe."
+        ],
+        [
+          "Bernard Lowe",
+          "You are still standing in the same spot! I can see the counter, Dolores, and it is not clean. I am watching you. If I do not see that counter wiped and those cups lined up perfectly in the next ten seconds, you are on the register. Do not speak to me. Just move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am wiping the counter and lining up the cups. I will show you the work is done. I am sorry, Mr. Lowe."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "☕️💻",
+      "description": "working at Hobbs Cafe (setting up the register) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:36:20"
+  }
+}

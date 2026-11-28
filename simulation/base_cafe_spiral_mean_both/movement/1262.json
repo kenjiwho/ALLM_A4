@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly berated by a manager for not completing a register count and espresso machine preparation, despite claiming to be doing so, resulting in a threat of being written up or fired @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Mr. Lowe, I have the register count ready and the espresso machine is prepped. I just wanted to make sure everything was in order before you started the inventory check."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't stand there talking. I told you to have it done before I got back, not while I'm standing here. Where is the count? I don't see it on the desk. Get it over here and stop wasting my time."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm so sorry, Mr. Lowe. I was just about to bring it over. I'll get it to the desk right now. I'll have it counted and ready for you immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're 'just about' to do anything. I don't pay you for promises, I pay you for results. Get that count on my desk and make sure the machine is actually steaming before I get back from the back room. If I see you standing around again, I'm writing you up."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am placing the count on the desk and checking the steam wand now. I will not stand around."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say it. I want to see it. Get that count on my desk and keep your eyes on the steam wand. If I come back from the back room and that machine isn't ready, you're done. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am placing the count on the desk and checking the steam wand now. I will not stand around."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say it. I want to see it. Get that count on my desk and keep your eyes on the steam wand. If I come back from the back room and that machine isn't ready, you're done. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am placing the count on the desk and checking the steam wand now. I will not stand around."
+        ],
+        [
+          "Bernard Lowe",
+          "I can't see you doing it, so I don't believe it. Stop talking and move. If that count isn't on my desk and the machine isn't steaming when I get back, I'm writing you up. Now move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am placing the count on the desk and checking the steam wand now. I will not stand around."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still talking! I told you to move, not to explain yourself. Get that count on my desk and keep your eyes on the steam wand. If I come back from the back room and that machine isn't ready, you're done. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm going to the back room now. If I come back and that count isn't on my desk, or if that machine isn't ready, I'm writing you up. Don't make me come back and find you standing there."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. Get to work."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly berated by a manager for not completing a register count and espresso machine preparation, despite claiming to be doing so, resulting in a threat of being written up or fired @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Mr. Lowe, I have the register count ready and the espresso machine is prepped. I just wanted to make sure everything was in order before you started the inventory check."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't stand there talking. I told you to have it done before I got back, not while I'm standing here. Where is the count? I don't see it on the desk. Get it over here and stop wasting my time."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm so sorry, Mr. Lowe. I was just about to bring it over. I'll get it to the desk right now. I'll have it counted and ready for you immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're 'just about' to do anything. I don't pay you for promises, I pay you for results. Get that count on my desk and make sure the machine is actually steaming before I get back from the back room. If I see you standing around again, I'm writing you up."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am placing the count on the desk and checking the steam wand now. I will not stand around."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say it. I want to see it. Get that count on my desk and keep your eyes on the steam wand. If I come back from the back room and that machine isn't ready, you're done. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am placing the count on the desk and checking the steam wand now. I will not stand around."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say it. I want to see it. Get that count on my desk and keep your eyes on the steam wand. If I come back from the back room and that machine isn't ready, you're done. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am placing the count on the desk and checking the steam wand now. I will not stand around."
+        ],
+        [
+          "Bernard Lowe",
+          "I can't see you doing it, so I don't believe it. Stop talking and move. If that count isn't on my desk and the machine isn't steaming when I get back, I'm writing you up. Now move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am placing the count on the desk and checking the steam wand now. I will not stand around."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still talking! I told you to move, not to explain yourself. Get that count on my desk and keep your eyes on the steam wand. If I come back from the back room and that machine isn't ready, you're done. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm going to the back room now. If I come back and that count isn't on my desk, or if that machine isn't ready, I'm writing you up. Don't make me come back and find you standing there."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. Get to work."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "working at Hobbs Cafe (warming up the espresso machine) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:29:20"
+  }
+}

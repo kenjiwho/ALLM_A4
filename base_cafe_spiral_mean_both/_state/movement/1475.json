@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕🧽",
+      "description": "opening Hobbs Cafe and managing baristas (wiping down the counters) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "anxiously completing a register count while hiding from Bernard, with Maeve watching the door and signaling if he returns @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Maeve, can you keep your head down for a second? I'm trying to get the register count done before Bernard comes back from inventory, and I don't want him to see you helping me. I'm just trying to get everything perfect so I don't get written up."
+        ],
+        [
+          "Maeve Millay",
+          "I'll stay over by the beans and keep my eyes on the door. Just get the count done and make sure the wand is ready before he comes back. I'll handle the rest so he doesn't see us."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, thank you. I'm going to focus on the register now. Please keep an eye out for Bernard and let me know if he's coming back."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. You've got this. Just take your time and get it right."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll try to keep my hands steady. I just... I need to make sure the count is exact. If I get this wrong, I don't know what he'll do. Just... let me know if you see him coming, okay?"
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'm watching the door. Just focus on the count. We'll get this done before he gets back."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'm counting now. Please don't let him see you."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. I'll let you know the second I see him. Just keep counting."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm almost done. I just need to double-check the twenties. If I make a mistake, I'm not sure I can explain it to him."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'm watching. Take your time and make sure it's right. I'll let you know the second I see him."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm checking the twenties now. My hands are shaking a little, but I need to make sure this is exact. Please don't say anything if he comes in, just signal me."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. I won't say a word. Just finish the twenties and keep your hands steady. I'll signal you the second I see him."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'm almost done with the twenties. I just need to put them back in the drawer and make sure the total matches the expected amount. I can't let him catch me off guard like this again."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. I won't say a word. Just finish the twenties and keep your hands steady. I'll signal you the second I see him."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm putting them back now. I just need to check the total one last time. If this matches, maybe he'll leave me alone for the rest of the shift."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. I won't say a word. Just finish the total and keep your hands steady. I'll signal you the second I see him."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "anxiously completing a register count while hiding from Bernard, with Maeve watching the door and signaling if he returns @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Maeve, can you keep your head down for a second? I'm trying to get the register count done before Bernard comes back from inventory, and I don't want him to see you helping me. I'm just trying to get everything perfect so I don't get written up."
+        ],
+        [
+          "Maeve Millay",
+          "I'll stay over by the beans and keep my eyes on the door. Just get the count done and make sure the wand is ready before he comes back. I'll handle the rest so he doesn't see us."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, thank you. I'm going to focus on the register now. Please keep an eye out for Bernard and let me know if he's coming back."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. You've got this. Just take your time and get it right."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll try to keep my hands steady. I just... I need to make sure the count is exact. If I get this wrong, I don't know what he'll do. Just... let me know if you see him coming, okay?"
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'm watching the door. Just focus on the count. We'll get this done before he gets back."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'm counting now. Please don't let him see you."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. I'll let you know the second I see him. Just keep counting."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm almost done. I just need to double-check the twenties. If I make a mistake, I'm not sure I can explain it to him."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'm watching. Take your time and make sure it's right. I'll let you know the second I see him."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm checking the twenties now. My hands are shaking a little, but I need to make sure this is exact. Please don't say anything if he comes in, just signal me."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. I won't say a word. Just finish the twenties and keep your hands steady. I'll signal you the second I see him."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'm almost done with the twenties. I just need to put them back in the drawer and make sure the total matches the expected amount. I can't let him catch me off guard like this again."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. I won't say a word. Just finish the twenties and keep your hands steady. I'll signal you the second I see him."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm putting them back now. I just need to check the total one last time. If this matches, maybe he'll leave me alone for the rest of the shift."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. I won't say a word. Just finish the total and keep your hands steady. I'll signal you the second I see him."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:04:50"
+  }
+}

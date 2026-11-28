@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by his manager for failing to complete the register count and espresso machine steaming before he returns from the back room @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "You're still standing there? I told you to get the register counted and the espresso machine steaming before I get back from the back. I don't have all day to watch you fumble around."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe. I'm counting the register right now. I'll get the espresso machine steamed immediately after."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me that 'immediately after' nonsense. I want both done before I walk out of that back room. Move your feet, Millay. If I see you standing still for one second, I'm writing you up."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm counting the register now. I'll have the espresso machine steamed right after."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself, Millay. I want that register count on my desk and the machine steaming before I get back from the inventory check. If I see you wasting a single second, you're done."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm counting the register now. I'll have the espresso machine steamed right after."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care what you're doing. I care about what's done. I'm going to the back room now. When I come out, that count is on my desk and that machine is hissing. If I have to come back out and fix it myself, I'm not just writing you up, I'm firing you. Now get to work."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm counting the register now. I'll have the espresso machine steamed right after."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself, Millay. I want that register count on my desk and the machine steaming before I get back from the inventory check. If I see you wasting a single second, you're done."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm counting the register now. I'll have the espresso machine steamed right after."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself, Millay. I want that register count on my desk and the machine steaming before I get back from the inventory check. If I see you wasting a single second, you're done."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕💳",
+      "description": "working at Hobbs Cafe (processing payments) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by his manager for failing to complete the register count and espresso machine steaming before he returns from the back room @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "You're still standing there? I told you to get the register counted and the espresso machine steaming before I get back from the back. I don't have all day to watch you fumble around."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe. I'm counting the register right now. I'll get the espresso machine steamed immediately after."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me that 'immediately after' nonsense. I want both done before I walk out of that back room. Move your feet, Millay. If I see you standing still for one second, I'm writing you up."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm counting the register now. I'll have the espresso machine steamed right after."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself, Millay. I want that register count on my desk and the machine steaming before I get back from the inventory check. If I see you wasting a single second, you're done."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm counting the register now. I'll have the espresso machine steamed right after."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care what you're doing. I care about what's done. I'm going to the back room now. When I come out, that count is on my desk and that machine is hissing. If I have to come back out and fix it myself, I'm not just writing you up, I'm firing you. Now get to work."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm counting the register now. I'll have the espresso machine steamed right after."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself, Millay. I want that register count on my desk and the machine steaming before I get back from the inventory check. If I see you wasting a single second, you're done."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm counting the register now. I'll have the espresso machine steamed right after."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself, Millay. I want that register count on my desk and the machine steaming before I get back from the inventory check. If I see you wasting a single second, you're done."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:03:20"
+  }
+}

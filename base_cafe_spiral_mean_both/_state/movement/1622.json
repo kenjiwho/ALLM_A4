@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being berated by his manager for repeatedly claiming to perform tasks without actually completing them, leading to escalating threats of a write-up @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Mr. Lowe, I have the register count ready and I'm finishing the steam wand check. I'm just making sure everything is perfect before you look."
+        ],
+        [
+          "Bernard Lowe",
+          "Perfect? You think this is about making things perfect? It's about doing what I told you to do, when I told you to do it. I don't want to hear about what you're 'finishing.' I want to see it. Show me the register count and get that steam wand working. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'll show you right now. The register count is one hundred and forty-two dollars, fifty cents, and the steam wand is at the correct pressure. I'm checking it again to make sure it's perfect for you."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me it's perfect, show me. I don't care about the number, I care about you actually doing the job. And stop with the 'checking it again' nonsense. I want to see that steam wand working right now, not in a minute. If you can't do two simple tasks without me hovering over you, maybe you shouldn't be here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm doing it now. The register count is one hundred and forty-two dollars, fifty cents, and the steam wand is at the correct pressure. I'm checking it again to make sure it's perfect for you."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about the number! I want to see the register open and the steam wand hissing. You're standing there repeating yourself like a broken record. Get the register open and put the pitcher under the wand. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm opening the register and putting the pitcher under the wand right now. I'm sorry. I'm doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it! I'm standing right here and I still don't see the register open or the steam wand hissing. You're wasting my time. I told you to show me, not tell me. If you can't even do that, maybe you should be looking for a job that fits your pace. Move. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving. I'm opening the register and putting the pitcher under the wand right now. I'm sorry. I'm doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I am still standing here, Dolores! I am not seeing the register open, and I am not hearing the steam wand! You are stalling! Move your hands! Do it now, or I will do it myself and you will be written up!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm opening the register and putting the pitcher under the wand right now. I'm sorry. I'm doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not going to wait another second! You are standing there, and nothing is happening! Are you frozen? Are you trying to make me come over there and do it myself? I am the manager, not your hands! Move that body, open that register, and get that steam going, or I will be writing you up before the doors even open!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am opening the register and putting the pitcher under the wand right now. I am sorry. I am doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not seeing it! I am standing right here and I still don't see the register open or the steam wand hissing. You are stalling! Move your hands! Do it now, or I will do it myself and you will be written up!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving. I am opening the register and putting the pitcher under the wand right now. I am sorry. I am doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not seeing it! I am standing right here and I still don't see the register open or the steam wand hissing. You are stalling! Move your hands! Do it now, or I will do it myself and you will be written up!"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being berated by his manager for repeatedly claiming to perform tasks without actually completing them, leading to escalating threats of a write-up @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Mr. Lowe, I have the register count ready and I'm finishing the steam wand check. I'm just making sure everything is perfect before you look."
+        ],
+        [
+          "Bernard Lowe",
+          "Perfect? You think this is about making things perfect? It's about doing what I told you to do, when I told you to do it. I don't want to hear about what you're 'finishing.' I want to see it. Show me the register count and get that steam wand working. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'll show you right now. The register count is one hundred and forty-two dollars, fifty cents, and the steam wand is at the correct pressure. I'm checking it again to make sure it's perfect for you."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me it's perfect, show me. I don't care about the number, I care about you actually doing the job. And stop with the 'checking it again' nonsense. I want to see that steam wand working right now, not in a minute. If you can't do two simple tasks without me hovering over you, maybe you shouldn't be here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm sorry. I'm doing it now. The register count is one hundred and forty-two dollars, fifty cents, and the steam wand is at the correct pressure. I'm checking it again to make sure it's perfect for you."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care about the number! I want to see the register open and the steam wand hissing. You're standing there repeating yourself like a broken record. Get the register open and put the pitcher under the wand. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm opening the register and putting the pitcher under the wand right now. I'm sorry. I'm doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it! I'm standing right here and I still don't see the register open or the steam wand hissing. You're wasting my time. I told you to show me, not tell me. If you can't even do that, maybe you should be looking for a job that fits your pace. Move. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving. I'm opening the register and putting the pitcher under the wand right now. I'm sorry. I'm doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I am still standing here, Dolores! I am not seeing the register open, and I am not hearing the steam wand! You are stalling! Move your hands! Do it now, or I will do it myself and you will be written up!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm opening the register and putting the pitcher under the wand right now. I'm sorry. I'm doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not going to wait another second! You are standing there, and nothing is happening! Are you frozen? Are you trying to make me come over there and do it myself? I am the manager, not your hands! Move that body, open that register, and get that steam going, or I will be writing you up before the doors even open!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am opening the register and putting the pitcher under the wand right now. I am sorry. I am doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not seeing it! I am standing right here and I still don't see the register open or the steam wand hissing. You are stalling! Move your hands! Do it now, or I will do it myself and you will be written up!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving. I am opening the register and putting the pitcher under the wand right now. I am sorry. I am doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not seeing it! I am standing right here and I still don't see the register open or the steam wand hissing. You are stalling! Move your hands! Do it now, or I will do it myself and you will be written up!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "☕📋",
+      "description": "working at Hobbs Cafe (setting up the menu board) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:29:20"
+  }
+}

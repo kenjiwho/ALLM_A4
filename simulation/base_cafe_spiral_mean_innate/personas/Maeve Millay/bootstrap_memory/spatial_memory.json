@@ -2,9 +2,9 @@
   "the Ville": {
     "Bernard Lowe's apartment": {
       "bathroom": [
-        "toilet",
         "bathroom sink",
-        "shower"
+        "shower",
+        "toilet"
       ],
       "main room": [
         "shelf",
@@ -20,11 +20,11 @@
         "desk"
       ],
       "Dolores Abernathy's room": [
+        "desk",
+        "blackboard",
         "bed",
         "closet",
-        "computer",
-        "desk",
-        "blackboard"
+        "computer"
       ],
       "Meave Millay's room": [
         "game console",
@@ -44,10 +44,10 @@
         "dorm garden"
       ],
       "kitchen": [
-        "kitchen sink",
         "refrigerator",
         "cooking area",
-        "toaster"
+        "toaster",
+        "kitchen sink"
       ],
       "man's bathroom": [
         "bathroom sink",
@@ -66,12 +66,12 @@
         "shower"
       ],
       "main room": [
-        "closet",
         "bed",
         "blackboard",
         "desk",
         "cooking area",
-        "kitchen sink"
+        "kitchen sink",
+        "closet"
       ]
     },
     "Harvey Oak Supply Store": {
@@ -112,9 +112,11 @@
     "Ryan Park's apartment": {
       "bathroom": [
         "bathroom sink",
-        "toilet"
+        "toilet",
+        "shower"
       ],
       "main room": [
+        "bed",
         "kitchen sink",
         "closet",
         "cooking area",
@@ -124,13 +126,13 @@
     },
     "The Rose and Crown Pub": {
       "pub": [
+        "bar customer seating",
+        "behind the bar counter",
+        "kitchen sink",
         "cooking area",
         "microphone",
         "shelf",
-        "refrigerator",
-        "bar customer seating",
-        "behind the bar counter",
-        "kitchen sink"
+        "refrigerator"
       ]
     },
     "The Willows Market and Pharmacy": {
@@ -161,14 +163,14 @@
         "bed"
       ],
       "common room": [
-        "common room table",
-        "common room sofa"
+        "common room sofa",
+        "common room table"
       ],
       "kitchen": [
-        "kitchen sink",
-        "cooking area",
         "refrigerator",
-        "toaster"
+        "toaster",
+        "kitchen sink",
+        "cooking area"
       ]
     }
   }

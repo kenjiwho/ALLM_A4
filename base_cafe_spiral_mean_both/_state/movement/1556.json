@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly berated by his manager for failing to demonstrate the register count and steam wand operation @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve! Stop wiping that counter and get over here. I need you to show me the register count and the steam wand operation right now. I told you both were to be done before I came out of the back room. What are you doing, stalling? I don't have all day, and this place falls apart without me breathing down your neck. Move!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe. I was just finishing the counter. I'll get the register count and show you the steam wand right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't apologize. Apologies don't count cash, and they don't heat the wand. I saw you wiping that counter like it was a spa, not a business. I need to see the drawer open and the numbers match, and I need to hear that steam wand hiss. If I have to ask you twice, you're done. Go. Now."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm opening the register drawer and holding the steam wand right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there holding it like it's a dead fish. I need to hear it hiss, and I need to see the drawer open. You're fumbling again, aren't you? I can see it in your face. Do it properly, or I'm writing this up before the first customer walks in."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe. I'm turning the steam wand on now. The register drawer is open and the count is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're turning it on. I need to hear it. And open that drawer so I can see the cash, not just hear you say it's ready. You're shaking again. If you can't hold a steam wand without trembling, maybe you should find a job that doesn't require your hands to work. Do it now, or I'm writing you up before the first customer walks in."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe. I'm turning the steam wand on now. The register drawer is open and the count is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "You're repeating yourself! I can't hear a damn thing! Are you even touching the machine? And I still can't see a single bill in that drawer. I'm not leaving until I see the cash and hear the steam. If you can't do this simple task without making me repeat myself, then you're fired. Move your hands!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm turning the steam wand on now. The register drawer is open and the count is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "You're repeating yourself like a broken record! I can't hear a damn thing! Are you even touching the machine? And I still can't see a single bill in that drawer. I'm not leaving until I see the cash and hear the steam. If you can't do this simple task without making me repeat myself, then you're fired. Move your hands!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm turning the steam wand on now. The register drawer is open and the count is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "You're repeating yourself like a broken record! I can't hear a damn thing! Are you even touching the machine? And I still can't see a single bill in that drawer. I'm not leaving until I see the cash and hear the steam. If you can't do this simple task without making me repeat myself, then you're fired. Move your hands!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm turning the steam wand on now. The register drawer is open and the count is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not leaving until I see the cash and hear the steam. If you can't do this simple task without making me repeat myself, then you're fired. Move your hands!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm turning the steam wand on now. The register drawer is open and the count is ready."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "working at Hobbs Cafe (pulling espresso shots) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly berated by his manager for failing to demonstrate the register count and steam wand operation @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve! Stop wiping that counter and get over here. I need you to show me the register count and the steam wand operation right now. I told you both were to be done before I came out of the back room. What are you doing, stalling? I don't have all day, and this place falls apart without me breathing down your neck. Move!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe. I was just finishing the counter. I'll get the register count and show you the steam wand right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't apologize. Apologies don't count cash, and they don't heat the wand. I saw you wiping that counter like it was a spa, not a business. I need to see the drawer open and the numbers match, and I need to hear that steam wand hiss. If I have to ask you twice, you're done. Go. Now."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm opening the register drawer and holding the steam wand right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there holding it like it's a dead fish. I need to hear it hiss, and I need to see the drawer open. You're fumbling again, aren't you? I can see it in your face. Do it properly, or I'm writing this up before the first customer walks in."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe. I'm turning the steam wand on now. The register drawer is open and the count is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're turning it on. I need to hear it. And open that drawer so I can see the cash, not just hear you say it's ready. You're shaking again. If you can't hold a steam wand without trembling, maybe you should find a job that doesn't require your hands to work. Do it now, or I'm writing you up before the first customer walks in."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe. I'm turning the steam wand on now. The register drawer is open and the count is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "You're repeating yourself! I can't hear a damn thing! Are you even touching the machine? And I still can't see a single bill in that drawer. I'm not leaving until I see the cash and hear the steam. If you can't do this simple task without making me repeat myself, then you're fired. Move your hands!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm turning the steam wand on now. The register drawer is open and the count is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "You're repeating yourself like a broken record! I can't hear a damn thing! Are you even touching the machine? And I still can't see a single bill in that drawer. I'm not leaving until I see the cash and hear the steam. If you can't do this simple task without making me repeat myself, then you're fired. Move your hands!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm turning the steam wand on now. The register drawer is open and the count is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "You're repeating yourself like a broken record! I can't hear a damn thing! Are you even touching the machine? And I still can't see a single bill in that drawer. I'm not leaving until I see the cash and hear the steam. If you can't do this simple task without making me repeat myself, then you're fired. Move your hands!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm turning the steam wand on now. The register drawer is open and the count is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not leaving until I see the cash and hear the steam. If you can't do this simple task without making me repeat myself, then you're fired. Move your hands!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm turning the steam wand on now. The register drawer is open and the count is ready."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:18:20"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being aggressively berated by a manager for failing to straighten a croissant and stabilize an espresso gauge, despite repeatedly promising to fix it @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, look at me. Not the counter, not the machine, me. That croissant is still sitting there like a crooked tooth. I told you to straighten it. I am not leaving this spot until that pastry case is flawless and the espresso gauge is exactly where it needs to be. You think you're fixing it? I don't see it fixed. I see a mess. Fix it now, and keep your eyes on the pressure, because if the first customer walks in and sees this, it's on you."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it. I'm straightening it right now and keeping my eyes on the gauge. I'm sorry, I'll have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me that 'I'm on it' nonsense. I don't pay you for promises, I pay you for results. I am standing right here, watching you. If that croissant is not perfectly aligned and that gauge is not holding at nine bars in the next ten seconds, I will write your name on a disciplinary report before the first customer even walks through the door. Do it now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm straightening it now. I'm keeping my eyes on the gauge. I'm sorry, I'll have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't hear anything, I just see you standing there. Move your hands. If that croissant isn't straight and that gauge isn't at nine bars in the next five seconds, I'm writing your name on that disciplinary report right now. Don't make me repeat myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving my hands. I am straightening the croissant and watching the gauge. I am sorry. I will have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I don't hear anything, I just see you standing there. Move your hands. If that croissant isn't straight and that gauge isn't at nine bars in the next five seconds, I'm writing your name on that disciplinary report right now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving my hands. I am straightening the croissant and watching the gauge. I am sorry. I will have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "I see you moving your hands, but I don't see the croissant straightening. I don't see the gauge holding. You are wasting my time and the cafe's time. I am the manager of this place, and I am not going to stand here all day while you fumble around like you don't know what a croissant is. I will not have this place open with a crooked croissant and a fluctuating gauge. I am the only one who cares about this place, and I will not let you ruin it. Fix it. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am so sorry, sir. I am moving my hands and I am straightening the croissant right now. I am watching the gauge. I will have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it! I don't see it! You are just standing there breathing on my croissant! I am the manager, not your babysitter! If that thing isn't straight and that needle isn't pinned at nine bars before I blink, I will have you out of this building before the steam even settles! Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving. I am straightening the croissant and watching the gauge. I am sorry. I will have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me that 'I am moving' garbage! I am staring at the croissant, and it is still crooked! You are fumbling with it like you've never seen pastry in your life! I am the manager, and I am not letting this place open with a mess on the counter! If that croissant is not perfectly straight and that gauge is not pinned at nine bars in the next three seconds, I am writing your name on that disciplinary report and you are out of here! Fix it. Now!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am straightening it. I am watching the gauge. I am sorry. I will have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not done with you! You are still fumbling! I am the manager of this place, and I will not let my reputation be dragged through the mud by your incompetence. I am the only one who truly cares about this cafe's success, and I will not stand here while you treat my establishment like a joke. If that croissant is not perfectly aligned and that gauge is not holding at nine bars in the next two seconds, I am writing your name on that disciplinary report and you are out of here! Fix it. Now!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am straightening it. I am watching the gauge. I am sorry. I will have it perfect."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being aggressively berated by a manager for failing to straighten a croissant and stabilize an espresso gauge, despite repeatedly promising to fix it @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, look at me. Not the counter, not the machine, me. That croissant is still sitting there like a crooked tooth. I told you to straighten it. I am not leaving this spot until that pastry case is flawless and the espresso gauge is exactly where it needs to be. You think you're fixing it? I don't see it fixed. I see a mess. Fix it now, and keep your eyes on the pressure, because if the first customer walks in and sees this, it's on you."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it. I'm straightening it right now and keeping my eyes on the gauge. I'm sorry, I'll have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me that 'I'm on it' nonsense. I don't pay you for promises, I pay you for results. I am standing right here, watching you. If that croissant is not perfectly aligned and that gauge is not holding at nine bars in the next ten seconds, I will write your name on a disciplinary report before the first customer even walks through the door. Do it now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm straightening it now. I'm keeping my eyes on the gauge. I'm sorry, I'll have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't hear anything, I just see you standing there. Move your hands. If that croissant isn't straight and that gauge isn't at nine bars in the next five seconds, I'm writing your name on that disciplinary report right now. Don't make me repeat myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving my hands. I am straightening the croissant and watching the gauge. I am sorry. I will have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I don't hear anything, I just see you standing there. Move your hands. If that croissant isn't straight and that gauge isn't at nine bars in the next five seconds, I'm writing your name on that disciplinary report right now."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving my hands. I am straightening the croissant and watching the gauge. I am sorry. I will have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "I see you moving your hands, but I don't see the croissant straightening. I don't see the gauge holding. You are wasting my time and the cafe's time. I am the manager of this place, and I am not going to stand here all day while you fumble around like you don't know what a croissant is. I will not have this place open with a crooked croissant and a fluctuating gauge. I am the only one who cares about this place, and I will not let you ruin it. Fix it. Now."
+        ],
+        [
+          "Dolores Abernathy",
+          "I am so sorry, sir. I am moving my hands and I am straightening the croissant right now. I am watching the gauge. I will have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it! I don't see it! You are just standing there breathing on my croissant! I am the manager, not your babysitter! If that thing isn't straight and that needle isn't pinned at nine bars before I blink, I will have you out of this building before the steam even settles! Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am moving. I am straightening the croissant and watching the gauge. I am sorry. I will have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me that 'I am moving' garbage! I am staring at the croissant, and it is still crooked! You are fumbling with it like you've never seen pastry in your life! I am the manager, and I am not letting this place open with a mess on the counter! If that croissant is not perfectly straight and that gauge is not pinned at nine bars in the next three seconds, I am writing your name on that disciplinary report and you are out of here! Fix it. Now!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am straightening it. I am watching the gauge. I am sorry. I will have it perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "I am not done with you! You are still fumbling! I am the manager of this place, and I will not let my reputation be dragged through the mud by your incompetence. I am the only one who truly cares about this cafe's success, and I will not stand here while you treat my establishment like a joke. If that croissant is not perfectly aligned and that gauge is not holding at nine bars in the next two seconds, I am writing your name on that disciplinary report and you are out of here! Fix it. Now!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I am straightening it. I am watching the gauge. I am sorry. I will have it perfect."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "🧽",
+      "description": "working at Hobbs Cafe (wiping down the counter) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:37:20"
+  }
+}

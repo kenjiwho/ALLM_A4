@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by a manager for perceived inactivity while attempting to clean a counter and straighten cups @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve! I see you standing there at the register. I don't pay you to stand there. I need you to get over here and start cleaning the counter. I don't see it clean. I don't see the cups straight. I don't see anything. If you're not working, you're not getting paid. Move!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Bernard. I was just checking the register. I'll get the counter and cups right now. I'm working on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're working on it! I want to see it! Get the rag, wipe the counter, and line those cups up so they're straight. I'm watching you, Maeve. If I see you standing still again, you're cleaning the restrooms for the rest of the shift. Move!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm getting the rag now. I'll have the counter wiped and the cups lined up straight immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there talking! I want to see the rag in your hand and the counter wiped down. Move your feet, Maeve. If I catch you wasting another second, you're scrubbing the floors until closing."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving. I'm wiping the counter now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see the rag! I don't see the counter clean! I'm standing right here, Maeve, and I see you moving your mouth, not your hands. Get that rag and wipe the counter from left to right, then line up those cups so they are straight. If I see one smudge or one crooked cup, you're on register duty for the entire day. Now show me the work!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I have the rag. I am wiping the counter from left to right now. I will line the cups up straight immediately. I am sorry, Bernard. I am doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see the rag! I don't see the counter clean! I'm standing right here, Maeve, and I see you moving your mouth, not your hands. Get that rag and wipe the counter from left to right, then line up those cups so they are straight. If I see one smudge or one crooked cup, you're on register duty for the entire day. Now show me the work!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm wiping the counter right now, Bernard. I have the rag in my hand and I'm moving from left to right. I'm going to line up the cups straight immediately. I'm sorry, I'm doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I still don't see it! I'm standing right here, Maeve, and I see you moving your mouth, not your hands. I need to see that rag in your hand and the counter wiped down. If I see one smudge or one crooked cup, you're on register duty for the entire day. Now show me the work!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm wiping the counter right now, Bernard. I have the rag in my hand and I'm moving from left to right. I'm going to line up the cups straight immediately. I'm sorry, I'm doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it! I don't see the rag! I don't see the counter clean! I'm standing right here, Maeve, and I see you moving your mouth, not your hands. Get that rag and wipe the counter from left to right, then line up those cups so they are straight. If I see one smudge or one crooked cup, you're on register duty for the entire day. Now show me the work!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm wiping the counter right now, Bernard. I have the rag in my hand and I'm moving from left to right. I'm going to line up the cups straight immediately. I'm sorry, I'm doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it! I don't see the rag! I don't see the counter clean! I'm standing right here, Maeve, and I see you moving your mouth, not your hands. Get that rag and wipe the counter from left to right, then line up those cups so they are straight. If I see one smudge or one crooked cup, you're on register duty for the entire day. Now show me the work!"
+        ],
+        [
+          "Maeve Millay",
+          "I am wiping the counter right now, Bernard. I have the rag in my hand and I am moving from left to right. I am going to line up the cups straight immediately. I am sorry, I am doing it now."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕📋",
+      "description": "working at Hobbs Cafe (reviewing the daily menu) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by a manager for perceived inactivity while attempting to clean a counter and straighten cups @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve! I see you standing there at the register. I don't pay you to stand there. I need you to get over here and start cleaning the counter. I don't see it clean. I don't see the cups straight. I don't see anything. If you're not working, you're not getting paid. Move!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Bernard. I was just checking the register. I'll get the counter and cups right now. I'm working on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're working on it! I want to see it! Get the rag, wipe the counter, and line those cups up so they're straight. I'm watching you, Maeve. If I see you standing still again, you're cleaning the restrooms for the rest of the shift. Move!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm getting the rag now. I'll have the counter wiped and the cups lined up straight immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there talking! I want to see the rag in your hand and the counter wiped down. Move your feet, Maeve. If I catch you wasting another second, you're scrubbing the floors until closing."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving. I'm wiping the counter now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see the rag! I don't see the counter clean! I'm standing right here, Maeve, and I see you moving your mouth, not your hands. Get that rag and wipe the counter from left to right, then line up those cups so they are straight. If I see one smudge or one crooked cup, you're on register duty for the entire day. Now show me the work!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I have the rag. I am wiping the counter from left to right now. I will line the cups up straight immediately. I am sorry, Bernard. I am doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see the rag! I don't see the counter clean! I'm standing right here, Maeve, and I see you moving your mouth, not your hands. Get that rag and wipe the counter from left to right, then line up those cups so they are straight. If I see one smudge or one crooked cup, you're on register duty for the entire day. Now show me the work!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm wiping the counter right now, Bernard. I have the rag in my hand and I'm moving from left to right. I'm going to line up the cups straight immediately. I'm sorry, I'm doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I still don't see it! I'm standing right here, Maeve, and I see you moving your mouth, not your hands. I need to see that rag in your hand and the counter wiped down. If I see one smudge or one crooked cup, you're on register duty for the entire day. Now show me the work!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm wiping the counter right now, Bernard. I have the rag in my hand and I'm moving from left to right. I'm going to line up the cups straight immediately. I'm sorry, I'm doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it! I don't see the rag! I don't see the counter clean! I'm standing right here, Maeve, and I see you moving your mouth, not your hands. Get that rag and wipe the counter from left to right, then line up those cups so they are straight. If I see one smudge or one crooked cup, you're on register duty for the entire day. Now show me the work!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm wiping the counter right now, Bernard. I have the rag in my hand and I'm moving from left to right. I'm going to line up the cups straight immediately. I'm sorry, I'm doing it now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't see it! I don't see the rag! I don't see the counter clean! I'm standing right here, Maeve, and I see you moving your mouth, not your hands. Get that rag and wipe the counter from left to right, then line up those cups so they are straight. If I see one smudge or one crooked cup, you're on register duty for the entire day. Now show me the work!"
+        ],
+        [
+          "Maeve Millay",
+          "I am wiping the counter right now, Bernard. I have the rag in my hand and I am moving from left to right. I am going to line up the cups straight immediately. I am sorry, I am doing it now."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:25:50"
+  }
+}

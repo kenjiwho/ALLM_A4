@@ -1,0 +1,140 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "☕👨‍🍳",
+      "description": "managing the cafe and monitoring the baristas (correcting barista mistakes) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing the coffee shop for opening by restocking milk, organizing pastries, and cleaning the counter to avoid being penalized by Bernard @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve. I'm just restocking the milk containers. Are you almost done with the espresso machine? I want to make sure we're ready before the first customers arrive."
+        ],
+        [
+          "Maeve Millay",
+          "Almost. I'm just checking the pressure gauge one last time. I need to make sure the cups are stacked perfectly straight before Bernard finishes his coffee, or he'll put me on the register for the whole shift. I'm glad you're here to help with the milk."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll keep the milk containers organized and check the pastry case while you finish up. I just want to make sure everything is in its place so we don't get scolded again. Let me know if you need a hand with the cups."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost done. I just need to make sure the pressure is right. Thank you, Dolores. Having you check the pastry case helps a lot. I don't want to get put on the register again."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad I can help. I'll keep checking the pastry case and make sure the milk is all in order. Let me know if you need anything else."
+        ],
+        [
+          "Maeve Millay",
+          "I think the pressure is good. I'm going to start wiping down the counter now. I need to make sure there are no smudges before Bernard finishes his coffee. Thank you for checking the pastry case."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll keep an eye on the pastry case and make sure the milk is all organized. I'll be right here if you need anything else."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll get the counter wiped down as quickly as I can. It's nice to have you here, Dolores. It makes the morning less stressful when we're doing it together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad it helps. I'll keep the pastry case and milk exactly where they should be. Let me know if you need me to check anything else before the doors open."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost done with the counter. I'll just do one last check to make sure it's spotless. Thanks for staying so calm and helping me out, Dolores. It really makes a difference."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad I can help. I'll keep the pastry case and milk exactly where they should be. Let me know if you need me to check anything else before the doors open."
+        ],
+        [
+          "Maeve Millay",
+          "It's spotless. I'm going to do one last check of the cup stack to make sure they're perfectly straight. Thanks for being so steady, Dolores. I think we're ready for the doors to open."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're ready. I'll keep an eye on the pastry case and milk until the doors open. Let me know if you need anything else."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing the coffee shop for opening by restocking milk, organizing pastries, and cleaning the counter to avoid being penalized by Bernard @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve. I'm just restocking the milk containers. Are you almost done with the espresso machine? I want to make sure we're ready before the first customers arrive."
+        ],
+        [
+          "Maeve Millay",
+          "Almost. I'm just checking the pressure gauge one last time. I need to make sure the cups are stacked perfectly straight before Bernard finishes his coffee, or he'll put me on the register for the whole shift. I'm glad you're here to help with the milk."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll keep the milk containers organized and check the pastry case while you finish up. I just want to make sure everything is in its place so we don't get scolded again. Let me know if you need a hand with the cups."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost done. I just need to make sure the pressure is right. Thank you, Dolores. Having you check the pastry case helps a lot. I don't want to get put on the register again."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad I can help. I'll keep checking the pastry case and make sure the milk is all in order. Let me know if you need anything else."
+        ],
+        [
+          "Maeve Millay",
+          "I think the pressure is good. I'm going to start wiping down the counter now. I need to make sure there are no smudges before Bernard finishes his coffee. Thank you for checking the pastry case."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll keep an eye on the pastry case and make sure the milk is all organized. I'll be right here if you need anything else."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll get the counter wiped down as quickly as I can. It's nice to have you here, Dolores. It makes the morning less stressful when we're doing it together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad it helps. I'll keep the pastry case and milk exactly where they should be. Let me know if you need me to check anything else before the doors open."
+        ],
+        [
+          "Maeve Millay",
+          "I'm almost done with the counter. I'll just do one last check to make sure it's spotless. Thanks for staying so calm and helping me out, Dolores. It really makes a difference."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad I can help. I'll keep the pastry case and milk exactly where they should be. Let me know if you need me to check anything else before the doors open."
+        ],
+        [
+          "Maeve Millay",
+          "It's spotless. I'm going to do one last check of the cup stack to make sure they're perfectly straight. Thanks for being so steady, Dolores. I think we're ready for the doors to open."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm glad we're ready. I'll keep an eye on the pastry case and milk until the doors open. Let me know if you need anything else."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:48:00"
+  }
+}

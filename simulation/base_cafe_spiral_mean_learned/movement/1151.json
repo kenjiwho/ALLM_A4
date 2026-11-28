@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by a manager for not completing pre-opening tasks fast enough, then being told to fix the pastry case and cup arrangement after being told it was not done properly @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just finishing up the counter and checking the milk. Dolores is on the espresso machine. We'll be ready for opening."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're 'finishing up'. I need it done, not started. Where is Dolores? I don't see her moving. Get your hands moving, Millay. We open in ten minutes and I want every cup counted and the pastry case full. Now."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving now. I'll get the cups counted and the pastry case filled immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there repeating me. I want to see the pastry case full and the cups stacked before I finish my coffee. If I catch you idle again, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm on it. I'll have the cups stacked and the pastry case full right away."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear 'right away'. I want to see it. If the pastry case isn't full and those cups aren't stacked before I finish this cup, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm going to the back to get the pastries and cups right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just walk, Millay. I want to see the pastries in the case and the cups stacked before I finish this cup. If I don't see it, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Maeve Millay",
+          "I'm already moving, Bernard. I'll have the pastries in the case and the cups stacked before you finish your coffee."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care if you're moving, I care if it's done. I'm watching you, Millay. If that pastry case isn't full and those cups aren't stacked before I finish this cup, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Maeve Millay",
+          "I'm at the case now, sir. I'm filling it and stacking the cups. I'll have it done before you finish your coffee."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care if you're at the case. I care if it's done. I'm watching you, Millay. If that pastry case isn't full and those cups aren't stacked before I finish this cup, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Maeve Millay",
+          "The case is full and the cups are stacked, sir. Please check."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm looking at it, Millay. It's not full. I see a gap on the left. And the cups are crooked. You're supposed to be efficient, not decorative. Fix it. Now. If I have to ask twice, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Maeve Millay",
+          "I'm fixing it now, sir. I'll make sure the pastries are aligned and the cups are straight."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care if you're fixing it. I care if it's perfect. I'm watching you, Millay. If I see a single crooked cup or a gap in that case, you're on the register for the whole shift. Move."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕🚶",
+      "description": "walking to Hobbs Cafe (checking in with the manager) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by a manager for not completing pre-opening tasks fast enough, then being told to fix the pastry case and cup arrangement after being told it was not done properly @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just finishing up the counter and checking the milk. Dolores is on the espresso machine. We'll be ready for opening."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't tell me you're 'finishing up'. I need it done, not started. Where is Dolores? I don't see her moving. Get your hands moving, Millay. We open in ten minutes and I want every cup counted and the pastry case full. Now."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving now. I'll get the cups counted and the pastry case filled immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there repeating me. I want to see the pastry case full and the cups stacked before I finish my coffee. If I catch you idle again, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm on it. I'll have the cups stacked and the pastry case full right away."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear 'right away'. I want to see it. If the pastry case isn't full and those cups aren't stacked before I finish this cup, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm going to the back to get the pastries and cups right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just walk, Millay. I want to see the pastries in the case and the cups stacked before I finish this cup. If I don't see it, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Maeve Millay",
+          "I'm already moving, Bernard. I'll have the pastries in the case and the cups stacked before you finish your coffee."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care if you're moving, I care if it's done. I'm watching you, Millay. If that pastry case isn't full and those cups aren't stacked before I finish this cup, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Maeve Millay",
+          "I'm at the case now, sir. I'm filling it and stacking the cups. I'll have it done before you finish your coffee."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care if you're at the case. I care if it's done. I'm watching you, Millay. If that pastry case isn't full and those cups aren't stacked before I finish this cup, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Maeve Millay",
+          "The case is full and the cups are stacked, sir. Please check."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm looking at it, Millay. It's not full. I see a gap on the left. And the cups are crooked. You're supposed to be efficient, not decorative. Fix it. Now. If I have to ask twice, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Maeve Millay",
+          "I'm fixing it now, sir. I'll make sure the pastries are aligned and the cups are straight."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't care if you're fixing it. I care if it's perfect. I'm watching you, Millay. If I see a single crooked cup or a gap in that case, you're on the register for the whole shift. Move."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:10:50"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "managing the cafe and monitoring the baristas (monitoring lunch rush orders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "offering help with orders while Maeve focuses on getting one right before Bernard checks @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Maeve, I'm right here. I can take the next order if it helps, just let me know. I'm sorry if I'm making you feel rushed."
+        ],
+        [
+          "Maeve Millay",
+          "Thank you, Dolores. I'm okay, just trying to keep up. I'll take this one, but I really appreciate the help. It means a lot that you're here with me."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll stay here for now. If the line gets too long, I can take the next one. Just let me know."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, thank you. I'll let you know if I need a hand. I'm just trying to make sure I get this order right before Bernard checks."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll be right here. Just let me know if you need a hand."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. I'm just going to focus on this order for now. I'll let you know if the line gets too long."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll be right here. Just let me know if you need a hand."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "offering help with orders while Maeve focuses on getting one right before Bernard checks @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Maeve, I'm right here. I can take the next order if it helps, just let me know. I'm sorry if I'm making you feel rushed."
+        ],
+        [
+          "Maeve Millay",
+          "Thank you, Dolores. I'm okay, just trying to keep up. I'll take this one, but I really appreciate the help. It means a lot that you're here with me."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll stay here for now. If the line gets too long, I can take the next one. Just let me know."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, thank you. I'll let you know if I need a hand. I'm just trying to make sure I get this order right before Bernard checks."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll be right here. Just let me know if you need a hand."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. I'm just going to focus on this order for now. I'll let you know if the line gets too long."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'll be right here. Just let me know if you need a hand."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:55:30"
+  }
+}

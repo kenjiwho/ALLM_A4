@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being intensely scrutinized by a demanding supervisor while attempting to straighten a croissant and verify an espresso machine gauge is holding at nine bars @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just finishing up the espresso station. I've already checked the bean stock and made sure everything is aligned to your specifications. Is there anything else you need me to verify before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Don't stand there asking me questions, Maeve. I can see the croissant in the case is still crooked, and I haven't seen you verify the pressure gauge is holding at nine bars. I am not leaving this spot until that display is flawless and I know the machine is stable. Fix the croissant and confirm the gauge, then we will talk."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm so sorry, I missed that. I'll straighten the croissant and check the pressure gauge right now. I'll make sure it's holding at nine bars before I come back to you."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there saying you're sorry. I don't care about your apologies, I care about results. I am not leaving this spot until I see that croissant perfectly aligned and the gauge holding steady at nine bars. Get it done now, and don't come back to me until it's flawless."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm on it right now. I'll straighten the croissant and confirm the gauge is holding at nine bars, and I'll come back to you as soon as it's done."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't you dare walk away from me. I am watching you. If that croissant is not perfectly straight and that gauge is not holding at nine bars, I will have you writing a report before the first customer walks in. Do it now."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm not walking away. I'm adjusting the croissant and checking the gauge right now. I will not move until it is exactly as you require."
+        ],
+        [
+          "Bernard Lowe",
+          "I can see your hands are shaking. Are you even capable of holding a croissant straight? I am not moving from this spot. I will watch every second you touch that display. If it is not perfect, you are done here."
+        ],
+        [
+          "Maeve Millay",
+          "I'm so sorry, Bernard. I'm trying to keep my hands steady. I am adjusting the croissant right now and checking the gauge. I will not move until it is exactly as you require."
+        ],
+        [
+          "Bernard Lowe",
+          "Shaking hands? I don't care about your nerves, I care about a straight croissant. You are trembling over a piece of pastry. Fix it. Do not let it move. I am watching you."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am holding it steady. I am checking the gauge now. It is holding at nine bars. I am sorry for the shaking. I will not move until it is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "You say it's holding at nine bars, but I don't see the needle steady. I am not taking your word for it. Keep your hand on that croissant and your eyes on the gauge. If it drops, if it wavers, if that pastry moves one millimeter, I will have you writing a report before the first customer walks in. I am watching you. Do not let it move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am keeping my hand on the croissant and my eyes on the gauge. I will not let it move or waver. I am sorry for the shaking. I will not move until it is exactly as you require."
+        ],
+        [
+          "Bernard Lowe",
+          "You are still breathing too loud. I can hear the machine rattling. If that gauge slips, if that croissant shifts, if you even blink at the wrong time, I will have you writing a report before the first customer walks in. Do not let it move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am holding my breath and keeping my hand steady. I am watching the needle. I will not let it move or waver. I am so sorry for the breathing. I will not move until it is exactly as you require."
+        ],
+        [
+          "Bernard Lowe",
+          "You are holding your breath? You are suffocating yourself over a croissant. The needle is still trembling. I am watching you. Do not let it move."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕🧽",
+      "description": "preparing drinks and keeping the cafe running at Hobbs Cafe (wiping down the counter and prep area) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being intensely scrutinized by a demanding supervisor while attempting to straighten a croissant and verify an espresso machine gauge is holding at nine bars @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just finishing up the espresso station. I've already checked the bean stock and made sure everything is aligned to your specifications. Is there anything else you need me to verify before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Don't stand there asking me questions, Maeve. I can see the croissant in the case is still crooked, and I haven't seen you verify the pressure gauge is holding at nine bars. I am not leaving this spot until that display is flawless and I know the machine is stable. Fix the croissant and confirm the gauge, then we will talk."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm so sorry, I missed that. I'll straighten the croissant and check the pressure gauge right now. I'll make sure it's holding at nine bars before I come back to you."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there saying you're sorry. I don't care about your apologies, I care about results. I am not leaving this spot until I see that croissant perfectly aligned and the gauge holding steady at nine bars. Get it done now, and don't come back to me until it's flawless."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm on it right now. I'll straighten the croissant and confirm the gauge is holding at nine bars, and I'll come back to you as soon as it's done."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't you dare walk away from me. I am watching you. If that croissant is not perfectly straight and that gauge is not holding at nine bars, I will have you writing a report before the first customer walks in. Do it now."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm not walking away. I'm adjusting the croissant and checking the gauge right now. I will not move until it is exactly as you require."
+        ],
+        [
+          "Bernard Lowe",
+          "I can see your hands are shaking. Are you even capable of holding a croissant straight? I am not moving from this spot. I will watch every second you touch that display. If it is not perfect, you are done here."
+        ],
+        [
+          "Maeve Millay",
+          "I'm so sorry, Bernard. I'm trying to keep my hands steady. I am adjusting the croissant right now and checking the gauge. I will not move until it is exactly as you require."
+        ],
+        [
+          "Bernard Lowe",
+          "Shaking hands? I don't care about your nerves, I care about a straight croissant. You are trembling over a piece of pastry. Fix it. Do not let it move. I am watching you."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am holding it steady. I am checking the gauge now. It is holding at nine bars. I am sorry for the shaking. I will not move until it is perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "You say it's holding at nine bars, but I don't see the needle steady. I am not taking your word for it. Keep your hand on that croissant and your eyes on the gauge. If it drops, if it wavers, if that pastry moves one millimeter, I will have you writing a report before the first customer walks in. I am watching you. Do not let it move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am keeping my hand on the croissant and my eyes on the gauge. I will not let it move or waver. I am sorry for the shaking. I will not move until it is exactly as you require."
+        ],
+        [
+          "Bernard Lowe",
+          "You are still breathing too loud. I can hear the machine rattling. If that gauge slips, if that croissant shifts, if you even blink at the wrong time, I will have you writing a report before the first customer walks in. Do not let it move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I am holding my breath and keeping my hand steady. I am watching the needle. I will not let it move or waver. I am so sorry for the breathing. I will not move until it is exactly as you require."
+        ],
+        [
+          "Bernard Lowe",
+          "You are holding your breath? You are suffocating yourself over a croissant. The needle is still trembling. I am watching you. Do not let it move."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:30:30"
+  }
+}

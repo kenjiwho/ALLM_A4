@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by a manager for slow register work and pastry case restocking @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve! Stop hovering and get to the register! The line is moving too slow and I can see the customers getting impatient. Move your feet!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe, I'm going to the register right now. I'll try to move faster."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't 'try' to move faster, Maeve. Do it. I'm watching the line, and I'm watching you. If that register isn't moving, I'm pulling you off it. Now get over there and start ringing people up!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving to the register now."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. And while you're at it, keep an eye on the pastry case. If it's not full, I want to know before the next customer asks. Don't make me check it myself."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm checking the pastry case now. I'll let you know if it needs restocking."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just check it, Maeve. I want it full. If there's a gap in that case, I want it filled before the next customer even looks at it. And don't come back to me with excuses. I'm watching the line, and I'm watching you. If I see you standing around, you're off the register. Now move!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm restocking the pastry case right now. I'll make sure it's full before the next customer looks at it."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say you're doing it, Maeve. I want to see it. If I catch you standing there again, I'll be the one restocking that case myself, and I'll be making a note of your performance. Now get back to that register and keep it moving!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm back at the register now. I'll keep the line moving and make sure the pastry case stays full."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say you're doing it, Maeve. I want to see it. If I catch you standing there again, I'll be the one restocking that case myself, and I'll be making a note of your performance. Now get back to that register and keep it moving!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm at the register now. I'll keep the line moving and make sure the pastry case stays full."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say you're doing it, Maeve. I want to see it. If I catch you standing there again, I'll be the one restocking that case myself, and I'll be making a note of your performance. Now get back to that register and keep it moving!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm at the register now. I'll keep the line moving and make sure the pastry case stays full."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't hear the register, Maeve. I see you standing there. I told you to keep it moving, not stand there and tell me you're doing it. If I have to come over there and tell you to ring up the next customer, you're done. Move!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe, I'm ringing up the next customer right now. I'll make sure the register is moving and I'll keep checking the pastry case."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "working at Hobbs Cafe (making espresso drinks) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly scolded by a manager for slow register work and pastry case restocking @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve! Stop hovering and get to the register! The line is moving too slow and I can see the customers getting impatient. Move your feet!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe, I'm going to the register right now. I'll try to move faster."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't 'try' to move faster, Maeve. Do it. I'm watching the line, and I'm watching you. If that register isn't moving, I'm pulling you off it. Now get over there and start ringing people up!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving to the register now."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. And while you're at it, keep an eye on the pastry case. If it's not full, I want to know before the next customer asks. Don't make me check it myself."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm checking the pastry case now. I'll let you know if it needs restocking."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just check it, Maeve. I want it full. If there's a gap in that case, I want it filled before the next customer even looks at it. And don't come back to me with excuses. I'm watching the line, and I'm watching you. If I see you standing around, you're off the register. Now move!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm restocking the pastry case right now. I'll make sure it's full before the next customer looks at it."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say you're doing it, Maeve. I want to see it. If I catch you standing there again, I'll be the one restocking that case myself, and I'll be making a note of your performance. Now get back to that register and keep it moving!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm back at the register now. I'll keep the line moving and make sure the pastry case stays full."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say you're doing it, Maeve. I want to see it. If I catch you standing there again, I'll be the one restocking that case myself, and I'll be making a note of your performance. Now get back to that register and keep it moving!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm at the register now. I'll keep the line moving and make sure the pastry case stays full."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just say you're doing it, Maeve. I want to see it. If I catch you standing there again, I'll be the one restocking that case myself, and I'll be making a note of your performance. Now get back to that register and keep it moving!"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm at the register now. I'll keep the line moving and make sure the pastry case stays full."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't hear the register, Maeve. I see you standing there. I told you to keep it moving, not stand there and tell me you're doing it. If I have to come over there and tell you to ring up the next customer, you're done. Move!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Mr. Lowe, I'm ringing up the next customer right now. I'll make sure the register is moving and I'll keep checking the pastry case."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:59:30"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "repeatedly demanding Dolores complete the register count and prepare the espresso machine before his inventory check @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores! Stop wiping the same spot and get to the register. I need the count done before I check the inventory in the back. Move it, and don't make me repeat myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it right now. I'll have the register count done and the espresso machine steaming before you get back from the inventory check."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I want that count on my desk the second you're done. And keep an eye on the espresso machine; if it's not ready when I get back, you're the one explaining it to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get the count on your desk right away and make sure the machine is steaming."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I want that count on my desk the second you're done. And keep an eye on the espresso machine; if it's not ready when I get back, you're the one explaining it to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get it done right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I want that count on my desk the second you're done. And keep an eye on the espresso machine; if it's not ready when I get back, you're the one explaining it to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving to the register now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I want that count on my desk the second you're done. And keep an eye on the espresso machine; if it's not ready when I get back, you're the one explaining it to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm at the register now. I'll have the count on your desk immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Now get it done before the first customer walks in. I'll be in the back."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "repeatedly demanding Dolores complete the register count and prepare the espresso machine before his inventory check @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores! Stop wiping the same spot and get to the register. I need the count done before I check the inventory in the back. Move it, and don't make me repeat myself."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm on it right now. I'll have the register count done and the espresso machine steaming before you get back from the inventory check."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I want that count on my desk the second you're done. And keep an eye on the espresso machine; if it's not ready when I get back, you're the one explaining it to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get the count on your desk right away and make sure the machine is steaming."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I want that count on my desk the second you're done. And keep an eye on the espresso machine; if it's not ready when I get back, you're the one explaining it to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get it done right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I want that count on my desk the second you're done. And keep an eye on the espresso machine; if it's not ready when I get back, you're the one explaining it to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving to the register now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I want that count on my desk the second you're done. And keep an eye on the espresso machine; if it's not ready when I get back, you're the one explaining it to me."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm at the register now. I'll have the count on your desk immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Now get it done before the first customer walks in. I'll be in the back."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        97,
+        37
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe (walking along the sidewalk) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:28:20"
+  }
+}

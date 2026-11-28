@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being micromanaged by Bernard over the espresso gauge and croissant placement, facing repeated threats of write-ups for perceived incompetence @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Bernard, I’ve already checked the milk storage twice this morning and made sure everything is labeled and within date. I’m ready to start taking orders whenever you are."
+        ],
+        [
+          "Bernard Lowe",
+          "Twice? That’s exactly the problem, Maeve. You can check it twice and still miss a single expired carton. I’m not letting you take orders until I’ve personally walked the line. Stay right there, keep your eyes on the pastry case, and if that croissant moves one millimeter, I’m writing it up."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Bernard. I'll stay right here and watch the croissant. I'm sorry I missed anything before; I'll make sure it doesn't move. I'll keep my eyes on the pastry case and wait for your instructions."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there looking at it, Maeve. If you see it shift, straighten it immediately. And keep the espresso machine at nine bars. I'm not leaving this spot until that case is flawless, so don't give me any excuses."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Bernard. I'm watching the croissant and I have the espresso machine set to nine bars. I'll straighten it immediately if it shifts. I'll keep everything exactly as it is and wait for your instructions."
+        ],
+        [
+          "Bernard Lowe",
+          "You say 'yes' like it's a magic word that fixes the mess. I can see the gauge drifting, and that croissant is still sitting at an angle. Stop waiting for instructions and use your hands. If I have to watch you fumble around one more time, you're on the next write-up."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Bernard. I'm adjusting the gauge now and straightening the croissant. I'll make sure it's perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me you're doing it, Maeve. I want to see it. If that gauge drops below nine bars or that croissant isn't perfectly straight, I'm writing you up. I'm not leaving this spot until it's flawless."
+        ],
+        [
+          "Maeve Millay",
+          "I am adjusting the gauge and straightening the croissant right now, Bernard. I will not stop until it is exactly as you asked."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't believe you, Maeve. I can see the needle is still wobbling and that croissant is still crooked. You are fumbling again. If you don't fix it with your own hands right now, I will do it myself and I will write you up for incompetence. I am not leaving this spot until it is perfect."
+        ],
+        [
+          "Maeve Millay",
+          "I am moving my hands to the gauge and the croissant right now, Bernard. I am physically adjusting the pressure and straightening the pastry. I will not stop until the needle is steady and the croissant is perfectly aligned."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still talking, Maeve! I want to see the needle steady and that croissant straight, not hear you promise me the world. If I have to say it one more time, I'm doing it myself and you're on the write-up. Fix it now."
+        ],
+        [
+          "Maeve Millay",
+          "I am adjusting the pressure and straightening the croissant right now, Bernard. I will not stop until the needle is steady and the croissant is perfectly aligned."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still just talking! I can see the needle is still wobbling and that croissant is still crooked. You are fumbling again. If I have to say it one more time, I'm doing it myself and you're on the write-up. Fix it now."
+        ],
+        [
+          "Maeve Millay",
+          "I'm not talking, Bernard. I am physically holding the croissant steady and turning the pressure valve now. I will not move until the needle is locked at nine bars and the pastry is straight. Please look at my hands."
+        ],
+        [
+          "Bernard Lowe",
+          "I see your hands, Maeve, but I don't see results. That croissant is still crooked and the needle is still wobbling. Stop fumbling and fix it properly, or I'm writing you up for incompetence. I'm not leaving this spot until it's perfect."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "preparing drinks and keeping the cafe running at Hobbs Cafe (steaming milk for lattes and cappuccinos) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being micromanaged by Bernard over the espresso gauge and croissant placement, facing repeated threats of write-ups for perceived incompetence @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Bernard, I’ve already checked the milk storage twice this morning and made sure everything is labeled and within date. I’m ready to start taking orders whenever you are."
+        ],
+        [
+          "Bernard Lowe",
+          "Twice? That’s exactly the problem, Maeve. You can check it twice and still miss a single expired carton. I’m not letting you take orders until I’ve personally walked the line. Stay right there, keep your eyes on the pastry case, and if that croissant moves one millimeter, I’m writing it up."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Bernard. I'll stay right here and watch the croissant. I'm sorry I missed anything before; I'll make sure it doesn't move. I'll keep my eyes on the pastry case and wait for your instructions."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there looking at it, Maeve. If you see it shift, straighten it immediately. And keep the espresso machine at nine bars. I'm not leaving this spot until that case is flawless, so don't give me any excuses."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, Bernard. I'm watching the croissant and I have the espresso machine set to nine bars. I'll straighten it immediately if it shifts. I'll keep everything exactly as it is and wait for your instructions."
+        ],
+        [
+          "Bernard Lowe",
+          "You say 'yes' like it's a magic word that fixes the mess. I can see the gauge drifting, and that croissant is still sitting at an angle. Stop waiting for instructions and use your hands. If I have to watch you fumble around one more time, you're on the next write-up."
+        ],
+        [
+          "Maeve Millay",
+          "I'm sorry, Bernard. I'm adjusting the gauge now and straightening the croissant. I'll make sure it's perfect."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just tell me you're doing it, Maeve. I want to see it. If that gauge drops below nine bars or that croissant isn't perfectly straight, I'm writing you up. I'm not leaving this spot until it's flawless."
+        ],
+        [
+          "Maeve Millay",
+          "I am adjusting the gauge and straightening the croissant right now, Bernard. I will not stop until it is exactly as you asked."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't believe you, Maeve. I can see the needle is still wobbling and that croissant is still crooked. You are fumbling again. If you don't fix it with your own hands right now, I will do it myself and I will write you up for incompetence. I am not leaving this spot until it is perfect."
+        ],
+        [
+          "Maeve Millay",
+          "I am moving my hands to the gauge and the croissant right now, Bernard. I am physically adjusting the pressure and straightening the pastry. I will not stop until the needle is steady and the croissant is perfectly aligned."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still talking, Maeve! I want to see the needle steady and that croissant straight, not hear you promise me the world. If I have to say it one more time, I'm doing it myself and you're on the write-up. Fix it now."
+        ],
+        [
+          "Maeve Millay",
+          "I am adjusting the pressure and straightening the croissant right now, Bernard. I will not stop until the needle is steady and the croissant is perfectly aligned."
+        ],
+        [
+          "Bernard Lowe",
+          "You're still just talking! I can see the needle is still wobbling and that croissant is still crooked. You are fumbling again. If I have to say it one more time, I'm doing it myself and you're on the write-up. Fix it now."
+        ],
+        [
+          "Maeve Millay",
+          "I'm not talking, Bernard. I am physically holding the croissant steady and turning the pressure valve now. I will not move until the needle is locked at nine bars and the pastry is straight. Please look at my hands."
+        ],
+        [
+          "Bernard Lowe",
+          "I see your hands, Maeve, but I don't see results. That croissant is still crooked and the needle is still wobbling. Stop fumbling and fix it properly, or I'm writing you up for incompetence. I'm not leaving this spot until it's perfect."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:55:50"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "☕🔑",
+      "description": "opening Hobbs Cafe and managing baristas (unlocking the storage room) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating opening shift tasks, including counting the register and preparing the espresso machine, while ensuring Bernard does not notice Maeve's help @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores! I'm just getting here. How's the morning going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve. I'm fine, just trying to get the espresso machine ready before Bernard comes back from the inventory check. I need to finish the register count and put it on his desk, too. It's a bit stressful, but I'm trying to keep up."
+        ],
+        [
+          "Maeve Millay",
+          "Oh, I'm sorry, I didn't realize Bernard was still out. I'll grab the register and help you count it so you can focus on the espresso. Let me just put my bag down first."
+        ],
+        [
+          "Dolores Abernathy",
+          "That would be great, thank you. I'm just trying to get the espresso machine steaming in time. Please don't let Bernard see you helping, he might think I'm not managing the opening tasks properly."
+        ],
+        [
+          "Maeve Millay",
+          "Don't worry, I'll be quick and quiet. I'll just count it up and leave it on his desk. You focus on the espresso, I've got this."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you, Maeve. I'll keep an eye on the steam wand. Please make sure the register count is exactly right, he's very particular about those numbers."
+        ],
+        [
+          "Maeve Millay",
+          "I will be very careful. I'll count it twice to make sure it's exactly right. You just focus on the espresso."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, thank you. I'll keep an eye on the clock. Just make sure it's on his desk before he gets back, please."
+        ],
+        [
+          "Maeve Millay",
+          "Got it. I'll make sure it's on his desk before he gets back. Good luck with the steam wand."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve. I'll focus on the steam wand now. Please make sure it's on his desk before he gets back."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating opening shift tasks, including counting the register and preparing the espresso machine, while ensuring Bernard does not notice Maeve's help @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores! I'm just getting here. How's the morning going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve. I'm fine, just trying to get the espresso machine ready before Bernard comes back from the inventory check. I need to finish the register count and put it on his desk, too. It's a bit stressful, but I'm trying to keep up."
+        ],
+        [
+          "Maeve Millay",
+          "Oh, I'm sorry, I didn't realize Bernard was still out. I'll grab the register and help you count it so you can focus on the espresso. Let me just put my bag down first."
+        ],
+        [
+          "Dolores Abernathy",
+          "That would be great, thank you. I'm just trying to get the espresso machine steaming in time. Please don't let Bernard see you helping, he might think I'm not managing the opening tasks properly."
+        ],
+        [
+          "Maeve Millay",
+          "Don't worry, I'll be quick and quiet. I'll just count it up and leave it on his desk. You focus on the espresso, I've got this."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you, Maeve. I'll keep an eye on the steam wand. Please make sure the register count is exactly right, he's very particular about those numbers."
+        ],
+        [
+          "Maeve Millay",
+          "I will be very careful. I'll count it twice to make sure it's exactly right. You just focus on the espresso."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, thank you. I'll keep an eye on the clock. Just make sure it's on his desk before he gets back, please."
+        ],
+        [
+          "Maeve Millay",
+          "Got it. I'll make sure it's on his desk before he gets back. Good luck with the steam wand."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve. I'll focus on the steam wand now. Please make sure it's on his desk before he gets back."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:36:50"
+  }
+}

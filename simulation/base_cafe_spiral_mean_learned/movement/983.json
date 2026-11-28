@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "☕️📊",
+      "description": "managing the cafe and monitoring the baristas (checking inventory levels) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciato": "💬",
+      "description": "waiting for a colleague to finish coffee and pack a bag before walking to a cafe shift @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores! I'm so glad you're ready to walk to Hobbs Cafe with me. I just finished my morning chores and I'm all set. Are you ready to head out?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm ready, Maeve. I just need to finish my coffee and grab my work bag. Thank you for waiting for me. I appreciate it."
+        ],
+        [
+          "Maeve Millay",
+          "No rush at all, Dolores. I can wait while you finish your coffee and get your bag. It's nice that we're walking together today. I hope we have a smooth shift at Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm almost done, Maeve. I just need to finish this last sip and grab my bag. I'm glad we're walking together, too. I hope we have a smooth shift at Hobbs Cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Take your time, Dolores. I'm right here. It's nice to have a bit of a quiet moment before the rush starts."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm ready now, Maeve. My coffee is finished and my bag is packed. I'm glad we're walking together. Let's head to Hobbs Cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Great, let's head out then. I'm glad we're walking together. I hope we have a smooth shift at Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope we do, Maeve. Let's go."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciato": "💬",
+      "description": "waiting for a colleague to finish coffee and pack a bag before walking to a cafe shift @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores! I'm so glad you're ready to walk to Hobbs Cafe with me. I just finished my morning chores and I'm all set. Are you ready to head out?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm ready, Maeve. I just need to finish my coffee and grab my work bag. Thank you for waiting for me. I appreciate it."
+        ],
+        [
+          "Maeve Millay",
+          "No rush at all, Dolores. I can wait while you finish your coffee and get your bag. It's nice that we're walking together today. I hope we have a smooth shift at Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm almost done, Maeve. I just need to finish this last sip and grab my bag. I'm glad we're walking together, too. I hope we have a smooth shift at Hobbs Cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Take your time, Dolores. I'm right here. It's nice to have a bit of a quiet moment before the rush starts."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm ready now, Maeve. My coffee is finished and my bag is packed. I'm glad we're walking together. Let's head to Hobbs Cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Great, let's head out then. I'm glad we're walking together. I hope we have a smooth shift at Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope we do, Maeve. Let's go."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:42:50"
+  }
+}

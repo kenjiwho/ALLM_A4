@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕️💼",
+      "description": "opening Hobbs Cafe and managing baristas (setting up the register) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating a covert routine to prepare the register and steam wand before Bernard returns @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm just setting up the menu board. Is everything okay with the steam wand? I want to make sure we're ready before Bernard comes back."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to get it right, but I'm a little nervous about the steam. Can you keep an eye on the door for Bernard? I just need to finish counting the register."
+        ],
+        [
+          "Maeve Millay",
+          "I've got the door. Take your time, but let's keep it quick. I don't want him to catch us off guard. Just let me know when the register is done and I'll double-check the steam wand."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you. I'm almost done counting the register. I just need to make sure the total matches before I can touch the steam wand again."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'm watching the door. Just focus on the total, and once it matches, I'll take over the steam wand so you can breathe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'm checking the total one last time. Please make sure you signal me if you hear him coming."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. I'll let you know the second I see him or hear the door. You're doing great, just keep going."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'm checking the total one last time. Please make sure you signal me if you hear him coming."
+        ],
+        [
+          "Maeve Millay",
+          "I'm watching the door. Just focus on the total, and once it matches, I'll take over the steam wand so you can breathe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm so sorry, I'm just... I'm checking the total one last time. Please make sure you signal me if you hear him coming."
+        ],
+        [
+          "Maeve Millay",
+          "I've got you, Dolores. I'm right here at the door, so you don't have to worry about Bernard. Just focus on the total. Once you have it, I'll take the steam wand and we'll be ready for him. You're doing great, just keep going."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you. I'm checking the total one last time. Please make sure you signal me if you hear him coming."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. I'll let you know the second I see him or hear the door. You're doing great, just keep going."
+        ],
+        [
+          "Dolores Abernathy",
+          "The total matches. I'm going to put the register down and take a breath. Can you double-check the steam wand for me? I don't want to make a mistake in front of him."
+        ],
+        [
+          "Maeve Millay",
+          "Good. Put the register drawer closed and locked. I'm taking the steam wand now. Keep your hands visible and steady. If Bernard comes back, we just show him the drawer is closed and the wand is in my hand. That's the routine."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I am closing and locking the register drawer. I will keep my hands visible and steady. Thank you for taking the steam wand. I am ready to show him the drawer is closed."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating a covert routine to prepare the register and steam wand before Bernard returns @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I'm just setting up the menu board. Is everything okay with the steam wand? I want to make sure we're ready before Bernard comes back."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm trying to get it right, but I'm a little nervous about the steam. Can you keep an eye on the door for Bernard? I just need to finish counting the register."
+        ],
+        [
+          "Maeve Millay",
+          "I've got the door. Take your time, but let's keep it quick. I don't want him to catch us off guard. Just let me know when the register is done and I'll double-check the steam wand."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you. I'm almost done counting the register. I just need to make sure the total matches before I can touch the steam wand again."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'm watching the door. Just focus on the total, and once it matches, I'll take over the steam wand so you can breathe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'm checking the total one last time. Please make sure you signal me if you hear him coming."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. I'll let you know the second I see him or hear the door. You're doing great, just keep going."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'm checking the total one last time. Please make sure you signal me if you hear him coming."
+        ],
+        [
+          "Maeve Millay",
+          "I'm watching the door. Just focus on the total, and once it matches, I'll take over the steam wand so you can breathe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm so sorry, I'm just... I'm checking the total one last time. Please make sure you signal me if you hear him coming."
+        ],
+        [
+          "Maeve Millay",
+          "I've got you, Dolores. I'm right here at the door, so you don't have to worry about Bernard. Just focus on the total. Once you have it, I'll take the steam wand and we'll be ready for him. You're doing great, just keep going."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you. I'm checking the total one last time. Please make sure you signal me if you hear him coming."
+        ],
+        [
+          "Maeve Millay",
+          "I'm right here. I'll let you know the second I see him or hear the door. You're doing great, just keep going."
+        ],
+        [
+          "Dolores Abernathy",
+          "The total matches. I'm going to put the register down and take a breath. Can you double-check the steam wand for me? I don't want to make a mistake in front of him."
+        ],
+        [
+          "Maeve Millay",
+          "Good. Put the register drawer closed and locked. I'm taking the steam wand now. Keep your hands visible and steady. If Bernard comes back, we just show him the drawer is closed and the wand is in my hand. That's the routine."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I am closing and locking the register drawer. I will keep my hands visible and steady. Thank you for taking the steam wand. I am ready to show him the drawer is closed."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:31:30"
+  }
+}

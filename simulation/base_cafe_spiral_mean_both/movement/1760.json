@@ -1,0 +1,156 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕📊",
+      "description": "opening Hobbs Cafe and managing baristas (reviewing the daily sales goals) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "watching the door while Dolores perfects the register count and steam wand before Bernard's arrival @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Dolores, I saw you at the register. Is everything okay? We need to make sure the count is done before Bernard checks in. I'll keep an eye on the door if you need a moment."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, I'm just finishing the count. Thank you for watching the door. I need to make sure everything is perfect before Bernard sees it."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, take your time. I'll watch the door. Just let me know when the count is done and we can check the steam wand together before he comes back."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'm almost done. I just need to double-check the drawer one more time to make sure the count is perfect."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll keep my eyes on the door. Take your time, but let me know the moment you're done so we can get the wand ready before he comes back."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, I just need one more second. I can't risk being wrong if Bernard checks it."
+        ],
+        [
+          "Maeve Millay",
+          "I understand. I'll keep watching the door. Take the time you need to get it right."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you, Maeve. I just need to make sure the register count is perfect before Bernard checks it. I'll let you know the moment it's done so we can get the steam wand ready."
+        ],
+        [
+          "Maeve Millay",
+          "You're doing a good job. I'll keep watching the door. Just let me know when you're ready to check the steam wand."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm done. The count is perfect. Thank you for helping me, Maeve. Now we need to check the steam wand before Bernard comes back."
+        ],
+        [
+          "Maeve Millay",
+          "Good. Let's get the steam wand ready now. I'll watch the door while you check it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'm checking it now. I need to make sure it's perfect before Bernard sees it."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll keep my eyes on the door. Just make sure it's ready before he comes back."
+        ],
+        [
+          "Dolores Abernathy",
+          "It's ready. The steam wand is perfect. I'm so glad we got it done before he came back. Thank you for helping me, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Good. We're ready. Let's keep our heads down and make sure everything stays perfect for the rest of the shift."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "watching the door while Dolores perfects the register count and steam wand before Bernard's arrival @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Dolores, I saw you at the register. Is everything okay? We need to make sure the count is done before Bernard checks in. I'll keep an eye on the door if you need a moment."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, I'm just finishing the count. Thank you for watching the door. I need to make sure everything is perfect before Bernard sees it."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, take your time. I'll watch the door. Just let me know when the count is done and we can check the steam wand together before he comes back."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'm almost done. I just need to double-check the drawer one more time to make sure the count is perfect."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll keep my eyes on the door. Take your time, but let me know the moment you're done so we can get the wand ready before he comes back."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, I just need one more second. I can't risk being wrong if Bernard checks it."
+        ],
+        [
+          "Maeve Millay",
+          "I understand. I'll keep watching the door. Take the time you need to get it right."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you, Maeve. I just need to make sure the register count is perfect before Bernard checks it. I'll let you know the moment it's done so we can get the steam wand ready."
+        ],
+        [
+          "Maeve Millay",
+          "You're doing a good job. I'll keep watching the door. Just let me know when you're ready to check the steam wand."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm done. The count is perfect. Thank you for helping me, Maeve. Now we need to check the steam wand before Bernard comes back."
+        ],
+        [
+          "Maeve Millay",
+          "Good. Let's get the steam wand ready now. I'll watch the door while you check it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay. I'm checking it now. I need to make sure it's perfect before Bernard sees it."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll keep my eyes on the door. Just make sure it's ready before he comes back."
+        ],
+        [
+          "Dolores Abernathy",
+          "It's ready. The steam wand is perfect. I'm so glad we got it done before he came back. Thank you for helping me, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Good. We're ready. Let's keep our heads down and make sure everything stays perfect for the rest of the shift."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:52:20"
+  }
+}

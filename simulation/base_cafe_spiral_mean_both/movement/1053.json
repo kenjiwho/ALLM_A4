@@ -1,0 +1,156 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly berated by a manager for slacking and threatened with discipline for failing to count the register and steam the espresso machine before he returns from inventory @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Abernathy! Eyes off the steam wand and on the register. I want that count on my desk before I finish my inventory check, or I'm writing you up for wasting company time. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm on it right now. I'll have the count on your desk before you're back from the inventory check."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't 'be on it,' Abernathy. I want it done, not promised. And while you're at it, make sure the espresso machine is steaming. I'm not waiting around for you to figure out how to do a job you should already know. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get the count on your desk and have the machine steaming right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there looking at the floor, Abernathy. I want to see that register count on my desk and the machine steaming before I get back. If I see you wasting a single second, I'm writing you up. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving to the register now. I'll have the count on your desk and the machine steaming before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there looking at the floor, Abernathy. I want to see that register count on my desk and the machine steaming before I get back. If I see you wasting a single second, I'm writing you up. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving to the register now. I'll have the count on your desk and the machine steaming before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want your word, Abernathy, I want the count on my desk. You have until I get back from the back room. If the register is off by a dime, you're cleaning the floors until close. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm counting it now. I'll have it on your desk before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there, Abernathy. I want to see that count on my desk and the machine steaming before I get back. If I see you wasting a single second, I'm writing you up. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm counting it now. I'll have it on your desk before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "I can see you're still standing there, Abernathy. I don't have all day to watch you fumble with the register. I'm going to the back room now. If that count isn't on my desk and the machine isn't steaming when I get back, you're done. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm counting it now. I'll have it on your desk before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm going to the back room now. If that count isn't on my desk and the machine isn't steaming when I get back, you're done. Move it!"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly berated by a manager for slacking and threatened with discipline for failing to count the register and steam the espresso machine before he returns from inventory @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Abernathy! Eyes off the steam wand and on the register. I want that count on my desk before I finish my inventory check, or I'm writing you up for wasting company time. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm on it right now. I'll have the count on your desk before you're back from the inventory check."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't 'be on it,' Abernathy. I want it done, not promised. And while you're at it, make sure the espresso machine is steaming. I'm not waiting around for you to figure out how to do a job you should already know. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get the count on your desk and have the machine steaming right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there looking at the floor, Abernathy. I want to see that register count on my desk and the machine steaming before I get back. If I see you wasting a single second, I'm writing you up. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving to the register now. I'll have the count on your desk and the machine steaming before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there looking at the floor, Abernathy. I want to see that register count on my desk and the machine steaming before I get back. If I see you wasting a single second, I'm writing you up. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving to the register now. I'll have the count on your desk and the machine steaming before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want your word, Abernathy, I want the count on my desk. You have until I get back from the back room. If the register is off by a dime, you're cleaning the floors until close. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm counting it now. I'll have it on your desk before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there, Abernathy. I want to see that count on my desk and the machine steaming before I get back. If I see you wasting a single second, I'm writing you up. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm counting it now. I'll have it on your desk before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "I can see you're still standing there, Abernathy. I don't have all day to watch you fumble with the register. I'm going to the back room now. If that count isn't on my desk and the machine isn't steaming when I get back, you're done. Move it!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm counting it now. I'll have it on your desk before you return."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm going to the back room now. If that count isn't on my desk and the machine isn't steaming when I get back, you're done. Move it!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe (entering the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:54:30"
+  }
+}

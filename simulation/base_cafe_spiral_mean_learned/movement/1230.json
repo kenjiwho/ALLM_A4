@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being reprimanded by his manager for failing to complete pre-opening tasks and being given a strict deadline to finish them @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores! Are you just standing there? The espresso machine is still warming up. I told you to have the counter wiped, the milk checked, the cups restocked, and the pastry case filled before I got here. We open in ten minutes. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm moving. I have the espresso machine warming and I'm checking the milk right now. I'll have the counter wiped and the cups restocked before the first customer comes in. I'm just trying to make sure everything is done correctly."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me excuses, Dolores. 'Correctly' means done before I have to ask twice. You have five minutes to finish the counter, the milk, the cups, and that pastry case. If I see you standing around again, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I understand. I'll get the counter wiped, the milk checked, the cups restocked, and the pastry case filled right now. I won't stand around. I'm sorry for the delay."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't apologize, just work. I'll be watching."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get right on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Don't make me come over there and check it myself. I want that pastry case looking full and those cups lined up straight. If I see one crooked cup when I walk by, you're cleaning the floors with a toothbrush. Now get to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving right now. I'll have the counter wiped, the milk checked, the cups lined up straight, and the pastry case filled before you walk by."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I'll be watching."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being reprimanded by his manager for failing to complete pre-opening tasks and being given a strict deadline to finish them @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores! Are you just standing there? The espresso machine is still warming up. I told you to have the counter wiped, the milk checked, the cups restocked, and the pastry case filled before I got here. We open in ten minutes. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm sorry, Mr. Lowe. I'm moving. I have the espresso machine warming and I'm checking the milk right now. I'll have the counter wiped and the cups restocked before the first customer comes in. I'm just trying to make sure everything is done correctly."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't give me excuses, Dolores. 'Correctly' means done before I have to ask twice. You have five minutes to finish the counter, the milk, the cups, and that pastry case. If I see you standing around again, you're on the register for the whole shift. Move."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I understand. I'll get the counter wiped, the milk checked, the cups restocked, and the pastry case filled right now. I won't stand around. I'm sorry for the delay."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't apologize, just work. I'll be watching."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'll get right on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Don't make me come over there and check it myself. I want that pastry case looking full and those cups lined up straight. If I see one crooked cup when I walk by, you're cleaning the floors with a toothbrush. Now get to it."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm moving right now. I'll have the counter wiped, the milk checked, the cups lined up straight, and the pastry case filled before you walk by."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. I'll be watching."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕🔓",
+      "description": "working at Hobbs Cafe (unlocking the cafe entrance) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:24:00"
+  }
+}

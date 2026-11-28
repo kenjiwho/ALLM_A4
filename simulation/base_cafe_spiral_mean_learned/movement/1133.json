@@ -1,0 +1,148 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕👨‍🍳",
+      "description": "managing the cafe and monitoring the baristas (assigning barista tasks) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "dividing pre-shift coffee shop tasks, with Dolores handling the espresso machine and Maeve the counter and milk, to be ready before Bernard arrives @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Oh, Maeve! I'm sorry, I didn't see you. I was just putting on my apron. I'm glad you're here. I hope you had a good breakfast. I'm ready to start our shift now. Do you want to go inside and start with the espresso machine?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, let's get started. I just unlocked the door. Bernard wants the counter wiped down and the pastry case filled before we open, so maybe you can take the espresso machine and I'll handle the counter and milk check?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll take the espresso machine. I'll make sure to check the milk and restock the cups while I'm at it. I'm glad we have a plan, it makes me feel less worried about Bernard watching the clock. Let's get started."
+        ],
+        [
+          "Maeve Millay",
+          "Great, let's get to it. I'll start wiping down the counter and checking the milk. Let's make sure everything is ready before Bernard gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll get right to it. I'm glad we have a plan, it helps me feel less worried about Bernard watching the clock. Let's make sure everything is ready before he gets here."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. I'll get started on the counter right away. Let's make sure we're ready before Bernard gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll get started on the espresso machine right away. I'm glad we have a plan, it helps me feel less worried about Bernard watching the clock. Let's make sure everything is ready before he gets here."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll get started on the counter right away. Let's make sure we're ready before Bernard gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll get started on the espresso machine right away. I'm glad we have a plan, it helps me feel less worried about Bernard watching the clock. Let's make sure everything is ready before he gets here."
+        ],
+        [
+          "Maeve Millay",
+          "I'm just going to get started on the counter now. Let's make sure everything is ready before Bernard gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll get started on the espresso machine right away. I'm glad we have a plan, it helps me feel less worried about Bernard watching the clock. Let's make sure everything is ready before he gets here."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'm heading to the counter now. Let's get this done before the rush starts."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll get started on the espresso machine right away. I'm glad we have a plan, it helps me feel less worried about Bernard watching the clock. Let's make sure everything is ready before he gets here."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll get started on the counter now. Let's make sure everything is ready before Bernard gets here."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "dividing pre-shift coffee shop tasks, with Dolores handling the espresso machine and Maeve the counter and milk, to be ready before Bernard arrives @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Oh, Maeve! I'm sorry, I didn't see you. I was just putting on my apron. I'm glad you're here. I hope you had a good breakfast. I'm ready to start our shift now. Do you want to go inside and start with the espresso machine?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, let's get started. I just unlocked the door. Bernard wants the counter wiped down and the pastry case filled before we open, so maybe you can take the espresso machine and I'll handle the counter and milk check?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll take the espresso machine. I'll make sure to check the milk and restock the cups while I'm at it. I'm glad we have a plan, it makes me feel less worried about Bernard watching the clock. Let's get started."
+        ],
+        [
+          "Maeve Millay",
+          "Great, let's get to it. I'll start wiping down the counter and checking the milk. Let's make sure everything is ready before Bernard gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll get right to it. I'm glad we have a plan, it helps me feel less worried about Bernard watching the clock. Let's make sure everything is ready before he gets here."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. I'll get started on the counter right away. Let's make sure we're ready before Bernard gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll get started on the espresso machine right away. I'm glad we have a plan, it helps me feel less worried about Bernard watching the clock. Let's make sure everything is ready before he gets here."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll get started on the counter right away. Let's make sure we're ready before Bernard gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll get started on the espresso machine right away. I'm glad we have a plan, it helps me feel less worried about Bernard watching the clock. Let's make sure everything is ready before he gets here."
+        ],
+        [
+          "Maeve Millay",
+          "I'm just going to get started on the counter now. Let's make sure everything is ready before Bernard gets here."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll get started on the espresso machine right away. I'm glad we have a plan, it helps me feel less worried about Bernard watching the clock. Let's make sure everything is ready before he gets here."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'm heading to the counter now. Let's get this done before the rush starts."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, I'll get started on the espresso machine right away. I'm glad we have a plan, it helps me feel less worried about Bernard watching the clock. Let's make sure everything is ready before he gets here."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, I'll get started on the counter now. Let's make sure everything is ready before Bernard gets here."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:07:50"
+  }
+}

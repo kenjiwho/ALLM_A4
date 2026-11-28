@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly and aggressively pressured by a supervisor to clean the counter and stack cups before he finishes his coffee, with threats of register duty if any smudges remain @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "I'm just turning on the lights, Mr. Lowe. I'll get the counter wiped down and the cups stacked right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. I need those cups stacked and the counter wiped before I even finish my coffee. Move it."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm on it right now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear 'right now' if I can't see it. Get those cups lined up straight and that counter spotless before I finish this cup. If I have to look at a single smudge, you're on the register all day. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving them now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Maeve. If that counter isn't spotless and those cups aren't lined up straight before I finish this coffee, you're on the register all day. No excuses."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving them now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Maeve. If that counter isn't spotless and those cups aren't lined up straight before I finish this coffee, you're on the register all day. No excuses."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving them now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Maeve. If that counter isn't spotless and those cups aren't lined up straight before I finish this coffee, you're on the register all day. No excuses."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving them now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Maeve. If that counter isn't spotless and those cups aren't lined up straight before I finish this coffee, you're on the register all day. No excuses."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving them now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Maeve. If that counter isn't spotless and those cups aren't lined up straight before I finish this coffee, you're on the register all day. No excuses."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving them now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Maeve. If that counter isn't spotless and those cups aren't lined up straight before I finish this coffee, you're on the register all day. No excuses."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "working at Hobbs Cafe (warming up the espresso machine) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being repeatedly and aggressively pressured by a supervisor to clean the counter and stack cups before he finishes his coffee, with threats of register duty if any smudges remain @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "I'm just turning on the lights, Mr. Lowe. I'll get the counter wiped down and the cups stacked right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there. I need those cups stacked and the counter wiped before I even finish my coffee. Move it."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm on it right now."
+        ],
+        [
+          "Bernard Lowe",
+          "I don't want to hear 'right now' if I can't see it. Get those cups lined up straight and that counter spotless before I finish this cup. If I have to look at a single smudge, you're on the register all day. Move."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving them now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Maeve. If that counter isn't spotless and those cups aren't lined up straight before I finish this coffee, you're on the register all day. No excuses."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving them now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Maeve. If that counter isn't spotless and those cups aren't lined up straight before I finish this coffee, you're on the register all day. No excuses."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving them now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Maeve. If that counter isn't spotless and those cups aren't lined up straight before I finish this coffee, you're on the register all day. No excuses."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving them now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Maeve. If that counter isn't spotless and those cups aren't lined up straight before I finish this coffee, you're on the register all day. No excuses."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving them now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Maeve. If that counter isn't spotless and those cups aren't lined up straight before I finish this coffee, you're on the register all day. No excuses."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm moving them now."
+        ],
+        [
+          "Bernard Lowe",
+          "I'm watching you, Maeve. If that counter isn't spotless and those cups aren't lined up straight before I finish this coffee, you're on the register all day. No excuses."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:30:50"
+  }
+}
